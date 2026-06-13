@@ -276,8 +276,8 @@
       "c) Hasta 1 m.",
       "d) Hasta 1 km."
     ],
-    "correct": 3,
-    "correct_letter": "D"
+    "correct": 1,
+    "correct_letter": "B"
   },
   {
     "id": "sts_test_3_01",
@@ -1466,8 +1466,8 @@
       "c) 500 m.",
       "d) 1 Km."
     ],
-    "correct": 0,
-    "correct_letter": "A"
+    "correct": 3,
+    "correct_letter": "D"
   },
   {
     "id": "sts_test_9_26",
