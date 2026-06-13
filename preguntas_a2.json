@@ -1,0 +1,2200 @@
+[
+  {
+    "id": "a2_test_1_01",
+    "test": "Test 1",
+    "number": 1,
+    "question": "¿Qué comportamiento se puede esperar de la aeronave no tripulada en caso de encontrar turbulencia durante una operación?",
+    "answers": [
+      "a) La aeronave no tripulada se comportará de manera predecible.",
+      "b) La aeronave no tripulada verá ralentizada su velocidad.",
+      "c) Ningún comportamiento anómalo, la aeronave no tripulada se mantendrá estable.",
+      "d) La aeronave no tripulada tendrá dificultadas para mantener una posición o trayectoria estable."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_1_02",
+    "test": "Test 1",
+    "number": 2,
+    "question": "En comparación con un área sin obstáculos, las velocidades del viento en las proximidades de obstáculos o en ciudades son: 1. Mucho más bajas justo por encima del suelo. 2. Aumentan más rápido al aumentar la altura 3. Mucho más altas justo por encima del suelo 4. Aumentan más despacio al aumentar la altura",
+    "answers": [
+      "a) 1 y 3",
+      "b) 1 y 2",
+      "c) 2 y 4",
+      "d) 3 y 4"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_1_03",
+    "test": "Test 1",
+    "number": 3,
+    "question": "La visibilidad a nivel del suelo se puede ver reducida debido a: 1. Niebla. 2. Lluvia. 3. Viento. 4. Nubes.",
+    "answers": [
+      "a) 3 y 4.",
+      "b) 1 y 2.",
+      "c) 2 y 4.",
+      "d) 1 y 3."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_1_04",
+    "test": "Test 1",
+    "number": 4,
+    "question": "Si durante una operación de UAS hay viento. ¿Qué debemos tener en cuenta?",
+    "answers": [
+      "a) Sólo un piloto a distancia que disponga de un certificado para volar en situaciones de riesgo puede volar esta operación.",
+      "b) En operaciones con viento no es posible realizar aterrizajes automáticos con GPS.",
+      "c) El rango operativo de la aeronave no tripulada puede verse afectado.",
+      "d) El viento causa turbulencias a elevadas alturas, por lo que no se debe volar demasiado alto."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_1_05",
+    "test": "Test 1",
+    "number": 5,
+    "question": "¿Dónde se produce el fenómeno de las turbulencias con mayor frecuencia?",
+    "answers": [
+      "a) En las inmediaciones de obstáculos.",
+      "b) Sobre el agua.",
+      "c) Sobre el campo.",
+      "d) Sólo ocurre en elevadas alturas de vuelo."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_1_06",
+    "test": "Test 1",
+    "number": 6,
+    "question": "¿Cómo puede afectar la lluvia a una aeronave no tripulada en vuelo?",
+    "answers": [
+      "a) Aumentará la resistencia mecánica de la aeronave no tripulada.",
+      "b) La aeronave no tripulada ascenderá de manera incontrolada.",
+      "c) Aumentará la velocidad de la aeronave no tripulada.",
+      "d) Puede afectar negativamente a los sistemas eléctricos de la aeronave no tripulada."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_1_07",
+    "test": "Test 1",
+    "number": 7,
+    "question": "En un área sin obstáculos, la velocidad del viento a 100m sobre el nivel del suelo es:",
+    "answers": [
+      "a) Hasta un 50% mayor que a nivel del suelo.",
+      "b) LHasta un 100% mayor que a nivel del suelo.",
+      "c) Hasta un 50% menor que a nivel del suelo.",
+      "d) Hasta un 100% menor que a nivel del suelo."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_1_08",
+    "test": "Test 1",
+    "number": 8,
+    "question": "En una zona de alta montaña la duración del vuelo con UAS es:",
+    "answers": [
+      "a) Menor debido al aumento de la densidad del aire.",
+      "b) Mayor debido a la disminución de la densidad del aire",
+      "c) Mayor debido al aumento de la densidad del aire.",
+      "d) Menor debido a la disminución de la densidad del aire."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_1_09",
+    "test": "Test 1",
+    "number": 9,
+    "question": "¿En qué afecta el efecto del viento en las características de vuelo del UAS?",
+    "answers": [
+      "a) El plan de vuelo.",
+      "b) La maniobrabilidad y la autonomía de la aeronave no tripulada.",
+      "c) La calidad de señal del sistema para la navegación por satélite “GNSS” , por sus siglas “global navigation satellite system”",
+      "d) La carga de las baterías."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_2_01",
+    "test": "Test 2",
+    "number": 1,
+    "question": "Las siglas en inglés “MTOM” significan:",
+    "answers": [
+      "a) Masa máxima de derribo (máximum take-down mass).",
+      "b) Masa mínima de despegue (mínimum take-off mass).",
+      "c) Masa máxima de despegue (máximum take-off mass).",
+      "d) Masa de despegue de giroavión (multirotor take-off mass)."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_2_02",
+    "test": "Test 2",
+    "number": 2,
+    "question": "¿Qué se tiene que tener en cuenta si la velocidad del viento está justo por debajo de la máxima indicada en las instrucciones facilitadas por el fabricante de UAS?",
+    "answers": [
+      "a) Mejorará el rendimiento de la aeronave no tripulada.",
+      "b) Se dificultará la controlabilidad de la aeronave no tripulada.",
+      "c) El rango operativo de vuelo se verá mermado",
+      "d) Mejorará la duración de la batería"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_2_03",
+    "test": "Test 2",
+    "number": 3,
+    "question": "¿Cómo afecta el incremento de la MTOM de una aeronave no tripulada a la potencia para el despegue?",
+    "answers": [
+      "a) Es necesaria más potencia para el despegue.",
+      "b) No afecta a la potencia necesaria para el despegue.",
+      "c) Sólo es necesario más potencia si el incremento de la MTOM no está equilibrado.",
+      "d) Es necesaria menos potencia para el despegue."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_2_04",
+    "test": "Test 2",
+    "number": 4,
+    "question": "¿Qué indica en una batería el término “40C”?",
+    "answers": [
+      "a) Corriente máxima de descarga de 40A.",
+      "b) Tasa de descarga máxima.",
+      "c) Máxima temperatura de operación.",
+      "d) Factor de corriente de descarga máximo."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_2_05",
+    "test": "Test 2",
+    "number": 5,
+    "question": "Cuando una batería llega al final de su vida útil:",
+    "answers": [
+      "a) Su temperatura disminuye vuelo tras vuelo.",
+      "b) Se comienza a oxidar y se vuelve de color blanco.",
+      "c) Su temperatura aumenta vuelo tras vuelo",
+      "d) Se comienza a oxidar y se vuelve de color negro."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_2_06",
+    "test": "Test 2",
+    "number": 6,
+    "question": "El modo de carga recomendado para las baterías LIPO es:",
+    "answers": [
+      "a) Carga rápida.",
+      "b) Carga máxima.",
+      "c) Carga lenta.",
+      "d) Carga equilibrada."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_2_07",
+    "test": "Test 2",
+    "number": 7,
+    "question": "¿Qué se debe hacer cuando una batería está hinchada?",
+    "answers": [
+      "a) Dejar enfriar la batería y volverla a usar.",
+      "b) Usar un máximo de 10 veces más y reemplazar.",
+      "c) Perforar el paquete de la batería",
+      "d) Reemplazar la batería inmediatamente."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_2_08",
+    "test": "Test 2",
+    "number": 8,
+    "question": "¿Qué se debe tener en cuenta respecto a las baterías al realizar una operación con UAS a una temperatura de -10ºC?",
+    "answers": [
+      "a) Es necesario precalentar las baterías antes del uso y mantenerla almacenada en un lugar cálido",
+      "b) El rendimiento de la batería únicamente se ve afectado por las altas temperaturas.",
+      "c) La temperatura no tiene influencia alguna sobre el rendimiento de las baterías",
+      "d) El rendimiento de las baterías es superior a bajas temperaturas."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_3_01",
+    "test": "Test 3",
+    "number": 1,
+    "question": "¿Cuáles de los siguientes factores son importantes para determinar el riesgo en tierra de una operación? 1. La dimensión característica máxima de la aeronave tripulada 2. La proximidad a un aeródromo o helipuerto 3. Operación dentro o más allá del alcance visual 4. La presencia de otros UAS en la zona de operaciones 5.La densidad de población en la zona de operaciones",
+    "answers": [
+      "a) 1, 3 y 4",
+      "b) 1, 3 y 5",
+      "c) 2, 3 y 5",
+      "d) 2, 4 y 5"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_3_02",
+    "test": "Test 3",
+    "number": 2,
+    "question": "¿Cuál de los siguientes sistemas o funciones instalados en un UAS reduce el riesgo de daños en tierra?",
+    "answers": [
+      "a) Sistema de identificación a distancia directa.",
+      "b) Función de geoconsciencia",
+      "c) Función de vuelta a casa (“RTH”, return to home)",
+      "d) Luz verde intermitente"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_3_03",
+    "test": "Test 3",
+    "number": 3,
+    "question": "Todas las siguientes son medidas de atenuación orientadas a reducir el riesgo en tierra, excepto:",
+    "answers": [
+      "a) Instalar en la aeronave no tripulada un dispositivo de limitación de la energía de impacto",
+      "b) Definir una zona de contingencia o una zona de prevención de riesgos en tierra",
+      "c) Volar más allá del alcance visual (BVLOS)",
+      "d) Volar en una zona de operación controlada"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_3_04",
+    "test": "Test 3",
+    "number": 4,
+    "question": "¿Qué se considera el riesgo en tierra durante una operación con UAS?",
+    "answers": [
+      "a) El riesgo de que una persona sea golpeada por la aeronave no tripulada en caso de pérdida de control",
+      "b) El riesgo de colisión con otra aeronave, tripulada o no tripulada, que esté volando en la misma zona de operaciones",
+      "c) El riesgo de incendio en caso de accidente de un UAS",
+      "d) El riesgo de que el piloto a distancia sea atacado por otras personas"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_3_05",
+    "test": "Test 3",
+    "number": 5,
+    "question": "Si se realiza un vuelo en la subcategoría A2 de la categoría “abierta” a 40m de altura y sin activar el modo de baja velocidad de la aeronave no tripulada, ¿Cuál es la distancia mínima de seguridad horizontal que debería mantener con personas no participantes en la operación siguiendo la regla 1:1?",
+    "answers": [
+      "a) 15m",
+      "b) 40m",
+      "c) 30m",
+      "d) 5m"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_3_06",
+    "test": "Test 3",
+    "number": 6,
+    "question": "Un transmisor WIFI en las proximidades de una operación con UAS:",
+    "answers": [
+      "a) Puede causar problemas en el enlace de mando y control del UAS",
+      "b) No tendrá afección sobre el vuelo de la aeronave tripulada",
+      "c) Dará más potencia al enlace de mando de control",
+      "d) Mejorará el alcance de mando y control"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_3_07",
+    "test": "Test 3",
+    "number": 7,
+    "question": "Si se realiza un vuelo en la subcategoría A2 en la categoría “abierta” a 20 m de altura y sin activar el modo de baja velocidad de la aeronave no tripulada, ¿Cuál es la distancia mínima de seguridad horizontal que hay que mantener con personas no participantes en la operación?",
+    "answers": [
+      "a) 30m",
+      "b) 5m",
+      "c) 40m",
+      "d) 20m"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_3_08",
+    "test": "Test 3",
+    "number": 8,
+    "question": "¿Cuál de los siguientes sistemas que pueden estar instalados en un UAS se considera una medida de atenuación del riesgo en tierra?",
+    "answers": [
+      "a) Geocaging",
+      "b) Geofencing",
+      "c) Sistema de identificación a distancia directa",
+      "d) Paracaídas"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_3_09",
+    "test": "Test 3",
+    "number": 9,
+    "question": "¿Cuál es el marcado de clase de UAS (“C”) que se permite en la subcategoría A2 de la categoría “abierta”?",
+    "answers": [
+      "a) C2",
+      "b) C3",
+      "c) C1",
+      "d) C0"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_3_10",
+    "test": "Test 3",
+    "number": 10,
+    "question": "La energía cinética con la cual se determina la energía de impacto de una aeronave no tripulada al caer al suelo, depende de los siguientes factores: 1. La MTOM de la aeronave no tripulada 2. Para giroaviones, el diámetro de la estructura 3. La capacidad de las baterías o del tanque de combustible 4. El número de motores",
+    "answers": [
+      "a) 1, 3 y 4.",
+      "b) 2, 3 y 5.",
+      "c) 2, 4 y 5",
+      "d) 1, 2 y 3"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_4_01",
+    "test": "Test 4",
+    "number": 1,
+    "question": "La autonomía de la aeronave no tripulada con carga útil en comparación con la aeronave no tripulada sin ella…",
+    "answers": [
+      "a) Será la mitad",
+      "b) No varia",
+      "c) Será mayor",
+      "d) Será menor"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_4_02",
+    "test": "Test 4",
+    "number": 2,
+    "question": "¿En qué afecta el viento en las características de vuelo del UAS?",
+    "answers": [
+      "a) La calidad de la señal del sistema global de navegación por Satélite(GNSS por sus siglas en ingles global navigation satellite system)",
+      "b) La maniobrabilidad y la autonomía de la aeronave no tripulada",
+      "c) El plan de vuelo",
+      "d) La carga de las baterías"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_4_03",
+    "test": "Test 4",
+    "number": 3,
+    "question": "Operando un UAS en condiciones de viento en las proximidades de obstáculos es posible que:",
+    "answers": [
+      "a) Aparezcan turbulencias",
+      "b) La aeronave no tripulada comience a girar en la dirección del viento",
+      "c) Disminuya la visibilidad",
+      "d) Disminuya la visibilidad"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_4_04",
+    "test": "Test 4",
+    "number": 4,
+    "question": "¿Qué se considera el riesgo en tierra durante una operación con UAS? Seleccione una:",
+    "answers": [
+      "a) El riesgo de colisión con otra aeronave. tripulada o no tripulada, que esté volando en la misma zona de operaciones",
+      "b) El riesgo de incendio en caso de accidente de un UAS",
+      "c) El riesgo de que una persona sea golpeada por la aeronave no tripulada en caso de pérdida de control",
+      "d) El riesgo de que el piloto a distancia sea atacado por otra persona"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_4_05",
+    "test": "Test 4",
+    "number": 5,
+    "question": "Comparando las baterías LiPo con las NiMh, ¿Cuál de las siguientes afirmaciones no es correcta?",
+    "answers": [
+      "a) Las baterías LiPo son mas estables durante el proceso de carga",
+      "b) Las baterías LiPo Son mas propensas a incendiarse",
+      "c) Las baterías LiPo tienen un ciclo de vida más corto",
+      "d) Las baterías LiPo tienen una mejor energía especifica"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_4_06",
+    "test": "Test 4",
+    "number": 6,
+    "question": "¿Qué se debe tener en cuenta si la velocidad del viento está justo por debajo de la máxima indicada en las instrucciones por el fabricante del UAS?",
+    "answers": [
+      "a) Mejorará la duración de la batería",
+      "b) Mejorará el rendimiento de la aeronave no tripulada",
+      "c) El rango operativo del vuelo se vera aumentado",
+      "d) Se dificultará la controlabilidad de la aeronave no tripulada"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_4_07",
+    "test": "Test 4",
+    "number": 7,
+    "question": "Si se realiza un vuelo en la subcategoría A2 de la categoría «abierta» a 40 m de altura y sin activar el modo de baja velocidad de la aeronave no tripulada, ¿Cuál es la distancia mínima de seguridad horizontal que debería mantenerse con personas no participantes en la operación siguiendo la regla 1 :1? Seleccione una:",
+    "answers": [
+      "a) 40m",
+      "b) 5m",
+      "c) 15m",
+      "d) 30m"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_4_08",
+    "test": "Test 4",
+    "number": 8,
+    "question": "En el caso de querer almacenar durante un largo período de tiempo una batería LiPo que tiene un voltaje de 3,5 V por celda, es recomendable: Seleccione una:",
+    "answers": [
+      "a) Descargar la batería hasta su voltaje nominal",
+      "b) Cargar la batería hasta su nivel máximo",
+      "c) Cargar la batería hasta su voltaje nominal",
+      "d) Descargar la batería hasta su nivel mínimo"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_4_09",
+    "test": "Test 4",
+    "number": 9,
+    "question": "¿Cuál es el significado de la letra ”P” en las baterías? Seleccione una:",
+    "answers": [
+      "a) Factor de corriente de descarga máximo",
+      "b) Conexión en serie de las celdas en las baterías",
+      "c) Baterías de rendimiento mejorado",
+      "d) Conexión en paralelo de las celdas en las baterías"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_4_10",
+    "test": "Test 4",
+    "number": 10,
+    "question": "¿Cómo puede afectar la lluvia sobre una aeronave no tripulada en vuelo? Seleccione una:",
+    "answers": [
+      "a) La aeronave no tripulada ascenderá de manera incontrolada",
+      "b) Puede afectar negativamente a los sistemas eléctricos de la aeronave no tripulada",
+      "c) Aumentará la resistencia mecánica de la aeronave no tripulada",
+      "d) Aumentará la velocidad de la aeronave no tripulada"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_4_11",
+    "test": "Test 4",
+    "number": 11,
+    "question": "Si se realiza un vuelo en la subcategoría A2 de la categoría «abierta» a 3 m de altura y con el modo de baja velocidad de la aeronave no tripulada activado, ¿Cuál es la distancia mínima de seguridad horizontal que hay que mantener con personas no participantes en la operación? Seleccione una:",
+    "answers": [
+      "a) 5m",
+      "b) 10m",
+      "c) 30m",
+      "d) 4m"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_4_12",
+    "test": "Test 4",
+    "number": 12,
+    "question": "El voltaje nominal de una batería tipo LiPo es: Seleccione una:",
+    "answers": [
+      "a) 3,7 V",
+      "b) 3,5 V",
+      "c) 3,0 V",
+      "d) 4,2 V"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_4_13",
+    "test": "Test 4",
+    "number": 13,
+    "question": "¿Cuál es el significado de la letra “S” en las baterías? Seleccione una:",
+    "answers": [
+      "a) Conexión en serie de las celdas en las baterías",
+      "b) Baterías de rendimiento mejorado",
+      "c) Conexión en paralelo de las celdas en las baterías",
+      "d) Factor de corriente de descarga máximo"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_4_14",
+    "test": "Test 4",
+    "number": 14,
+    "question": "En una batería LiPo, aparte de los dos cables principales, existen 4 cables delgados en otro conector. Esto significa que: Seleccione una:",
+    "answers": [
+      "a) La batería es de 4 celdas",
+      "b) La batería es de 6 celdas",
+      "c) La batería es de 5 celdas",
+      "d) La batería es de 3 celdas"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_4_15",
+    "test": "Test 4",
+    "number": 15,
+    "question": "Cuando una batería llega al final de su vida útil: Seleccione una:",
+    "answers": [
+      "a) Su temperatura disminuye vuelo tras vuelo",
+      "b) Su temperatura aumenta vuelo tras vuelo",
+      "c) Se comienza a cambiar de color hacia un tono blanquecino",
+      "d) Se comienza a oxidar y se vuelve de color negro"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_4_16",
+    "test": "Test 4",
+    "number": 16,
+    "question": "¿Qué se debe hacer cuando una batería está hinchada? Seleccione una:",
+    "answers": [
+      "a) Dejar enfriar la batería y volverla a usar",
+      "b) Perforar el paquete de la batería",
+      "c) Usar un máximo de 10 veces más y remplazar",
+      "d) Remplazar la batería inmediatamente"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_4_17",
+    "test": "Test 4",
+    "number": 17,
+    "question": "El centro de gravedad de la aeronave no tripulada es: Seleccione una:",
+    "answers": [
+      "a) El punto en el que se concentran todas las fuerzas que actúan sobre la aeronave no tripulada",
+      "b) El punto en el que se concentran todas las fuerzas de resistencia que actúan sobre la aeronave no tripulada",
+      "c) El punto en el que la distribución del peso es igual en todas las direcciones",
+      "d) El punto ubicado exactamente en el centro de la aeronave no tripulada"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_4_18",
+    "test": "Test 4",
+    "number": 18,
+    "question": "Una aeronave no tripulada vuelve al punto de despegue tras realizar una operación. ¿Cuál de las siguientes opciones ayudaría a reducir la duración de vuelo durante el regreso? Seleccione una:",
+    "answers": [
+      "a) Viento cruzado por el lado derecho",
+      "b) Viento de cola",
+      "c) Viento de cara",
+      "d) Viento cruzado por el lado izquierdo"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_4_19",
+    "test": "Test 4",
+    "number": 19,
+    "question": "Estoy realizando una operación con una aeronave no tripulada y se avecina una tormenta. ¿Cómo debo actuar? Seleccione una:",
+    "answers": [
+      "a) Aterrizo lo más rápido posible",
+      "b) Disminuyo la velocidad de los rotores",
+      "c) Sigo volando hasta que llegue la tormenta",
+      "d) Aumento la velocidad de los rotores"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_4_20",
+    "test": "Test 4",
+    "number": 20,
+    "question": "A la hora de volar un UAS con altas temperaturas debemos tener en cuenta que: Seleccione una:",
+    "answers": [
+      "a) Se reduce el rendimiento de la aeronave no tripulada debido al incremento de duración de la batería",
+      "b) Se reduce el rendimiento de la aeronave no tripulada debido al incremento de la densidad del aire",
+      "c) Aumenta el rendimiento de la aeronave no tripulada debido al incremento de duración de la batería",
+      "d) Las térmicas locales pueden provocar turbulencias"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_4_21",
+    "test": "Test 4",
+    "number": 21,
+    "question": "¿Cuál es el marcado de clase de UAS (”C”) que se permite en la subcategoría A2 de la categoría «abierta»? Seleccione una:",
+    "answers": [
+      "a) C0",
+      "b) C1",
+      "c) C2",
+      "d) C3"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_4_22",
+    "test": "Test 4",
+    "number": 22,
+    "question": "Normalmente, ¿Cómo se puede saber la masa máxima de despegue («MTOM») de una aeronave no tripulada? Seleccione una:",
+    "answers": [
+      "a) En la página web de la autoridad competente (AESA)",
+      "b) Pesando la aeronave no tripulada con una balanza",
+      "c) En las instrucciones facilitadas por el fabricante del UAS",
+      "d) En foros de pilotos a distancia en internet"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_4_23",
+    "test": "Test 4",
+    "number": 23,
+    "question": "A medida que la temperatura disminuye, el rendimiento de las baterías:",
+    "answers": [
+      "a) Disminuye",
+      "b) Aumenta",
+      "c) No cambia",
+      "d) Cambia mínimamente"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_4_24",
+    "test": "Test 4",
+    "number": 24,
+    "question": "El modo de carga recomendado para las baterías LiPo es: Seleccione una:",
+    "answers": [
+      "a) Carga equilibrada",
+      "b) Carga rápida",
+      "c) Carga máxima",
+      "d) Carga lenta"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_4_25",
+    "test": "Test 4",
+    "number": 25,
+    "question": "La carga útil de una aeronave no tripulada se define como: Seleccione una:",
+    "answers": [
+      "a) Masa máxima de despegue 1 Masa en vacío de la aeronave no tripulada",
+      "b) Masa máxima de despegue * Masa en vacío de la aeronave no tripulada",
+      "c) Masa máxima de despegue - Masa en vacío de la aeronave no tripulada",
+      "d) Masa máxima de despegue + Masa en vacío de la aeronave no tripulada"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_4_26",
+    "test": "Test 4",
+    "number": 26,
+    "question": "La visibilidad a nivel del suelo, se puede ver reducida debido a: 1. Viento 2. Nieve 3. Polvo en suspensión 4. Nubes",
+    "answers": [
+      "a) 2 y 3",
+      "b) 1 y 2",
+      "c) 2 y 4",
+      "d) 3 y 4"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_4_27",
+    "test": "Test 4",
+    "number": 27,
+    "question": "¿Cómo afecta el incremento de la MTOM de una aeronave no tripulada a la potencia para el despegue? Seleccione una:",
+    "answers": [
+      "a) Solo es necesaria más potencia si el incremento de la MTOM no está equilibrado",
+      "b) No afecta a la potencia necesaria para el despegue",
+      "c) Es necesaria más potencia para el despegue",
+      "d) Es necesaria menos potencia para el despegue"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_4_28",
+    "test": "Test 4",
+    "number": 28,
+    "question": "¿Cuál de los siguientes sistemas o funciones instalados en un UAS reduce el riesgo de daños a terceros en tierra? Seleccione una:",
+    "answers": [
+      "a) Luz verde intermitente",
+      "b) Función de geoconsciencia",
+      "c) Sistema de identificación a distancia directa",
+      "d) Función de vuelta a casa («RTH», por sus siglas en inglés de «return to home»)"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_4_29",
+    "test": "Test 4",
+    "number": 29,
+    "question": "¿Qué indica en una batería el término “40 C”? Seleccione una:",
+    "answers": [
+      "a) Corriente máxima de descarga de 40 A",
+      "b) Máxima temperatura de operación",
+      "c) Factor de corriente de descarga máximo",
+      "d) Tasa de descarga máxima"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_4_30",
+    "test": "Test 4",
+    "number": 30,
+    "question": "Si durante una operación de UAS hay viento. ¿Qué debemos tener en cuenta?",
+    "answers": [
+      "a) Sólo un piloto a distancia que disponga de un certificado para volar en situaciones de riesgo puede volar esta operación.",
+      "b) El rango operativo de la aeronave no tripulada puede verse afectada.",
+      "c) En operaciones con viento no es posible realizar aterrizajes automáticos con GPS.",
+      "d) El viento causa turbulencias a elevadas alturas, por lo que no se debe volar demasiado alto."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_5_01",
+    "test": "Test 5",
+    "number": 1,
+    "question": "Si se realiza un vuelo en la subcategoría A2 de la categoría <abierta> a 25 m de altura y sin activar el modo de baja velocidad de la aeronave no tripulada, ¿Cuál es la distancia mínima de seguridad horizontal que hay que mantener con personas no participantes en la operación?",
+    "answers": [
+      "a) 30 m.",
+      "b) 20 m.",
+      "c) 10 m.",
+      "d) 40 m."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_5_02",
+    "test": "Test 5",
+    "number": 2,
+    "question": "La energía cinética, con la cual se determina la energía de impacto de una aeronave no tripulada al caer al suelo, depende de los siguientes factores: 1. La MTOM de la aeronave no tripulada; 2. Para aeronaves no tripuladas de ala fija, la velocidad máxima; 3. Para giroaviones, el diámetro de la estructura; 4. Llevar o no paracaídas; 5. Si la operación se realiza con observadores de la aeronave.",
+    "answers": [
+      "a) 2, 3 y 5.",
+      "b) 1, 2 y 3.",
+      "c) 2, 4 y 5.",
+      "d) 1, 3 y 4."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_5_03",
+    "test": "Test 5",
+    "number": 3,
+    "question": "Si se realiza un vuelo en la subcategoría A2 de la categoría <abierta> a 15 m de altura y con el modo de baja velocidad de la aeronave no tripulada activado, ¿Cuál es la distancia mínima de seguridad horizontal que debería mantenerse con personas no participantes en la operación siguiendo la regla 1:1?",
+    "answers": [
+      "a) 30 m.",
+      "b) 10 m.",
+      "c) 1,1m.",
+      "d) 15m."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_5_04",
+    "test": "Test 5",
+    "number": 4,
+    "question": "Operando un UAS en condiciones de viento en las proximidades de obstáculos, es probable que:",
+    "answers": [
+      "a) Aumente la visibilidad gracias al viento.",
+      "b) La aeronave no tripulada comience a girar en la dirección del viento.",
+      "c) Disminuya la visibilidad a causa de la calima que se crea en los obstáculos.",
+      "d) Aparezcan turbulencias."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_5_05",
+    "test": "Test 5",
+    "number": 5,
+    "question": "Cuál de las siguientes se pueden considerar personas no participantes en una operación de UAS: 1. Un trabajador del operador de UAS que está bloqueando el acceso a la zona de operaciones; 2. Un observador de aeronave no tripulada situado junto al piloto; 3. Personas presentes en un festival de música, informados a través de una declaración en el ticket de entrada; 4. Personas presentes en la zona de operaciones, pero que no quieren participar en ella; 5. Personas sentadas en un parque en la zona de operaciones.",
+    "answers": [
+      "a) 1, 2, y 4.",
+      "b) 1, 3 y 4.",
+      "c) 2, 3 y 5.",
+      "d) 3, 4 y 5."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_5_06",
+    "test": "Test 5",
+    "number": 6,
+    "question": "Si se realiza un vuelo en la subcategoría A2 de la categoría <abierta> a 40 m de altura y sin activar el modo de baja velocidad de la aeronave no tripulada, ¿Cuál es la distancia mínima de seguridad horizontal que debería mantenerse con personas no participantes en la operación siguiendo la regla 1:1?",
+    "answers": [
+      "a) 14m.",
+      "b) 1,1m.",
+      "c) 40m.",
+      "d) 4m."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_5_07",
+    "test": "Test 5",
+    "number": 7,
+    "question": "En relación con las atenuaciones técnicas y operacionales del riesgo en tierra, antes de una operación, el piloto a distancia debe considerar: i) La existencia de lugares seguros para el despegue y aterrizaje. ii) La dirección y la velocidad del viento. iii) Si la aeronave cuenta con un sistema de identificación a distancia. iv) La existencia de obstáculos en el entorno.",
+    "answers": [
+      "a) i,ii,iii",
+      "b) i,ii,iii y iv",
+      "c) i,ii y iv",
+      "d) i, iii y iv"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_5_08",
+    "test": "Test 5",
+    "number": 8,
+    "question": "¿Cómo cambia la velocidad del viento a medida que aumenta la altitud sobre el terreno?",
+    "answers": [
+      "a) El viento es más frío.",
+      "b) El viento es más suave.",
+      "c) El viento es más fuerte.",
+      "d) El viento es más racheado."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_5_09",
+    "test": "Test 5",
+    "number": 9,
+    "question": "Las baterías operan con un ciclo:",
+    "answers": [
+      "a) Electrodinámico cerrado.",
+      "b) Electrodinámico abierto.",
+      "c) Termodinámico abierto.",
+      "d) Termodinámico cerrado."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_5_10",
+    "test": "Test 5",
+    "number": 10,
+    "question": "¿Cuál es la máxima velocidad permitida para considerar que una aeronave no tripulada está volando en modo de baja velocidad?",
+    "answers": [
+      "a) 2 m/s.",
+      "b) 1 m/s.",
+      "c) 3 m/s.",
+      "d) 4 m/s."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_5_11",
+    "test": "Test 5",
+    "number": 11,
+    "question": "¿Qué valores tiene la variación o gradiente en una atmósfera estándar? Seleccione una:",
+    "answers": [
+      "a) La variación o gradiente en atmósfera ISA (atmósfera estándar) es de 2°C por cada 100 pies o 6,5°C por cada 100 m.",
+      "b) La variación o gradiente en atmósfera ISA (atmósfera estándar) es de 1°C por cada 100 pies o 6,5°C por cada 100 m.",
+      "c) La variación o gradiente en atmósfera ISA (atmósfera estándar) es de 1°C por cada 1000 pies o 6,5°C por cada 1000 m.",
+      "d) La variación o gradiente en atmósfera ISA (atmósfera estándar) es de 2°C por cada 1000 pies o 6,5°C por cada 1000 m."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_5_12",
+    "test": "Test 5",
+    "number": 12,
+    "question": "Si durante una operación de UAS hay viento, ¿Qué debemos tener en cuenta?",
+    "answers": [
+      "a) Sólo un piloto a distancia que disponga de un certificado para volar en situaciones de riesgo puede volar esta operación.",
+      "b) El rango operativo de la aeronave no tripulada puede verse afectada.",
+      "c) En operaciones con viento no es posible realizar aterrizajes automáticos con GPS.",
+      "d) El viento causa turbulencias a elevadas alturas, por lo que no se debe volar demasiado alto."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_5_13",
+    "test": "Test 5",
+    "number": 13,
+    "question": "Existen una serie de factores que determinan el riesgo en tierra de una operación, estos pueden ser, entre otros:",
+    "answers": [
+      "a) La dimensión mínima de la aeronave, operación en BVLOS y la densidad de población en la zona de operaciones.",
+      "b) La dimensión mínima de la aeronave, operación en VLOS o BVLOS y la densidad de población en la zona de operaciones.",
+      "c) La dimensión máxima de la aeronave, operación en VLOS o BVLOS y la densidad de población en la zona de operaciones.",
+      "d) La dimensión máxima de la aeronave, operación en VLOS y la densidad de población en la zona de aterrizaje."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_5_14",
+    "test": "Test 5",
+    "number": 14,
+    "question": "¿Dónde se produce el fenómeno de las turbulencias con mayor frecuencia?",
+    "answers": [
+      "a) En las inmediaciones de obstáculos.",
+      "b) Sobre el agua.",
+      "c) Sobre el campo.",
+      "d) Sólo ocurre en elevadas alturas de vuelo."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_5_15",
+    "test": "Test 5",
+    "number": 15,
+    "question": "¿Cómo se denomina el movimiento alrededor del eje longitudinal que se realiza al volar una aeronave no tripulada?",
+    "answers": [
+      "a) Cabeceo.",
+      "b) Guiñada.",
+      "c) Tonel.",
+      "d) Alabeo."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_5_16",
+    "test": "Test 5",
+    "number": 16,
+    "question": "Realizar un vuelo en el sotavento de un edificio: Seleccione una:",
+    "answers": [
+      "a) Es arriesgado debido a posibles turbulencias.",
+      "b) Solo puede realizarse en modo manual.",
+      "c) Es seguro porque la aeronave no tripulada está protegida del viento.",
+      "d) Va en contra de las limitaciones y condiciones operacionales establecido para la categoría <abierta>."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_5_17",
+    "test": "Test 5",
+    "number": 17,
+    "question": "Las siglas en inglés <MTOM> significan:",
+    "answers": [
+      "a) Masa máxima de despegue (<maximun take-off mass>)",
+      "b) Masa mínima de despegue (<monimum take-off mass>)",
+      "c) Masa máxima de derribo (<maximum take-down mass>)",
+      "d) Masa máxima de torre (<maximun tower mass>)"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_5_18",
+    "test": "Test 5",
+    "number": 18,
+    "question": "¿Qué ventajas tienen la batería LiPo, frente a las de Níquel-Cadmio y Níquel-Hidruro metálico?",
+    "answers": [
+      "a) Son más estables durante el proceso de descarga, tienen poca densidad energética y tiene una tasa de descarga baja.",
+      "b) Son más inestables durante el proceso de descarga, tienen gran densidad energética y tiene una tasa de descarga baja.",
+      "c) Son más estables durante el proceso de carga, tienen gran densidad energética y tiene una tasa de descarga alta.",
+      "d) Son más inestables durante el proceso de carga, tienen poca densidad energética y tiene una tasa de descarga alta."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_5_19",
+    "test": "Test 5",
+    "number": 19,
+    "question": "Todas las siguientes son medidas de atenuación orientadas a reducir el riesgo en tierra, excepto:",
+    "answers": [
+      "a) Volar en una zona de operaciones controlada.",
+      "b) Volar con FPV.",
+      "c) Definir una zona de contingencia o zona de prevención de riesgos en tierra.",
+      "d) Instalar en el aeronave no tripulada un dispositivo de liminación de la energía de impacto."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_5_20",
+    "test": "Test 5",
+    "number": 20,
+    "question": "¿Cuál es el significado de las siglas \"CG\"?",
+    "answers": [
+      "a) Centro de gravedad.",
+      "b) Control de gravedad.",
+      "c) Constante gravitacional.",
+      "d) Control de gente."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_5_21",
+    "test": "Test 5",
+    "number": 21,
+    "question": "¿Cuál es el marcado de clase de UAS (\"C\") que se permite en la subcategoría A2 de la categoría <abierta>?",
+    "answers": [
+      "a) C3.",
+      "b) C2.",
+      "c) C1.",
+      "d) C0."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_5_22",
+    "test": "Test 5",
+    "number": 22,
+    "question": "¿Qué se debe tener en cuenta si la velocidad del viento está justo por debajo de la máxima indicada en las instrucciones facilitadas por el fabricante del UAS?",
+    "answers": [
+      "a) Mejorará la duración de la batería si el viento es a favor de la dirección de vuelo.",
+      "b) En general, mejorará el rendimiento de la aeronave no tripulada.",
+      "c) El rango operativo de vuelo se verá aumentando.",
+      "d) Se dificultará la controlabilidad de la aeronave no tripulada."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_5_23",
+    "test": "Test 5",
+    "number": 23,
+    "question": "¿Qué es el gradiente de presión? Seleccione una:",
+    "answers": [
+      "a) Es la presión que equilibra la fuerza que tiende a parar el aire de la presión alta a la presión baja.",
+      "b) Es la presión que desequilibra la fuerza que tiende a mover el aire de la presión baja a la presión alta.",
+      "c) Es la presión que equilibra la fuerza que tiende a mover el aire del este al oeste.",
+      "d) Es la presión que equilibra la fuerza que tiende a mover el aire de la presión alta a la baja."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_5_24",
+    "test": "Test 5",
+    "number": 24,
+    "question": "En el caso de querer almacenar durante un largo período de tiempo una batería LiPo que tiene un voltaje de 4,05V por celda, es recomendable:",
+    "answers": [
+      "a) Cargar la batería hasta su voltaje nominal.",
+      "b) Descargar la batería hasta su voltaje nominal.",
+      "c) Descargar la batería hasta su nivel mínimo",
+      "d) Cargar la batería hasta su voltaje máximo"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_5_25",
+    "test": "Test 5",
+    "number": 25,
+    "question": "Si en una UA de ala fija tenemos la posición del centro de gravedad (CG) más atrasado que el centro aerodinámico (CA) entonces:",
+    "answers": [
+      "a) Se considera que tiene estabilidad neutra.",
+      "b) Se considera inestable.",
+      "c) Se considera estable.",
+      "d) Esto no afecta a la estabilidad de la UA."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_5_26",
+    "test": "Test 5",
+    "number": 26,
+    "question": "Según dónde se coloque la carga útil, el centro de gravedad de la UA variará. Si el CG no incide con el centro geométrico, hay que tener en cuenta que:",
+    "answers": [
+      "a) La UA realizará movimientos más lentos y suaves.",
+      "b) La UA no podrá despegar y realizar el vuelo.",
+      "c) La UA será inestable.",
+      "d) La UA realizará movimientos más rápidos y bruscos."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_5_27",
+    "test": "Test 5",
+    "number": 27,
+    "question": "¿Cómo se denomina el movimiento alrededor del eje transversal que se realiza al volar una aeronave no tripulada? Seleccione una:",
+    "answers": [
+      "a) Tonel",
+      "b) Alabeo",
+      "c) Guiñada",
+      "d) Cabeceo"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_5_28",
+    "test": "Test 5",
+    "number": 28,
+    "question": "¿En qué afecta el efecto del viento en las características de vuelo del UAS?",
+    "answers": [
+      "a) La calidad de señal del sistema de navegación por satélite (“GNSS”, global navigation satélite system).",
+      "b) La carga de la batería.",
+      "c) El plan de vuelo.",
+      "d) La maniobrabilidad y la autonomía de la aeronave no tripulada"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_5_29",
+    "test": "Test 5",
+    "number": 29,
+    "question": "Si el aire se mueve en la dirección de las agujas del reloj en el hemisferio Norte y, en sentido en el hemisferio Sur entonces pasará lo siguiente...",
+    "answers": [
+      "a) El aire que baja se va humedeciendo y enfriando, por lo que trae consigo estabilidad y buen tiempo, con escasa probabilidad de lluvia.",
+      "b) El aire que baja se va secando y calentando, por lo que trae consigo inestabilidad y mal tiempo, con probabilidad de lluvia.",
+      "c) El aire que baja se va humedeciendo y enfriando, por lo que trae consigo inestabilidad y mal tiempo, con mucha probabilidad de lluvia.",
+      "d) El aire que baja se va secando y calentando, por lo que trae consigo estabilidad y buen tiempo, con escasa probabilidad de lluvia."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_5_30",
+    "test": "Test 5",
+    "number": 30,
+    "question": "¿Cuál de los siguientes sistemas que pueden estar instalados en un UAS se considera una medida de atenuación del riesgo en tierra?",
+    "answers": [
+      "a) Geocaging",
+      "b) Geofencing",
+      "c) Sistema de identificación a distancia directa",
+      "d) Paracaídas"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_6_01",
+    "test": "Test 6",
+    "number": 1,
+    "question": "Comparando las baterías NiMH con las LiPo, ¿Cuál de las siguientes afirmaciones es correcta? Seleccione una:",
+    "answers": [
+      "a) Las baterías NiMH son más estables durante el proceso de carga.",
+      "b) Las baterías LiPo tienen un ciclo de vida más corto.",
+      "c) Las baterías NiMH son más propensas a incendiarse.",
+      "d) Las baterías NiMH tienen una mejor energía específica."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_6_02",
+    "test": "Test 6",
+    "number": 2,
+    "question": "¿Qué se considera el riesgo en tierra durante una operación con UAS?",
+    "answers": [
+      "a) El riesgo de incendio en caso de accidente de un UAS",
+      "b) El riesgo de colisión con otra aeronave, tripulada o no tripulada, que esté volando en la misma zona de operaciones",
+      "c) El riesgo de que una persona sea golpeada por la aeronave no tripulada en caso de pérdida de control",
+      "d) El riesgo de que el piloto a distancia sea atacado por otras personas"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_6_03",
+    "test": "Test 6",
+    "number": 3,
+    "question": "Si aumenta la altitud sobre el terreno, entonces la velocidad del viento:",
+    "answers": [
+      "a) Es más fuerte.",
+      "b) Se mantiene constante hasta los 400 pies.",
+      "c) Aumenta o disminuye dependiendo de la velocidad a la que el piloto vuele la UA.",
+      "d) Es más débil."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_6_04",
+    "test": "Test 6",
+    "number": 4,
+    "question": "Si se realiza un vuelo en la subcategoría A2 de la categoría «abierta» a 3 m de altura y con el modo de baja velocidad de la aeronave no tripulada activado, ¿Cuál es la distancia mínima de seguridad horizontal que debería mantenerse con personas no participantes en la operación siguiendo la regla 1:1?",
+    "answers": [
+      "a) 3m",
+      "b) 30m",
+      "c) 5m",
+      "d) 15m"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_6_05",
+    "test": "Test 6",
+    "number": 5,
+    "question": "Las características de una batería de tipo pila secundaria son:",
+    "answers": [
+      "a) Recargable, ciclo de vida único, un solo circuito de batería, produce mucha energía eléctrica y es duradera.",
+      "b) Recargable, ciclo de vida múltiple, contiene de 3 a 6 circuitos de baterías, produce corriente eléctrica extremadamente alta y se agota rápidamente.",
+      "c) No es recargable, ciclo de vida único, un solo circuito de batería, produce poca energía eléctrica y es duradera.",
+      "d) No recargable, ciclo de vida múltiple, contiene de 2 a 4 circuitos de baterías, produce corriente eléctrica alta y se agota rápidamente."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_6_06",
+    "test": "Test 6",
+    "number": 6,
+    "question": "A medida que la temperatura disminuye, el rendimiento de las baterías:",
+    "answers": [
+      "a) Disminuye",
+      "b) Aumenta",
+      "c) No cambia",
+      "d) Cambia mínimamente"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_6_07",
+    "test": "Test 6",
+    "number": 7,
+    "question": "¿Qué indica en una batería el término “40C”?",
+    "answers": [
+      "a) Corriente máxima de descarga de 40A.",
+      "b) Máxima temperatura de operación.",
+      "c) Tasa de descarga máxima.",
+      "d) Factor de corriente de descarga máximo."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_6_08",
+    "test": "Test 6",
+    "number": 8,
+    "question": "¿Cuál de los siguientes sistemas o funciones instalados en un UAS reduce el riesgo de daños en tierra?",
+    "answers": [
+      "a) Sistema de identificación a distancia directa.",
+      "b) Función de geoconsciencia",
+      "c) Función de vuelta a casa (“RTH”, return to home)",
+      "d) Luz verde intermitente"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_6_09",
+    "test": "Test 6",
+    "number": 9,
+    "question": "Estoy realizando una operación con una aeronave no tripulada y se avecina una tormenta. ¿Cómo debo actuar? Seleccione una:",
+    "answers": [
+      "a) Aterrizo lo más rápido posible",
+      "b) Disminuyo la velocidad de los rotores",
+      "c) Sigo volando hasta que llegue la tormenta",
+      "d) Aumento la velocidad de los rotores"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_6_10",
+    "test": "Test 6",
+    "number": 10,
+    "question": "¿Qué se debe tener en cuenta si la velocidad del viento esta justo por debajo de la máxima indicada en las instrucciones por el fabricante del UAS?",
+    "answers": [
+      "a) Mejorará la duración de la batería",
+      "b) Mejorará el rendimiento de la aeronave no tripulada",
+      "c) El rango operativo del vuelo se vera aumentado",
+      "d) Se dificultará la controlabilidad de la aeronave no tripulada"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_6_11",
+    "test": "Test 6",
+    "number": 11,
+    "question": "La carga útil de una aeronave no tripulada se define como: Seleccione una:",
+    "answers": [
+      "a) Masa máxima de despegue + masa en vacío de la aeronave no tripulada.",
+      "b) Masa máxima de despegue / masa en vacío de la aeronave no tripulada * 100.",
+      "c) Masa máxima de despegue - masa en vacío de la aeronave no tripulada.",
+      "d) Masa máxima de despegue * masa en vacío de la aeronave no tripulada / 100."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_6_12",
+    "test": "Test 6",
+    "number": 12,
+    "question": "¿Qué es el gradiente de presión?",
+    "answers": [
+      "a) Es la presión que equilibra la fuerza que tiende a parar el aire de la presión alta a la presión baja.",
+      "b) Es la presión que desequilibra la fuerza que tiende a mover el aire de la presión baja a la presión alta.",
+      "c) Es la presión que equilibra la fuerza que tiende a mover el aire del este al oeste.",
+      "d) Es la presión que equilibra la fuerza que tiende a mover el aire de la presión alta a la baja."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_6_13",
+    "test": "Test 6",
+    "number": 13,
+    "question": "¿Cuál es la máxima velocidad permitida para considerar que una aeronave no tripulada está volando en modo de baja velocidad?",
+    "answers": [
+      "a) 2 m/s",
+      "b) 1m/s",
+      "c) 4m/s",
+      "d) 3m/s"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_6_14",
+    "test": "Test 6",
+    "number": 14,
+    "question": "En comparación con un área sin obstáculos, las velocidades del viento en las proximidades de obstáculos o en ciudades son: 1. Aumentan más despacio al aumentar la altura. 2. Mucho más altas justo por encima del suelo. 3. Aumentan más rápido al aumentar la altura. 4. Mucho más bajas justo por encima del suelo. Seleccione una:",
+    "answers": [
+      "a) 1 y 3",
+      "b) 2 y 4",
+      "c) 3 y 4",
+      "d) 1 y 2"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_6_15",
+    "test": "Test 6",
+    "number": 15,
+    "question": "Un transmisor WIFI en las proximidades de una operación con UAS:",
+    "answers": [
+      "a) Puede causar problemas en el enlace de mando y control del UAS",
+      "b) No tendrá afección sobre el vuelo de la aeronave tripulada",
+      "c) Dará más potencia al enlace de mando de control",
+      "d) Mejorará el alcance de mando y control"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_6_16",
+    "test": "Test 6",
+    "number": 16,
+    "question": "En un área sin obstáculos, la velocidad del viento a 100m sobre el nivel del suelo es:",
+    "answers": [
+      "a) Hasta un 50% mayor que a nivel del suelo.",
+      "b) Hasta un 100% mayor que a nivel del suelo.",
+      "c) Hasta un 50% menor que a nivel del suelo.",
+      "d) Hasta un 100% menor que a nivel del suelo."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_6_17",
+    "test": "Test 6",
+    "number": 17,
+    "question": "¿Qué valores tiene la variación o gradiente en una atmósfera estándar?",
+    "answers": [
+      "a) La variación o gradiente en atmósfera ISA (atmósfera estándar) es de 2°C por cada 100 pies o 6,5°C por cada 100 m.",
+      "b) La variación o gradiente en atmósfera ISA (atmósfera estándar) es de 1°C por cada 100 pies o 6,5°C por cada 100 m.",
+      "c) La variación o gradiente en atmósfera ISA (atmósfera estándar) es de 1°C por cada 1000 pies o 6,5°C por cada 1000 m.",
+      "d) La variación o gradiente en atmósfera ISA (atmósfera estándar) es de 2°C por cada 1000 pies o 6,5°C por cada 1000 m."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_6_18",
+    "test": "Test 6",
+    "number": 18,
+    "question": "¿Qué se debe tener en cuenta respecto a las baterías al realizar una operación con UAS a una temperatura de -10ºC?",
+    "answers": [
+      "a) Es necesario precalentar las baterías antes del uso y mantenerla almacenada en un lugar cálido",
+      "b) El rendimiento de la batería únicamente se ve afectado por las altas temperaturas.",
+      "c) La temperatura no tiene influencia alguna sobre el rendimiento de las baterías",
+      "d) El rendimiento de las baterías es superior a bajas temperaturas."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_6_19",
+    "test": "Test 6",
+    "number": 19,
+    "question": "¿Dónde se produce el fenómeno de las turbulencias con mayor frecuencia?",
+    "answers": [
+      "a) En las inmediaciones de obstáculos.",
+      "b) Sobre el agua.",
+      "c) Sobre el campo.",
+      "d) Sólo ocurre en elevadas alturas de vuelo."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_6_20",
+    "test": "Test 6",
+    "number": 20,
+    "question": "Según dónde se coloque la carga útil, el centro de gravedad de la UA variará. Si el CG es alto, hay que tener en cuenta que:",
+    "answers": [
+      "a) La UA no podrá despegar y realizar el vuelo.",
+      "b) La UA será inestable.",
+      "c) La UA realizará movimientos más lentos y suaves.",
+      "d) La UA realizará movimientos más rápidos y bruscos."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_6_21",
+    "test": "Test 6",
+    "number": 21,
+    "question": "¿Qué es la brisa térmica? Seleccione una:",
+    "answers": [
+      "a) Son vientos locales cuyo origen está en la diferencia de temperatura entre las superficies marinas y terrestres.",
+      "b) Son vientos locales descendentes que se originan en la superficie terrestre.",
+      "c) Son vientos locales cuyo origen está en la suma de temperatura entre las superficies marinas y terrestres.",
+      "d) Son vientos locales ascendentes que se originan en la superficie terrestre."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_6_22",
+    "test": "Test 6",
+    "number": 22,
+    "question": "¿Cómo se denomina el movimiento alrededor del eje transversal que se realiza al volar una aeronave no tripulada?",
+    "answers": [
+      "a) Tonel",
+      "b) Alabeo",
+      "c) Guiñada",
+      "d) Cabeceo"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_6_23",
+    "test": "Test 6",
+    "number": 23,
+    "question": "El modo de carga recomendado para las baterías LiPo es:",
+    "answers": [
+      "a) Carga mínima",
+      "b) Carga rápida",
+      "c) Carga equilibrada",
+      "d) Carga máxima"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_6_24",
+    "test": "Test 6",
+    "number": 24,
+    "question": "¿Qué se debe tener en cuenta en el vuelo de un UAS cuando las temperaturas son muy elevadas?",
+    "answers": [
+      "a) Se reduce el rendimiento de la aeronave no tripulada debido al incremento de la temperatura del aire.",
+      "b) Se reduce el rendimiento de la aeronave no tripulada debido a la disminución de la densidad del aire.",
+      "c) Aumenta el rendimiento de la aeronave no tripulada debido al incremento de la temperatura del aire.",
+      "d) Aumenta el rendimiento de la aeronave no tripulada debido a la disminución de la densidad del aire."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_6_25",
+    "test": "Test 6",
+    "number": 25,
+    "question": "¿Cuál es el total de fuerzas aerodinámicas que genera una hélice girando?",
+    "answers": [
+      "a) Sustentación y un momento en el sentido contrario al de rotación del motor.",
+      "b) Sustentación, resistencia aerodinámica, peso y un momento en el sentido de rotación del motor.",
+      "c) Fuerzas opuestas de peso y resistencia aerodinámica.",
+      "d) Sustentación y resistencia aerodinámica."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_6_26",
+    "test": "Test 6",
+    "number": 26,
+    "question": "¿Qué es la brisa térmica?",
+    "answers": [
+      "a) Son vientos locales cuyo origen está en la diferencia de temperatura entre las superficies marinas y terrestres.",
+      "b) Son vientos locales descendentes que se originan en la superficie terrestre.",
+      "c) Son vientos locales cuyo origen está en la suma de temperatura entre las superficies marinas y terrestres.",
+      "d) Son vientos locales ascendentes que se originan en la superficie terrestre."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_6_27",
+    "test": "Test 6",
+    "number": 27,
+    "question": "Una batería hinchada indica que:",
+    "answers": [
+      "a) Está descargada",
+      "b) Está sobrecargada",
+      "c) Está en buen estado",
+      "d) Está dañada"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_6_28",
+    "test": "Test 6",
+    "number": 28,
+    "question": "En una zona de alta montaña, la duración del vuelo con un UAS es:",
+    "answers": [
+      "a) Menor debido al aumento de la densidad del aire.",
+      "b) Mayor debido a la disminución de la densidad del aire",
+      "c) Mayor debido al aumento de la densidad del aire.",
+      "d) Menor debido a la disminución de la densidad del aire."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_6_29",
+    "test": "Test 6",
+    "number": 29,
+    "question": "En el caso de querer almacenar durante un largo período de tiempo una batería LiPo que tiene un voltaje de 4,05V por celda, es recomendable:",
+    "answers": [
+      "a) Cargar la batería hasta su voltaje nominal.",
+      "b) Descargar la batería hasta su voltaje nominal.",
+      "c) Descargar la batería hasta su nivel mínimo",
+      "d) Cargar la batería hasta su voltaje máximo"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_6_30",
+    "test": "Test 6",
+    "number": 30,
+    "question": "Si durante una operación de UAS hay viento, ¿qué debemos tener en cuenta?",
+    "answers": [
+      "a) Sólo un piloto a distancia que disponga de un certificado para volar en situaciones de riesgo puede volar esta operación.",
+      "b) El rango operativo de la aeronave no tripulada puede verse afectada.",
+      "c) En operaciones con viento no es posible realizar aterrizajes automáticos con GPS.",
+      "d) El viento causa turbulencias a elevadas alturas, por lo que no se debe volar demasiado alto."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_7_01",
+    "test": "Test 7",
+    "number": 1,
+    "question": "Nunca cargar por encima de 5C\" en una batería LiPo de1500 mAh significa que: Seleccione una:",
+    "answers": [
+      "a) Podría cargarse con una corriente máxima de 75 A.",
+      "b) Podría cargarse con una corriente máxima de 7,5 A.",
+      "c) Podría cargarse con una corriente máxima de 1,5 A.",
+      "d) Podría cargarse con una corriente máxima de 5 A."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_7_02",
+    "test": "Test 7",
+    "number": 2,
+    "question": "¿Cuál es el marcado de clase de UAS (\"C\") que se permite en la subcategoría A2 de la categoría «abierta»? Seleccione una:",
+    "answers": [
+      "a) CO.",
+      "b) C1.",
+      "c) C2.",
+      "d) C3."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_7_03",
+    "test": "Test 7",
+    "number": 3,
+    "question": "Si se realiza un vuelo en la subcategoría A2 de la categoría «abierta» a 20 m de altura y sin activar el modo de baja velocidad de la aeronave no tripulada, ¿Cuál es la distancia mínima de seguridad horizontal que hay que mantener con personas no participantes en la operación? Seleccione una:",
+    "answers": [
+      "a) 40m.",
+      "b) 5m.",
+      "c) 20m.",
+      "d) 30m."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_7_04",
+    "test": "Test 7",
+    "number": 4,
+    "question": "Cuál de las siguientes se pueden considerar personas no participantes en una operación de UAS: 1. Personas sentadas en un parque en la zona de operaciones; 2. Personas presentes en un festival de música, informados a través de una declaración en el ticket de entrada; 3. Un observador de aeronave no tripulada situado junto al piloto; 4. Personas presentes en la zona de operaciones, pero que no quieren participar en ella; 5. Un trabajador del operador de UAS que está bloqueando el acceso a la zona de operaciones.",
+    "answers": [
+      "a) 1, 2 y 4.",
+      "b) 1, 3 y 4.",
+      "c) 2, 3 y 5.",
+      "d) 3, 4 y 5."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_7_05",
+    "test": "Test 7",
+    "number": 5,
+    "question": "Si durante una operación de UAS hay viento, ¿qué debemos tener en cuenta? Seleccione una:",
+    "answers": [
+      "a) El rango operativo de la aeronave no tripulada puede verse afectado.",
+      "b) Solo un piloto a distancia que disponga de un certificado para volar en situaciones de riesgo puede realizar esta operación.",
+      "c) En operaciones con viento no es posible realizar aterrizajes automáticos con el GPS.",
+      "d) El viento causa turbulencias a elevadas alturas, por lo que no se debe volar demasiado alto."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_7_06",
+    "test": "Test 7",
+    "number": 6,
+    "question": "Si se realiza un vuelo en la subcategoría A2 de la categoría «abierta» a 20 m de altura y con el modo de baja velocidad de la aeronave no tripulada activado, ¿cuál es la distancia mínima de seguridad horizontal que debería mantenerse con personas no participantes en la operación siguiendo la regla 1:1? Seleccione una:",
+    "answers": [
+      "a) 30m.",
+      "b) 40m.",
+      "c) 20m.",
+      "d) 5m."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_7_07",
+    "test": "Test 7",
+    "number": 7,
+    "question": "En relación a las atenuaciones técnicas y operacionales del riesgo en tierra, antes de una operación el piloto a distancia debe considerar: 1. La existencia de obstáculos en el entorno operativo; 2. La dirección y velocidad del viento; 3. La existencia de lugares seguros para el despegue y aterrizaje; 4. Si la aeronave cuenta con un sistema de identificación a distancia. Seleccione una:",
+    "answers": [
+      "a) 1, 2, y 3.",
+      "b) 1, 3 y 4.",
+      "c) 1, 2, 3 y 4.",
+      "d) 1 y 2."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_7_08",
+    "test": "Test 7",
+    "number": 8,
+    "question": "En un área sin obstáculos, la velocidad del viento a 100 m sobre el suelo es: Seleccione una:",
+    "answers": [
+      "a) Hasta un 50 % mayor que a nivel de suelo.",
+      "b) Hasta un 100 % mayor que a nivel de suelo.",
+      "c) Hasta un 50 % menor que a nivel de suelo.",
+      "d) Hasta un 100% menor que a nivel de suelo."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_7_09",
+    "test": "Test 7",
+    "number": 9,
+    "question": "\"La energía cinética, con la cual se determina la energia de impacto de una aeronave no tripulada al caer al suelo, depende de los siguientes factores: 1. La MTOM de la aeronave no tripulada. 2. Para aeronaves no tripuladas de ala fija, la velocidad máxima; 3. Para giroaviones, el diámetro de la estructura; 4. La capacidad de las baterías o del tanque de combustible; 5. El numero de motores.\"",
+    "answers": [
+      "a) 1, 3 y 4",
+      "b) 2, 4 y 5",
+      "c) 2, 3 y 5",
+      "d) 1, 2 y 3"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_7_10",
+    "test": "Test 7",
+    "number": 10,
+    "question": "¿Cómo se origina el viento?",
+    "answers": [
+      "a) Por las diferencias de presiones que tienen a equilibrarse, desde las bajas a las altas temperaturas",
+      "b) Por las diferencias de presiones que tiendes a desequilibrarse, desde las bajas a las altas presiones",
+      "c) Por las diferencias de presiones que tienen a desequilibrarse, desde las bajas a las altas presiones",
+      "d) Por las diferencias de presiones que tienden a equilibrarse, desde las altas a las bajas presiones"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_7_11",
+    "test": "Test 7",
+    "number": 11,
+    "question": "En una UA de ala fija la estabilidad estática longitudinal viene dada por la relación de posición entre:",
+    "answers": [
+      "a) El CG y el centro aerodinámico (CA)",
+      "b) El centro aerodinámico (CA) y el peso del ala",
+      "c) El centro aerodinámico (CA) y la longitud del ala",
+      "d) El CG y la sustentación del ala"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_7_12",
+    "test": "Test 7",
+    "number": 12,
+    "question": "Si se realiza un vuelo en la subcategoría A2 de la categoría «abierta» a 3 m de altura y con el modo de baja velocidad de la aeronave no tripulada activado, ¿Cuál es la distancia mínima de seguridad horizontal que hay que mantener con personas no participantes en la operación? Seleccione una:",
+    "answers": [
+      "a) 5m",
+      "b) 7m",
+      "c) 4m",
+      "d) 10m"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_7_13",
+    "test": "Test 7",
+    "number": 13,
+    "question": "Si se aumenta la velocidad de dos motores diagonalmente opuestos en un multirrotor, produce un momento generalizado a la aeronave que es conocido como...",
+    "answers": [
+      "a) Cabeceo",
+      "b) Tonel",
+      "c) Guiñada",
+      "d) Alabeo"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_7_14",
+    "test": "Test 7",
+    "number": 14,
+    "question": "En punto en el que deben aplicarse las fuerzas puntuales para lograr la equivalencia de las fuerzas que actúan sobre la aeronave no tripulada se denomina... Selecciona una:",
+    "answers": [
+      "a) Punto critico",
+      "b) Centro aerodinámico",
+      "c) Centro de gravedad",
+      "d) Punto centrado"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_7_15",
+    "test": "Test 7",
+    "number": 15,
+    "question": "¿Cuáles son las relaciones de tamaño y peso de las baterías? Seleccione una:",
+    "answers": [
+      "a) Cuanta menor capacidad tiene la betaría, mayor será su peso y menor su tamaño",
+      "b) Cuanta mayor capacidad tiene la betaría, mayor será su peso y mayor su tamaño.",
+      "c) Cuanta mayor capacidad tiene la batería, menor será su peso y menor su tamaño",
+      "d) Cuanta menor capacidad tiene la batería, menor será su peso y mayor su tamaño"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_7_16",
+    "test": "Test 7",
+    "number": 16,
+    "question": "La carga útil o carga de pago (payload) son aquellos elementos que pueden incorporarse a una UA. ¿Qué efectos produce sobre la UA?",
+    "answers": [
+      "a) La carga útil siempre favorece la guiñada",
+      "b) La carga útil desplaza el centro de gravedad",
+      "c) La carga útil favorece en todo caso el despegue del UAS",
+      "d) La carga útil siempre provoca inestabilidad a la UA"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_7_17",
+    "test": "Test 7",
+    "number": 17,
+    "question": "¿Cómo se realiza el cálculo para conocer la dirección del viento? Seleccione una:",
+    "answers": [
+      "a) El cálculo se realiza tomando como origen el sur y contando los grados en el sentido de las agujas del reloj",
+      "b) El cálculo se realiza tomando como origen el este y contando los grados en el sentido contrario de giro a las agujas del reloj",
+      "c) El calculo se realiza tomando como origen el norte y contando los grados en el sentido contrario de giro de las agujas del reloj",
+      "d) El cálculo se realiza tomando como origen el norte y contando los grados en el sentido de giro de las agujas del reloj"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_7_18",
+    "test": "Test 7",
+    "number": 18,
+    "question": "Si se realiza un vuelo en la categoría A2 de la categoría \"abierta\" a 4m de altura y con el modo de baja velocidad de la aeronave no tripulado activado, ¿cuál es la distancia mínima de seguridad horizontal que hay que mantener con personas no participantes en la operación? Seleccione una:",
+    "answers": [
+      "a) 5m.",
+      "b) 10m.",
+      "c) 4m.",
+      "d) 7m."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_7_19",
+    "test": "Test 7",
+    "number": 19,
+    "question": "Cómo definimos la densidad del aire. Selecciona una:",
+    "answers": [
+      "a) En la relación entre la presión de un cuerpo gaseoso y el volumen que ocupa.",
+      "b) En la relación entre la masa de un cuerpo y el volumen que ocupa",
+      "c) En la relación entre la temperatura de un cuerpo y el volumen que ocupa",
+      "d) En la relación entre la masa de un cuerpo y la temperatura que alcanza."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_7_20",
+    "test": "Test 7",
+    "number": 20,
+    "question": "¿Qué es un ciclón? Seleccione una:",
+    "answers": [
+      "a) Las tormentas y perturbaciones que acompañan a los anticiclones, como los violentos huracanes tropicales y los tifones, centrados en zonas de presión extraordinariamente bajas",
+      "b) Es la relación entre la masa de un cuerpo y la temperatura que alcanza",
+      "c) Es la relación entre la temperatura de un cuerpo y el volumen que ocupa",
+      "d) Es la relación entre la masa de un cuerpo y el volumen que ocupa"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_7_21",
+    "test": "Test 7",
+    "number": 21,
+    "question": "Cuando las isobaras están muy juntas, ¿qué indican? Seleccione una:",
+    "answers": [
+      "a) Indica que se aproxima un ola de calor o de frío dependiendo de donde proceda",
+      "b) Indican diferencia de presión, y generalmente, vientos fuertes",
+      "c) Indican igualdad de presión, y generalmente, vientos débiles",
+      "d) Indica que los puntos A y B del mapa meteorológico están muy juntos, y se puede producir una borrasca o un anticiclón"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_7_22",
+    "test": "Test 7",
+    "number": 22,
+    "question": "Los tipos de turbulencia según su origen son: Seleccione una:",
+    "answers": [
+      "a) Turbulencia de estela, racheada o rápida y lateral",
+      "b) Turbulencia mecánica, hidráulica y digital",
+      "c) Turbulencia mecánica, convectiva o térmica y de estela",
+      "d) Turbulencia fuerte, moderada y ligera."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_7_23",
+    "test": "Test 7",
+    "number": 23,
+    "question": "La velocidad del viento habitualmente se mide en nudos. ¿Cuál de las siguientes opciones es correcta en relación a la conversión de nudos al sistema internacional de medida? Seleccione una:",
+    "answers": [
+      "a) 1 nudo = 0, 614 km/h",
+      "b) 1 nudo = 0,514 km/h",
+      "c) 1 nudo = 0, 514m/s",
+      "d) 1 nudo = 5,514 m/s"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_7_24",
+    "test": "Test 7",
+    "number": 24,
+    "question": "Si se aumenta la velocidad de los motores traseros, el multirrotor bascula hacia adelante apareciendo una fuerza de avance denominada... Seleccione una:",
+    "answers": [
+      "a) Cabeceo",
+      "b) Tonel",
+      "c) Guiñada",
+      "d) Alabeo"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_7_25",
+    "test": "Test 7",
+    "number": 25,
+    "question": "A qué se denomina gradiente térmico vertical? Seleccione una:",
+    "answers": [
+      "a) A la variación que experimenta la Luna en un intervalo de elevación dado",
+      "b) A la variación que experimenta el viento en un intervalo de elevación dado",
+      "c) A la variación que experimenta la temperatura en un intervalo de elevación dado",
+      "d) A la variación que experimenta el hielo en un intervalo de elevación dado"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_7_26",
+    "test": "Test 7",
+    "number": 26,
+    "question": "¿En una aeronave no tripulada de ala fija, qué elementos actúan en la guiñada? Seleccione una:",
+    "answers": [
+      "a) Timón de dirección",
+      "b) Timón de profundidad",
+      "c) Alerones",
+      "d) Tomas de piloto"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_7_27",
+    "test": "Test 7",
+    "number": 27,
+    "question": "¿Qué es el punto de rocío? Seleccione una:",
+    "answers": [
+      "a) Es la temperatura a la cual el aire alcanza la saturación, es decir, se condensa",
+      "b) Es la menor temperatura registrada en un día, y se puede observar en entre 06:00 y las 08:00 horas",
+      "c) Es la menor temperatura registrada a la que empieza a llover",
+      "d) Es la mayor temperatura registrada en un día, y que se presenta entre las 14:00 y las 16:00"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_7_28",
+    "test": "Test 7",
+    "number": 28,
+    "question": "¿Cuál de las siguientes afirmaciones sobre el gradientes de presiones es correcta? Seleccione una:",
+    "answers": [
+      "a) El gradiente vertical de presión es la fuerza que empuja hacia arriba las nubes y despeja el cielo de precipitaciones y el gradiente horizontal de presión hace que bajen las nubes y se produzcan precipitaciones",
+      "b) El gradiente vertical de presión es cuando existen vientos racheados ascendentes y el gradiente horizontal de presión es cuando los vientos racheados son horizontales",
+      "c) El gradiente horizontal de presión está en equilibrio con la fuerza de la gravedad y el gradiente vertical es perpendicular a las isobaras sobre una superficie horizontal",
+      "d) El gradiente vertical de presión está en equilibrio con la fuerza de la gravedad y el gradiente horizontal es perpendicular a las isobaras sobre una superficie horizontal"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_7_29",
+    "test": "Test 7",
+    "number": 29,
+    "question": "En una aeronave no tripulada de ala fija, ¿Qué elementos actúan en el alabeo?",
+    "answers": [
+      "a) Timón de dirección",
+      "b) Tomas de pilot",
+      "c) Alerones",
+      "d) Timón de profundidad"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_7_30",
+    "test": "Test 7",
+    "number": 30,
+    "question": "El punto en el que deben aplicarse las fuerzas puntuales para lograr la equivalencia de las fuerzas que actúan sobre la aeronave no tripulada se denomina...",
+    "answers": [
+      "a) Punto crítico",
+      "b) Centro aerodinámico",
+      "c) Punto de centrado",
+      "d) Centro de gravedad"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_7_31",
+    "test": "Test 7",
+    "number": 31,
+    "question": "¿Cuál de los siguientes sistemas o funciones instalados en un UAS reduce el riesgo de daños a terceros en tierra?",
+    "answers": [
+      "a) Sistema de identificación a distancia directa.",
+      "b) Función de geoconsciencia",
+      "c) Función de vuelta a casa (“RTH”, return to home)",
+      "d) Luz verde intermitente"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_7_32",
+    "test": "Test 7",
+    "number": 32,
+    "question": "Según los tipos de baterías, ¿a qué nos referimos cuando hablamos de densidad energética?",
+    "answers": [
+      "a) Cantidad de carga que ofrece en relación a su densidad",
+      "b) A su velocidad de descarga",
+      "c) A su temperatura mínima de funcionamiento",
+      "d) A su velocidad de carga"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_7_33",
+    "test": "Test 7",
+    "number": 33,
+    "question": "¿Cómo se denomina el movimiento alrededor del eje vertical que se realiza al volar una aeronave no tripulada?",
+    "answers": [
+      "a) Guiñada",
+      "b) Alabeo",
+      "c) Tonel",
+      "d) Cabeceo"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "a2_test_7_34",
+    "test": "Test 7",
+    "number": 34,
+    "question": "Si el aire se mueve en la dirección de las agujas del reloj en el hemisferio Norte y, en sentido contrario en el hemisferio Sur entonces pasará lo siguiente...",
+    "answers": [
+      "a) El aire que baja se va humedeciendo y enfriando, por lo que trae consigo estabilidad y buen tiempo, con escasa probabilidad de lluvia.",
+      "b) El aire que baja se va secando y calentando, por lo que trae consigo inestabilidad y mal tiempo, con probabilidad de lluvia.",
+      "c) El aire que baja se va secando y calentando, por lo que trae consigo inestabilidad y mal tiempo, con probabilidad de lluvia.",
+      "d) El aire que baja se va secando y calentando, por lo que trae consigo estabilidad y buen tiempo, con escasa probabilidad de lluvia."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_7_35",
+    "test": "Test 7",
+    "number": 35,
+    "question": "Aumentar la MTOM de la aeronave no tripulada al incorporar una carga de pago implica:",
+    "answers": [
+      "a) Un aumento de la autonomía.",
+      "b) Un aumento de la sustentación.",
+      "c) Una reducción de la autonomía.",
+      "d) Una reducción de la potencia necesaria para el despegue."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "a2_test_7_36",
+    "test": "Test 7",
+    "number": 36,
+    "question": "¿Qué comportamiento se puede esperar de la aeronave no tripulada en caso de encontrar turbulencia durante una operación?",
+    "answers": [
+      "a) La aeronave no tripulada se comportará de manera predecible.",
+      "b) La aeronave no tripulada verá ralentizada su velocidad.",
+      "c) Ningún comportamiento anómalo, la aeronave no tripulada se mantendrá estable.",
+      "d) La aeronave no tripulada tendrá dificultadas para mantener una posición o trayectoria estable."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_7_37",
+    "test": "Test 7",
+    "number": 37,
+    "question": "En comparación con un área sin obstáculos, las velocidades del viento en las proximidades de obstáculos o en ciudades son: 1. Mucho más bajas justo por encima del suelo. 2. Aumentan más rápido al aumentar la altura 3. Mucho más altas justo por encima del suelo 4. Aumentan más despacio al aumentar la altura",
+    "answers": [
+      "a) 1 y 3",
+      "b) 1 y 2",
+      "c) 2 y 4",
+      "d) 3 y 4"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_7_38",
+    "test": "Test 7",
+    "number": 38,
+    "question": "En una zona de alta montaña la duración del vuelo con UAS es:",
+    "answers": [
+      "a) Menor debido al aumento de la densidad del aire.",
+      "b) Mayor debido a la disminución de la densidad del aire",
+      "c) Mayor debido al aumento de la densidad del aire.",
+      "d) Menor debido a la disminución de la densidad del aire."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "a2_test_7_39",
+    "test": "Test 7",
+    "number": 39,
+    "question": "¿En qué afecta el efecto del viento en las características de vuelo del UAS?",
+    "answers": [
+      "a) El plan de vuelo.",
+      "b) La maniobrabilidad y la autonomía de la aeronave no tripulada.",
+      "c) La calidad de señal del sistema para la navegación por satélite “GNSS” , por sus siglas “global navigation satellite system”",
+      "d) La carga de las baterías."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "a2_test_7_40",
+    "test": "Test 7",
+    "number": 40,
+    "question": "¿Qué indica en una batería el término “40C”?",
+    "answers": [
+      "a) Corriente máxima de descarga de 40A.",
+      "b) Máxima temperatura de operación.",
+      "c) Tasa de descarga máxima.",
+      "d) Factor de corriente de descarga máximo."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  }
+]

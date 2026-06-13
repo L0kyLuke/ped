@@ -1,0 +1,2466 @@
+[
+  {
+    "id": "test_1_01",
+    "test": "Test 1",
+    "number": 1,
+    "question": "¿Qué significa la abreviatura “AIP”?",
+    "answers": [
+      "a) Procedimientos de interceptación aeronáuticos.",
+      "b) Procedimiento de información aeronáuticos.",
+      "c) Publicación de información aeronáutica.",
+      "d) Área de información pública."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_1_02",
+    "test": "Test 1",
+    "number": 2,
+    "question": "Las aerovías, son:",
+    "answers": [
+      "a) Zonas de control radar.",
+      "b) Zonas de control.",
+      "c) TMAs.",
+      "d) Áreas de control."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_1_03",
+    "test": "Test 1",
+    "number": 3,
+    "question": "Las siglas que corresponden a “Servicio de información aeronáutica” son:",
+    "answers": [
+      "a) AIS.",
+      "b) SSI.",
+      "c) ISA.",
+      "d) SIA."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_1_04",
+    "test": "Test 1",
+    "number": 4,
+    "question": "Las siglas correspondientes a \"Centro de información de vuelo\", son:",
+    "answers": [
+      "a) FIS.",
+      "b) FIR.",
+      "c) FLY.",
+      "d) FIC."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_1_05",
+    "test": "Test 1",
+    "number": 5,
+    "question": "La abreviatura que corresponde al término Zona de control es:",
+    "answers": [
+      "a) AIP.",
+      "b) CTR.",
+      "c) TMA.",
+      "d) CTA."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_1_06",
+    "test": "Test 1",
+    "number": 6,
+    "question": "La abreviatura del servicio que controla el tráfico en el área de maniobras del AD, así como el tráfico en el circuito de tránsito y las entradas y salidas del mismo, es:",
+    "answers": [
+      "a) ACT.",
+      "b) TWR.",
+      "c) APP.",
+      "d) ACC."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_1_07",
+    "test": "Test 1",
+    "number": 7,
+    "question": "Un TMA es una:",
+    "answers": [
+      "a) Zona prohibida.",
+      "b) Zona de control.",
+      "c) Área de control.",
+      "d) Aerovía."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_1_08",
+    "test": "Test 1",
+    "number": 8,
+    "question": "Las siglas \"TRA” corresponden a:",
+    "answers": [
+      "a) Telecomunicaciones radar aeronáuticas.",
+      "b) Área de transpondedor.",
+      "c) Tráfico en aproximación.",
+      "d) Espacio aéreo temporalmente reservado."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_1_09",
+    "test": "Test 1",
+    "number": 9,
+    "question": "La definición: \"Estación móvil del servicio móvil aeronáutico instalada a bordo de una aeronave, que no sea una estación de embarcación o de dispositivo de salvamento\" corresponde a:",
+    "answers": [
+      "a) Estación móvil aeronáutica.",
+      "b) Estación de avión.",
+      "c) Estación de aeronave.",
+      "d) Estación móvil."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_1_10",
+    "test": "Test 1",
+    "number": 10,
+    "question": "¿A qué corresponde la abreviatura “TMZ”?",
+    "answers": [
+      "a) Zona obligatoria de tráfico.",
+      "b) Zona obligatoria de transpondedor.",
+      "c) Zona terminal de tráfico.",
+      "d) Zona de gestión de tráfico."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_2_01",
+    "test": "Test 2",
+    "number": 1,
+    "question": "La frecuencia inicial en la que se debería transmitir un mensaje de socorro, debería ser:",
+    "answers": [
+      "a) En la frecuencia de socorro.",
+      "b) La misma frecuencia que se estaba usando en ese momento, antes de sufrir la situación de socorro.",
+      "c) En la frecuencia 121, 5 MHz.",
+      "d) A discreción del piloto."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_2_02",
+    "test": "Test 2",
+    "number": 2,
+    "question": "La unidad de medida de frecuencia es:",
+    "answers": [
+      "a) El VHF.",
+      "b) El Hercio.",
+      "c) El megahercio.",
+      "d) El Kilohercio."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_2_03",
+    "test": "Test 2",
+    "number": 3,
+    "question": "Un megahercio equivale a:",
+    "answers": [
+      "a) 1.000.000 Hercios",
+      "b) 1.000 Hercios",
+      "c) 100 Hercios",
+      "d) 10.0000 Hercios"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_2_04",
+    "test": "Test 2",
+    "number": 4,
+    "question": "Un TMA es una",
+    "answers": [
+      "a) Zona prohibida",
+      "b) Zona de control",
+      "c) Área de control",
+      "d) Aerovia"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_2_05",
+    "test": "Test 2",
+    "number": 5,
+    "question": "La expresión “pocas nubes” (FEW) en meteorología, corresponde a:",
+    "answers": [
+      "a) 1/8-2/8 de nubes.",
+      "b) 1/3 de nubes.",
+      "c) 3/4-4/8 de nubes.",
+      "d) 1/8 de nubes."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_2_06",
+    "test": "Test 2",
+    "number": 6,
+    "question": "El alcance de recepción en VHF:",
+    "answers": [
+      "a) Aumenta al aumentar la altura.",
+      "b) Aumenta al aumentar la velocidad.",
+      "c) Aumenta al disminuir la altura.",
+      "d) Aumenta al disminuir la velocidad."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_2_07",
+    "test": "Test 2",
+    "number": 7,
+    "question": "Conforme a la 'Escala de legibilidad', una transmisión con escala 2 corresponde a:",
+    "answers": [
+      "a) Legible con dificultad.",
+      "b) Perfectamente legible.",
+      "c) Ilegible",
+      "d) Legible de vez en cuando."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_2_08",
+    "test": "Test 2",
+    "number": 8,
+    "question": "La expresión \"cielo cubierto” (OVC) en meteorología, corresponde a:",
+    "answers": [
+      "a) 8/8 de nubes.",
+      "b) 6/8 de nubes.",
+      "c) 718 de nubes.",
+      "d) 5/7 de nubes."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_2_09",
+    "test": "Test 2",
+    "number": 9,
+    "question": "La definición: “Conjunto de fases por el que pasa una onda desde su origen hasta que vuelve a su valor inicial\", corresponde a:",
+    "answers": [
+      "a) Amplitud.",
+      "b) Ciclo.",
+      "c) Frecuencia.",
+      "d) Hercio."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_2_10",
+    "test": "Test 2",
+    "number": 10,
+    "question": "Diga, ¿cuál de las siguientes bandas tiene la frecuencia más baja?",
+    "answers": [
+      "a) HF.",
+      "b) EHF.",
+      "c) VLF.",
+      "d) El VHF."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_3_01",
+    "test": "Test 3",
+    "number": 1,
+    "question": "La palabra normalizada que corresponde al significado: “He recibido toda su transmisión anterior”, es:",
+    "answers": [
+      "a) Acogido.",
+      "b) Recepcionado.",
+      "c) Aceptado.",
+      "d) Recibido."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_3_02",
+    "test": "Test 3",
+    "number": 2,
+    "question": "La palabra STANDBY significa:",
+    "answers": [
+      "a) Hable más despacio.",
+      "b) Espere.",
+      "c) No entendí su mensaje.",
+      "d) Mi mensaje ha terminado."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_3_03",
+    "test": "Test 3",
+    "number": 3,
+    "question": "Un aeródromo es un área definida de tierra o de agua (que incluye todas sus edificaciones, instalaciones y equipo) destinada, total o parcialmente, a la llegada, salida y movimiento en superficie de aeronave. En base a esta definición, podemos clasificar los aeródromos en:",
+    "answers": [
+      "a) Aeropuertos, hidroaeródromos, bases aéreas fijas y eventuales.",
+      "b) Aeropuertos públicos, bases aéreas civiles, aeródromos particulares.",
+      "c) Aeropuertos públicos, bases aéreas abiertas al tráfico civil, bases aéreas de uso exclusivo militar, helipuertos restringidos y helipuertos eventuales.",
+      "d) Aeropuertos públicos, bases aéreas abiertas al tráfico civil, bases aéreas de uso exclusivo militar, aeródromos condicionados, helipuertos condicionados."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_3_04",
+    "test": "Test 3",
+    "number": 4,
+    "question": "Referente a rumbo, ¿cómo se debe expresar la cifra 270 grados?",
+    "answers": [
+      "a) Rumbo dos setenta.",
+      "b) Rumbo veintisiete cero.",
+      "c) Rumbo oeste.",
+      "d) Rumbo dos siete cero."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_3_05",
+    "test": "Test 3",
+    "number": 5,
+    "question": "Las buenas técnicas de transmisión por radio, establecen que cuando se hable por radio, la velocidad al hablar:",
+    "answers": [
+      "a) Sea lo más lenta posible.",
+      "b) Se hable a no más de 100palabras/minuto.",
+      "c) Sea la mayor posible para ocupar la radio poco tiempo.",
+      "d) Sea en el tono de voz más bajo posible."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_3_06",
+    "test": "Test 3",
+    "number": 6,
+    "question": "La forma correcta de transmitir y colacionar la frecuencia 121,500 MHz (canal VHF separado por 25KHz), conforme a SERA 14035, es:",
+    "answers": [
+      "a) uno dos uno coma cinco.",
+      "b) uno dos uno coma quinientos.",
+      "c) uno dos uno coma cinco cero cero.",
+      "d) ciento veintiuno coma cinco cero cero."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_3_07",
+    "test": "Test 3",
+    "number": 7,
+    "question": "La manera correcta de deletrear la matrícula EC-UAS en un mensaje radiofónico, es:",
+    "answers": [
+      "a) Echo Charlie Uniform Alfa Sierra",
+      "b) Echo Charlie Union Astro Sierra.",
+      "c) Echo Charlie Union Astro Siena.",
+      "d) Echo Charlie Unicom Alfa Siena."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_3_08",
+    "test": "Test 3",
+    "number": 8,
+    "question": "¿Qué frase normalizada se debe emplear si se quiere indicar “Comunique si ha recibido y comprendido este mensaje”?",
+    "answers": [
+      "a) Confirme.",
+      "b) Acuse de recibo.",
+      "c) Comunique.",
+      "d) Reporte."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_3_09",
+    "test": "Test 3",
+    "number": 9,
+    "question": "Referido a la altura de las nubes, ¿cómo se debe expresar la cifra 2600?",
+    "answers": [
+      "a) dos mil seis cientos.",
+      "b) dos mil seis cero cero.",
+      "c) veintiséis cero cero.",
+      "d) dos mil seis."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_3_10",
+    "test": "Test 3",
+    "number": 10,
+    "question": "La instrucción “Notifique” (“Report”, en inglés) emitida por ATC, tiene el siguiente significado:",
+    "answers": [
+      "a) “Contacte con…”.",
+      "b) “Avise a…”.",
+      "c) “Colacione lo que acabo de decirle”.",
+      "d) “Páseme la siguiente información”."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_4_01",
+    "test": "Test 4",
+    "number": 1,
+    "question": "¿Qué significa la expresión “adelante” emitida por el personal ATC?",
+    "answers": [
+      "a) Pase directamente.",
+      "b) Autorizado a rodar.",
+      "c) Autorizado a despegar.",
+      "d) Prosiga con su mensaje."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_4_02",
+    "test": "Test 4",
+    "number": 2,
+    "question": "Cuanto ATC nos diga “adelante”, esto indica:",
+    "answers": [
+      "a) Que despeguemos.",
+      "b) Que repitamos el mensaje que acaba de transmitirnos.",
+      "c) Que rodemos.",
+      "d) Que prosigamos con nuestra comunicación."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_4_03",
+    "test": "Test 4",
+    "number": 3,
+    "question": "El código de transpondedor que indica que hay un fallo de comunicaciones, es:",
+    "answers": [
+      "a) 7400.",
+      "b) 7600.",
+      "c) 7500",
+      "d) 7700."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_4_04",
+    "test": "Test 4",
+    "number": 4,
+    "question": "¿Qué significa la abreviatura “HX”?",
+    "answers": [
+      "a) Horario de servicio únicamente los miércoles.",
+      "b) Horario de orto a ocaso.",
+      "c) Horario de servicio continuado.",
+      "d) Sin horario determinado de servicio."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_4_05",
+    "test": "Test 4",
+    "number": 5,
+    "question": "¿A qué corresponde la abreviatura “VMC”?",
+    "answers": [
+      "a) Condiciones meteorológicas en vuelo visual.",
+      "b) Valores mínimos de comunicación.",
+      "c) Valores meteorológicos cambiantes.",
+      "d) Vectores mandatorios de control."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_4_06",
+    "test": "Test 4",
+    "number": 6,
+    "question": "El piloto de UAS establece contacto radio con una dependencia determinada y desea efectuar una comprobación de calidad de la radiotransmisión. Elija la respuesta que indique la fraseología correcta a transmitir:",
+    "answers": [
+      "a) i. Las palabras “VERIFICACIÓN RADIO”. ii. La frecuencia que se use. iii. Identificación de la aeronave. iv. Identificación de la estación llamada.",
+      "b) i. Identificación de la estación llamada. ii. Identificación de la aeronave. iii. Las palabras “VERIFICACIÓN RADIO”. iv. La frecuencia que se use.",
+      "c) i. Identificación de la aeronave. ii. Identificación de la estación llamada. iii. La frecuencia que se use. iv. Las palabras “VERIFICACIÓN RADIO”.",
+      "d) i. La frecuencia que se use. ii. Identificación de la aeronave. iii. Las palabras “VERIFICACIÓN RADIO”. iv. Identificación de la estación llamada."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_4_07",
+    "test": "Test 4",
+    "number": 7,
+    "question": "Conforme a la “Escala de legibilidad”, una transmisión con escala 4 corresponde a:",
+    "answers": [
+      "a) Legible.",
+      "b) Ilegible.",
+      "c) Legible con dificultad.",
+      "d) Legible de vez en cuando."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_4_08",
+    "test": "Test 4",
+    "number": 8,
+    "question": "¿En cuál de las siguientes situaciones debería una aeronave responder en código SSR 7600?",
+    "answers": [
+      "a) Al aproximarse a zonas prohibidas o restringidas.",
+      "b) En caso de un fallo en las comunicaciones.",
+      "c) Al sobrevolar áreas inhóspitas.",
+      "d) Sobrevolar áreas desérticas."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_4_09",
+    "test": "Test 4",
+    "number": 9,
+    "question": "Una aeronave cuyo transpondedor emita el código SSR 7600, equivale a:",
+    "answers": [
+      "a) Que está comunicando un aterrizaje forzoso.",
+      "b) Que la aeronave se está desviando hacia el aeródromo alternativo.",
+      "c) Que está transmitiendo que la aeronave sufre un fallo de comunicaciones.",
+      "d) Que está solicitando un cambio de altitud de inmediato."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_4_10",
+    "test": "Test 4",
+    "number": 10,
+    "question": "Se requiere que una aeronave vuele 500 ft en referencia al QFE del aeródromo. A partir de ahí, todas las referencias respecto de la posición vertical de la aeronave se harán respecto a:",
+    "answers": [
+      "a) Altitudes de densidad.",
+      "b) Altitudes.",
+      "c) Niveles de vuelo.",
+      "d) Alturas."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_5_01",
+    "test": "Test 5",
+    "number": 1,
+    "question": "Los estados de emergencia, pueden ser:",
+    "answers": [
+      "a) Únicamente las situaciones de urgencia.",
+      "b) Únicamente las situaciones de socorro.",
+      "c) Tanto las situaciones de socorro como las situaciones de emergencia.",
+      "d) Las situaciones de PAN PAN MEDICAL, únicamente."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_5_02",
+    "test": "Test 5",
+    "number": 2,
+    "question": "La frecuencia inicial en la que se debería transmitir un mensaje de urgencia, debería ser:",
+    "answers": [
+      "a) Socorro.",
+      "b) Regularidad en vuelo.",
+      "c) Seguridad en vuelo.",
+      "d) Urgencia."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_5_03",
+    "test": "Test 5",
+    "number": 3,
+    "question": "Cuando hayan finalizado las condiciones de una comunicación de socorro, y del establecimiento de silencio correspondiente, se transmitirá un mensaje en la/s frecuencia/s que se esté/n utilizando para dicha comunicación. Este mensaje dirá:",
+    "answers": [
+      "a) “Cancelada urgencia”.",
+      "b) “Socorro negativo”.",
+      "c) “No socorro”.",
+      "d) “Tráfico de socorro terminado”."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_5_04",
+    "test": "Test 5",
+    "number": 4,
+    "question": "Respecto a las comunicaciones de socorro:",
+    "answers": [
+      "a) Únicamente se podrán emitir en la frecuencia 121,5 Mhz.",
+      "b) Irán precedidas de la expresión “PAN-PAN”.",
+      "c) Éstas se mantendrán, por lo general, en la frecuencia en la que se iniciaron, hasta que se considere que puede prestarse mayor ayuda mediante su transferencia a otra frecuencia, entre ellas la frecuencia internacional de emergencia de VHF o cualquier frecuencia disponible.",
+      "d) Únicamente se podrán emitir en la frecuencia 123,5 MHz."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_5_05",
+    "test": "Test 5",
+    "number": 5,
+    "question": "Con la finalidad de anunciar e identificar las aeronaves de transporte sanitario, la transmisión de la señal radiotelefónica deberá emplear la expresión __________________, repetida preferiblemente tres veces.",
+    "answers": [
+      "a) MAYDAY MEDICAL.",
+      "b) PAN PAN MEDICAL.",
+      "c) Transporte sanitario.",
+      "d) Sanitario"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_5_06",
+    "test": "Test 5",
+    "number": 6,
+    "question": "Respecto a las situaciones de socorro, ¿qué situaciones podrán imponer el silencio radio mientras dure esa situación?",
+    "answers": [
+      "a) Únicamente la estación terrestre que controle el tráfico de socorro.",
+      "b) No se puede imponer el silencio radio en esa situación.",
+      "c) Únicamente podrá hacerlo la estación que está en peligro.",
+      "d) Podrán hacerlo tanto la estación que está en peligro, como la estación que controla el tráfico de socorro."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_5_07",
+    "test": "Test 5",
+    "number": 7,
+    "question": "La señal radiofónica de “urgencia” es:",
+    "answers": [
+      "a) MAYDAY.",
+      "b) MAYDAY o PAN PAN.",
+      "c) URG.",
+      "d) PAN PAN."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_5_08",
+    "test": "Test 5",
+    "number": 8,
+    "question": "Conforme al Reglamento de Circulación Aérea y al reglamento europeo SEA, se define “Urgencia” como:",
+    "answers": [
+      "a) Condición que afecta a la seguridad únicamente de una aeronave, pero que no exige ayuda inmediata.",
+      "b) Condición que afecta a la seguridad de una aeronave o de otro vehículo, o de alguna persona a bordo o que esté al alcance de la vista, y que exige ayuda inmediata.",
+      "c) Condición que afecta a la seguridad de una aeronave o de otro vehículo, o de alguna persona a bordo o que esté al alcance de la vista, y que no exige ayuda inmediata.",
+      "d) Condición que afecta a la seguridad exclusivamente de una aeronave, y que exige ayuda inmediata."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_5_09",
+    "test": "Test 5",
+    "number": 9,
+    "question": "Las comunicaciones de urgencia se harán, por regla general:",
+    "answers": [
+      "a) A la mayor velocidad de locución, superando 100 palabras/minuto.",
+      "b) Lentas y claramente, pronunciando distintivamente cada palabra para facilitar su transcripción.",
+      "c) Empezando el mensaje con el distintivo de llamada de la aeronave.",
+      "d) Con el tono de voz más alto posible."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_5_10",
+    "test": "Test 5",
+    "number": 10,
+    "question": "Inmediatamente después de expresar el prefijo MAYDAY al transmitir un mensaje de socorro, el piloto de la aeronave que esté transmitiendo dicha circunstancia, expresará:",
+    "answers": [
+      "a) Su distintivo de llamada dos veces.",
+      "b) La última posición conocida de la aeronave.",
+      "c) La posición actual y velocidad actuales.",
+      "d) El nombre de la estación a la que se llama, si el tiempo disponible y las circunstancias lo permiten."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_6_01",
+    "test": "Test 6",
+    "number": 1,
+    "question": "Un piloto de UAS ha establecido los procedimientos de coordinación operacional, acordados con el gestor (o con el coordinador de operaciones UAS) de un aeródromo restringido. Llegada la fecha de operación, resulta que, en el aeródromo en cuestión, aparentemente no se está efectuando operación aeronáutica alguna, en contra de lo esperado. En esta situación, el piloto UAS deberá:",
+    "answers": [
+      "a) Contactar por teléfono con el gestor del aeródromo/coordinador de operaciones UAS, para exponer la situación y, acordar una medida a adoptar, como pudiera ser, efectuar una escucha activa de la radio en todo momento en la frecuencia que tuviera designada el aeródromo o en la frecuencia habitual que se usara en ese lugar, transmitir cada inicio y finalización de las operaciones UAS, indicando el área de vuelo, tiempo de vuelo, altura de vuelo, además de toda situación de emergencia que pudiera acaecer.",
+      "b) Contactar con ACC.",
+      "c) Comunicar la situación en la frecuencia de emergencia, para que desde esa frecuencia se transmita un mensaje a todas las estaciones.",
+      "d) Obviar la situación y volar el UAS directamente."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_6_02",
+    "test": "Test 6",
+    "number": 2,
+    "question": "Un UAS de ala fija se dispone a efectuar el aterrizaje en un aeródromo controlado (LEXX) 10 minutos antes, el piloto contacta con TWR para solicitar instrucciones de aterrizaje. Para ello, un ejemplo adecuado de la fraseología a emplear por el piloto a distancia, será:",
+    "answers": [
+      "a) “LEXX Torre, No tripulado Black01 Las Navetas, 4 millas al oeste de su zona de control, 400 ft, solicito instrucciones de aterrizaje”.",
+      "b) “Black01, para autorización de aterrizaje, LEXX Torre”.",
+      "c) “Black01, LEXX, solicita instrucciones para aterrizar”.",
+      "d) “No tripulado Black01, sobre Las Navetas, 4 millas al oeste de su zona de control, solicito instrucciones de aterrizaje, Torre LEXX”."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_6_03",
+    "test": "Test 6",
+    "number": 3,
+    "question": "Cuando el piloto UAS vaya a operar en el área de influencia de un aeródromo restringido que disponga de servicio radiofónico:",
+    "answers": [
+      "a) No tendrá que usar la radio, ya que únicamente será empleada por los pilotos de aeronaves convencionales.",
+      "b) Podrá relajar la disciplina radio todo lo que quiera, ya que el ambiente es más amigable que tratándose de un aeródromo controlado.",
+      "c) Debería mantener la misma disciplina radio que cuando se opera en las inmediaciones de aeródromo controlado.",
+      "d) El piloto UAS solamente podrá hacer escucha de los mensajes que se transmitan por terceros, pero no podrá ni tendrá que transmitir."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_6_04",
+    "test": "Test 6",
+    "number": 4,
+    "question": "Es posible que el piloto UAS, debido a factores fuera de su alcance, vea imposible cumplir una instrucción recibida por parte de Control, por ejemplo, presencia de aves rapaces volando a baja altura en la zona de operaciones, o la presencia de neblina, formada fuera de pronóstico. Entonces, el piloto UAS emitiría un mensaje como el siguiente:",
+    "answers": [
+      "a) “Los Álamos Control, no tripulado RP01, no puedo cumplir ruta prevista a 400 ft en VFR debido a presencia de aves rapaces a ese nivel. Pido cambiar a rumbo 045 a 300 ft”.",
+      "b) “No tripulado RP01, negativo cumplir ruta prevista a 400 ft en VFR debido a presencia de aves rapaces a ese nivel. Solicito cambiar a rumbo 045 a 300ft, Los Álamos Control”.",
+      "c) “Los Álamos Control, no tripulado RP01, imposible cumplir ruta prevista a 400 ft en VFR debido a presencia de aves rapaces a ese nivel. Solicito cambiar a rumbo 045 a 300ft”.",
+      "d) “Los Álamos Control, no puedo volar aquí porque hay aves rapaces. Cancelo autorización, No tripulado”."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_6_05",
+    "test": "Test 6",
+    "number": 5,
+    "question": "Para asegurarnos de la buena calidad de transmisión por radio, el piloto UAS deberá:",
+    "answers": [
+      "a) Mantener el radiotransceptor lo más alejado posible de la cara para incrementar la legibilidad.",
+      "b) Mientras transmita, mantener el radiotransceptor enfrentado a la cara, con el micrófono a unos 2 cm de separación respecto de los labios, para asegurar la legibilidad de transmisión.",
+      "c) Mientras transmita, mantener el radiotransceptor junto a la oreja, como si se tratase de un teléfono, Alejandro el micrófono de la cara lo más posible.",
+      "d) Hablar en el tono más alto posible para que se oiga mejor el mensaje."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_6_06",
+    "test": "Test 6",
+    "number": 6,
+    "question": "El piloto del dron Black02 recibe la siguiente instrucción emitida por ATC. \"No tripulado Black02, transpondedor 3401* ¿Cómo responderá el piloto del dron a esta instrucción?",
+    "answers": [
+      "a) \"No tripulado Black02 recibido\"",
+      "b) \"No tripulado Black02 comprendido",
+      "c) \"Transpondedor 3401 No tripulado Black02\"",
+      "d) \"Recibido transpondedor No tripulado Black02*"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_7_01",
+    "test": "Test 7",
+    "number": 1,
+    "question": "La expresión \"ATS\" corresponde a:",
+    "answers": [
+      "a) Área temporalmente segregada",
+      "b) Servicio de tránsito aéreo",
+      "c) Sistema de telecomunicaciones aeronáuticas",
+      "d) Servidumbre de tránsito aéreo"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_7_02",
+    "test": "Test 7",
+    "number": 2,
+    "question": "Los servicios de tránsito aéreo, son:",
+    "answers": [
+      "a) Servicio de control, información, alerta.",
+      "b) Servicio de control, radionavegación búsqueda y salvamento",
+      "c) Servicio de control, reglamentación, facilitación",
+      "d) Servicio de control, aproximación, facilitación"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_7_03",
+    "test": "Test 7",
+    "number": 3,
+    "question": "El AIS suministra la información aeronáutica necesaria para que las operaciones aéreas se desarrollen con seguridad operacional, regularidad, economía y eficiencia. En España, toda esa información se publica y distribuye desde los servicios centrales de Navegación Aérea de ENAIRE, de forma global, como “Paquete de documentación integrada de información”. Este paquete de información está compuesto por:",
+    "answers": [
+      "a) AIP España, Circulares de Información Aeronáutica",
+      "b) AIP España, Suplemento y enmiendas al AIP, Circulares de Información Aeronáutica (AIC), NOTAMs",
+      "c) AIP España, AIREP, AIRAC.",
+      "d) Circulares de Información Aeronáutica AIC, NOTAMs"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_7_04",
+    "test": "Test 7",
+    "number": 4,
+    "question": "La definición “Espacio aéreo de dimensiones definidas en el cual pueden desplegarse en determinados momentos actividades peligrosas para el vuelo de las aeronaves”, corresponde a:",
+    "answers": [
+      "a) Zona peligrosa",
+      "b) Zona segregada",
+      "c) Zona restringida",
+      "d) Zona prohibida"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_7_05",
+    "test": "Test 7",
+    "number": 5,
+    "question": "Conforme a las recomendaciones de OACI, ¿cuál debería ser el límite vertical inferior de un área de control?",
+    "answers": [
+      "a) No inferior a 2000' sobre terreno o agua.",
+      "b) No inferior a 300' sobre terreno o agua",
+      "c) Terreno o agua",
+      "d) No inferior a 700' sobre terreno o agua"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_7_06",
+    "test": "Test 7",
+    "number": 6,
+    "question": "Vd. Recibe el siguiente mensaje ATC: “No tripulado Ventus1, tras el despegue, autorizado a abandonar zona de control rumbo 280, mantenga 400 pies AGL, transpondedor 3516, notifique abandonando zona de control”. La categorización de este mensaje es:",
+    "answers": [
+      "a) Un mensaje de urgencia.",
+      "b) Un mensaje de seguridad en vuelo.",
+      "c) Un mensaje de radionavegación.",
+      "d) Un mensaje de regularidad en vuelo."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_7_07",
+    "test": "Test 7",
+    "number": 7,
+    "question": "La expresión que corresponde a transmisión de muy alta frecuencia es:",
+    "answers": [
+      "a) MAF",
+      "b) HFV",
+      "c) VHF",
+      "d) TRAF"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_7_08",
+    "test": "Test 7",
+    "number": 8,
+    "question": "La expresión “pocas nubes” (FEW) en meteorología, corresponde a:",
+    "answers": [
+      "a) 3/4-4/8 de nubes",
+      "b) 1/8-2/8 de nubes",
+      "c) 1/8 de nubes",
+      "d) 1/3 de nubes"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_7_09",
+    "test": "Test 7",
+    "number": 9,
+    "question": "El alcance de recepción en VHF:",
+    "answers": [
+      "a) Aumenta al aumentar la altura.",
+      "b) Aumenta al aumentar la velocidad.",
+      "c) Aumenta al disminuir la altura.",
+      "d) Aumenta al disminuir la velocidad."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_7_10",
+    "test": "Test 7",
+    "number": 10,
+    "question": "Diga, ¿cuál de las siguientes bandas tiene la frecuencia más baja?",
+    "answers": [
+      "a) HF",
+      "b) EHF",
+      "c) VLF",
+      "d) El VHF"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_7_11",
+    "test": "Test 7",
+    "number": 11,
+    "question": "Referente a la dirección y velocidad del viento, la manera correcta de expresar 270 grados, 15 nudos con ráfagas de 28 nudos es:",
+    "answers": [
+      "a) Viento oeste, quince nudos, ráfagas veintiocho.",
+      "b) Viento dos siete cero grados, uno cinco nudos, ráfagas dos ocho.",
+      "c) Viento dos cientos setenta, quince nudos, ráfagas veintiocho.",
+      "d) Viento dos siete cero grados, quince nudos, ráfagas dos ocho."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_7_12",
+    "test": "Test 7",
+    "number": 12,
+    "question": "¿Cuál de las siguientes es la forma correcta de expresar la visibilidad?",
+    "answers": [
+      "a) Visibilidad 1.200 pies",
+      "b) Visibilidad 1.200 metros",
+      "c) Visibilidad 1,2 millas naúticas",
+      "d) Visibilidad 1,2 kilómetros"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_7_13",
+    "test": "Test 7",
+    "number": 13,
+    "question": "Para expresar el significado: “Autorización concedida para la medida propuesta”, la palabra a emplear, será:",
+    "answers": [
+      "a) Facilitado",
+      "b) Aprobado",
+      "c) Expedido",
+      "d) Concedido"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_7_14",
+    "test": "Test 7",
+    "number": 14,
+    "question": "La palabra normalizada que conlleva el significado: “Anule la autorización transmitida anteriormente”, es:",
+    "answers": [
+      "a) Olvide",
+      "b) Cancele",
+      "c) Anule",
+      "d) Modifique"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_7_15",
+    "test": "Test 7",
+    "number": 15,
+    "question": "¿Qué significa la expresión “recibido”?",
+    "answers": [
+      "a) “Autorizado a aterrizar”",
+      "b) “Proceda”",
+      "c) “Autorizado a despegar”",
+      "d) “Recibida su última transmisión”"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_7_16",
+    "test": "Test 7",
+    "number": 16,
+    "question": "¿Cuál es el distintivo de llamada de la estación aeronáutica que proporciona servicio de control en el aeródromo?",
+    "answers": [
+      "a) Torre",
+      "b) Control de suelo",
+      "c) Aproximación",
+      "d) Control de zona"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_7_17",
+    "test": "Test 7",
+    "number": 17,
+    "question": "El sufijo que corresponde a la dependencia “Control de aeródromo”, es:",
+    "answers": [
+      "a) Rodadura",
+      "b) Aproximación",
+      "c) Control de aeródromo",
+      "d) Torre"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_7_18",
+    "test": "Test 7",
+    "number": 18,
+    "question": "Las aeronaves se nombrarán por su matrícula, o bien:",
+    "answers": [
+      "a) Por el color predominante en la aeronave. P.ej.: “Palma, rojo en base derecha para la 29”",
+      "b) Por los designadores concertados; p.ej.: Bluebird 144",
+      "c) El número de teléfono del operador",
+      "d) Por el apellido del piloto al mando"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_7_19",
+    "test": "Test 7",
+    "number": 19,
+    "question": "Si en frecuencia de TWR decimos, p.ej.: “Santander, EC-ABC, para prueba de radio”. ¿Qué queremos decir?",
+    "answers": [
+      "a) Así pedimos a TWR que nos controle durante todo el trayecto en que estamos en su área",
+      "b) Que pedimos a TWR que verifique la legibilidad de nuestra radio",
+      "c) La frase debería ser: “EC-ABC, para prueba de radio, Santander”",
+      "d) Es la frase para despedirnos de la torre"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_7_20",
+    "test": "Test 7",
+    "number": 20,
+    "question": "Los estados de emergencia, pueden ser:",
+    "answers": [
+      "a) Únicamente las situaciones de urgencia",
+      "b) Únicamente las situaciones de socorro",
+      "c) Tanto las situaciones de socorro como las situaciones de emergencia",
+      "d) Las situaciones de PAN PAN MEDICAL, únicamente"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_7_21",
+    "test": "Test 7",
+    "number": 21,
+    "question": "La frecuencia inicial en la que se debería transmitir un mensaje de urgencia, debería ser:",
+    "answers": [
+      "a) En la frecuencia 121,5 MHz",
+      "b) A discreción del piloto",
+      "c) En la frecuencia de urgencia",
+      "d) La misma frecuencia que se estaba usando en ese momento, antes de sufrir la situación de urgencia"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_7_22",
+    "test": "Test 7",
+    "number": 22,
+    "question": "Un mensaje concerniente a una aeronave que está siendo amenazada por un riesgo serio o inminente y que requerirá ayuda inmediata, se trata de un mensaje de:",
+    "answers": [
+      "a) Socorro",
+      "b) Regularidad en vuelo",
+      "c) Seguridad en vuelo",
+      "d) Urgencia"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_7_23",
+    "test": "Test 7",
+    "number": 23,
+    "question": "Respecto a las comunicaciones de socorro:",
+    "answers": [
+      "a) Únicamente se podrán emitir en la frecuencia 121,5 Mhz.",
+      "b) Irán precedidas de la expresión “PAN-PAN”",
+      "c) Éstas se mantendrán, por lo general, en la frecuencia en la que se iniciaron, hasta que se considere que puede prestarse mayor ayuda mediante su transferencia a otra frecuencia, entre ellas la frecuencia internacional de emergencia de VHF o cualquier frecuencia disponible",
+      "d) Únicamente se podrán emitir en la frecuencia 123,5 MHz."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_7_24",
+    "test": "Test 7",
+    "number": 24,
+    "question": "Con la finalidad de anunciar e identificar las aeronaves de transporte sanitario, la transmisión de la señal radiotelefónica deberá emplear la expresión __________________, repetida preferiblemente tres veces.",
+    "answers": [
+      "a) PAN PAN MEDICAL",
+      "b) MAYDAY MEDICAL",
+      "c) Transporte sanitario",
+      "d) Sanitario"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_7_25",
+    "test": "Test 7",
+    "number": 25,
+    "question": "Respecto a las situaciones de socorro, ¿qué situaciones podrán imponer el silencio radio mientras dure esa situación?",
+    "answers": [
+      "a) Únicamente la estación terrestre que controle el tráfico de socorro.",
+      "b) No se puede imponer el silencio radio en esa situación",
+      "c) Únicamente podrá hacerlo la estación que está en peligro",
+      "d) Podrán hacerlo tanto la estación que está en peligro, como la estación que controla el tráfico de socorro"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_7_26",
+    "test": "Test 7",
+    "number": 26,
+    "question": "La señal radiofónica de “urgencia” es:",
+    "answers": [
+      "a) MAYDAY",
+      "b) MAYDAY o PAN PAN",
+      "c) URG",
+      "d) PAN PAN"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_7_27",
+    "test": "Test 7",
+    "number": 27,
+    "question": "Conforme al Reglamento de Circulación Aérea y al reglamento europeo SEA, se define “Urgencia” como:",
+    "answers": [
+      "a) Condición que afecta a la seguridad únicamente de una aeronave, pero que no exige ayuda inmediata",
+      "b) Condición que afecta a la seguridad de una aeronave o de otro vehículo, o de alguna persona a bordo o que esté al alcance de la vista, y que exige ayuda inmediata",
+      "c) Condición que afecta a la seguridad de una aeronave o de otro vehículo, o de alguna persona a bordo o que esté al alcance de la vista, y que no exige ayuda inmediata",
+      "d) Condición que afecta a la seguridad exclusivamente de una aeronave, y que exige ayuda inmediata"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_7_28",
+    "test": "Test 7",
+    "number": 28,
+    "question": "¿Qué elementos deben siempre colacionarse en un mensaje?",
+    "answers": [
+      "a) Pista en servicio, visibilidad, viento en superficie, órdenes de rumbo, ajustes de altímetro.",
+      "b) Viento en superficie, visibilidad, temperatura, pista en servicio, ajustes de altímetro, órdenes sobre rumbo y velocidad.",
+      "c) Pista en servicio, ajustes de altímetro, códigos SSR, instrucciones de nivel, de rumbo y de velocidad.",
+      "d) Hora, pista en servicio, ajustes de altímetro, órdenes de nivel, código SSR."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_7_29",
+    "test": "Test 7",
+    "number": 29,
+    "question": "Referido a la visibilidad en vuelo, ¿cuál es la manera correcta de transmitir la cifra 2000?",
+    "answers": [
+      "a) Visibilidad dos triple cero.",
+      "b) Visibilidad dos mil cero cero cero.",
+      "c) Visibilidad dos cero cero cero.",
+      "d) Visibilidad dos mil."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_7_30",
+    "test": "Test 7",
+    "number": 30,
+    "question": "¿Qué frase se debe usar para transmitir “Repítame todo, o la siguiente parte, de su última transmisión”?",
+    "answers": [
+      "a) Recalque.",
+      "b) Notifique",
+      "c) Colacione.",
+      "d) Repita."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_7_31",
+    "test": "Test 7",
+    "number": 31,
+    "question": "Un piloto de UAS ha solicitado cancelar una instrucción ATC concedida con anterioridad ¿Puede hacerlo?",
+    "answers": [
+      "a) Sí podría, pero únicamente tratándose de situaciones de emergencia.",
+      "b) Sí podría, pero únicamente tratándose de situaciones de socorro.",
+      "c) No. El piloto UAS no puede cancelar una autorización emitida con anterioridad por ATC.",
+      "d) Sí, el piloto UAS puede solicitar la cancelación de una autorización previa cuando las circunstancias de una autorización previa cuando las circunstancias lo justifiquen y solicitar una nueva autorización."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_7_32",
+    "test": "Test 7",
+    "number": 32,
+    "question": "La expresión “Procedimiento por el que la estación receptora repite un mensaje o una parte apropiada del mismo a la estación transmisora, con el fin de obtener confirmación de que la recepción ha sido correcta”, corresponde a la definición de:",
+    "answers": [
+      "a) Aclaración",
+      "b) Comunicación",
+      "c) Colación",
+      "d) Información"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_7_33",
+    "test": "Test 7",
+    "number": 33,
+    "question": "Para expresar el significado: “Permiso para seguir en las condiciones determinadas”, la palabra a usar es:",
+    "answers": [
+      "a) facilitado",
+      "b) Autorizado",
+      "c) Permitido",
+      "d) Concedido"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_7_34",
+    "test": "Test 7",
+    "number": 34,
+    "question": "La manera correcta de deletrear la matrícula EC-RPA en un mensaje radiofónico, es:",
+    "answers": [
+      "a) Esto Charlie Remote Papa Alfa.",
+      "b) Echo Charlie Roger Papa Alfa.",
+      "c) Echo Charlie Roger Popa Alfa.",
+      "d) Echo Charlie Romeo Papa Alfa."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_7_35",
+    "test": "Test 7",
+    "number": 35,
+    "question": "Cuándo se transmita la hora ¿qué sistema horario deberá emplearse?",
+    "answers": [
+      "a) Horario LT o UTC indistintamente a criterio del emisor del mensaje.",
+      "b) Horario LT, en formato AM/PM.",
+      "c) Horario UTC, únicamente.",
+      "d) Horario local (LT), en formato de 24 horas."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_7_36",
+    "test": "Test 7",
+    "number": 36,
+    "question": "Conforme a SERA 14035. La manera correcta de transmitir y colacionar la frecuencia 122,475 MHz (Canal VHF separado por 25 KHz), es:",
+    "answers": [
+      "a) Cuatro veintidós coma cuatro siete cinco.",
+      "b) Uno dos dos coma Cuatrocientos setenta y cinco",
+      "c) Uno dos dos coma cuatro siete cinco.",
+      "d) Uno dos dos coma cuarentaisiete cinto."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_7_37",
+    "test": "Test 7",
+    "number": 37,
+    "question": "El servicio de control comprende:",
+    "answers": [
+      "a) Control de área, control de zona, control de pista",
+      "b) Control de espacio, control de aproximación, control de aeródromo.",
+      "c) Control de área, control de aproximación, control de aeródromo.",
+      "d) Control de tierra, control de aproximación, control radar."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_7_38",
+    "test": "Test 7",
+    "number": 38,
+    "question": "Elegir la frase correcta:",
+    "answers": [
+      "a) El espacio aéreo controlado abarca las clases del espacio aéreo ATS: A-B-C-D-E.",
+      "b) El espacio aéreo controlado abarca las clases del espacio aéreo ATS: A-B-C-D",
+      "c) El espacio aéreo controlado abarca las clases del espacio aéreo ATS: A-B-C-D-E-F-G",
+      "d) El espacio aéreo no controlado abarca las clases del espacio aéreo ATS: E-F-G."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_7_39",
+    "test": "Test 7",
+    "number": 39,
+    "question": "¿Cuál es el sufijo de la dependencia “Centro de control de área”?",
+    "answers": [
+      "a) Área de control.",
+      "b) Centro.",
+      "c) Control.",
+      "d) Centro de control."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_7_40",
+    "test": "Test 7",
+    "number": 40,
+    "question": "En áreas terminales congestionadas y en las que resulte necesario un control sobre las aeronaves hasta que abandonen la zona de tráfico, la torre solicitará a los aviones volando en VMC que contacten con:",
+    "answers": [
+      "a) Control Madrid",
+      "b) Control de área",
+      "c) Control de aproximación",
+      "d) Control de rodadura"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_01",
+    "test": "Test 8",
+    "number": 1,
+    "question": "¿Cómo identificar un “Espacio aéreo temporalmente segregado”?",
+    "answers": [
+      "a) Mediante las siglas ETS.",
+      "b) Mediante las siglas EATS.",
+      "c) Mediante las siglas TSA.",
+      "d) Mediante las siglas TSZ."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_02",
+    "test": "Test 8",
+    "number": 2,
+    "question": "La definición: “Conjunto de fases por el que pasa una onda desde su origen hasta que vuelve a su valor inicial\", corresponde a:",
+    "answers": [
+      "a) Amplitud.",
+      "b) Ciclo.",
+      "c) Frecuencia.",
+      "d) Hercio."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_8_03",
+    "test": "Test 8",
+    "number": 3,
+    "question": "La definición: “Espacio aéreo controlado, que se extiende hacia arriba desde un margen especificado sobre el terreno y cuyos límites comprenden el espacio aéreo necesario para permitir las trayectorias de vuelo de las aeronaves en ruta y de los vuelos IFR, a los que se suministra control de tránsito aéreo, así como incluir las ayudas a la navegación de utilización normal” corresponde a:",
+    "answers": [
+      "a) Área de control.",
+      "b) Espacio de control.",
+      "c) Zona de control.",
+      "d) Región de control."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_8_04",
+    "test": "Test 8",
+    "number": 4,
+    "question": "El alcance de la transmisión en VHF:",
+    "answers": [
+      "a) Es mayor cuanto mayor sea la altura de la aeronave.",
+      "b) Es independiente de la altura a la que vuele la aeronave.",
+      "c) Es mayor cuanto más lento vuele la aeronave.",
+      "d) Es mayor cuanto menor sea la altura de la aeronave."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_8_05",
+    "test": "Test 8",
+    "number": 5,
+    "question": "¿Quién es el responsable de la separación del tráfico del aeródromo en lo que se refiere a superficie?",
+    "answers": [
+      "a) El servicio de control de área.",
+      "b) El servicio de control de torre en el caso que no exista control de rodadura.",
+      "c) El servicio de control de aproximación y salidas.",
+      "d) El servicio de control de vuelo."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_8_06",
+    "test": "Test 8",
+    "number": 6,
+    "question": "El servicio de aproximación, controla el espacio aéreo que comprende la zona:",
+    "answers": [
+      "a) ATZ.",
+      "b) CTR y, cuando corresponda, TMA.",
+      "c) ATZ y CTA.",
+      "d) CTR."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_8_07",
+    "test": "Test 8",
+    "number": 7,
+    "question": "Conforme a la 'Escala de legibilidad*, una transmisión con escala 2 corresponde a:",
+    "answers": [
+      "a) Legible con dificultad.",
+      "b) Perfectamente legible.",
+      "c) Ilegible",
+      "d) Legible de vez en cuando."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_8_08",
+    "test": "Test 8",
+    "number": 8,
+    "question": "De los siguientes grupos de bandas de frecuencias digas cuál de ellos es el más utilizado en radiotelefonía:",
+    "answers": [
+      "a) VLF, LF, MF.",
+      "b) HF, VLF EHF.",
+      "c) EHF, SHF, VLF.",
+      "d) HF, VHF, UHF."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_8_09",
+    "test": "Test 8",
+    "number": 9,
+    "question": "La definición: “Expresión genérica que se aplica, según el caso, a un centro de control de área, o a una dependencia de control de aproximación, o a una torre de control de aeródromo”, corresponde a:",
+    "answers": [
+      "a) Espacio aéreo conformado.",
+      "b) Espacio aéreo clasificado.",
+      "c) Espacio aéreo controlado.",
+      "d) Espacio aéreo definido."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_10",
+    "test": "Test 8",
+    "number": 10,
+    "question": "¿Qué servicio es el encargado de suministrar control a las aeronaves durante las fases de aproximación, llegadas y salidas?",
+    "answers": [
+      "a) APP.",
+      "b) ATZ.",
+      "c) ATC.",
+      "d) TWR."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_8_11",
+    "test": "Test 8",
+    "number": 11,
+    "question": "El control de aproximación, generalmente, es el que nos autoriza a aterrizar:",
+    "answers": [
+      "a) Esa es la función del control de aeródromo, no del control de aproximación.",
+      "b) En aeropuertos con poco tráfico.",
+      "c) Sólo autoriza a despegar, nunca a aterrizar.",
+      "d) Sólo en condiciones de poca visibilidad."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_8_12",
+    "test": "Test 8",
+    "number": 12,
+    "question": "Si la torre nos dice: “EUY, Santander, rodar y alinear pista 11, temperatura 21 punto de rocío 15, QNH 1.001, avise listo”, contestaremos:",
+    "answers": [
+      "a) Temperatura 21, QNH 1.001, EUY.",
+      "b) Rodar y alinear 11, Temperatura 21, avisaré listo, EUY.",
+      "c) Rodar y alinear 11, QNH 1.001, avisaré listo, EUY.",
+      "d) Todas las respuestas son válidas."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_13",
+    "test": "Test 8",
+    "number": 13,
+    "question": "La abreviatura “FIR” corresponde a:",
+    "answers": [
+      "a) Radar de información de vuelo.",
+      "b) Reglas de información de vuelo.",
+      "c) Región de información de vuelo.",
+      "d) Reglas de interceptación de vuelos."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_14",
+    "test": "Test 8",
+    "number": 14,
+    "question": "Generalmente los límites inferiores de control, son:",
+    "answers": [
+      "a) 300’ sobre tierra o agua.",
+      "b) 3.000’ sobre tierra o agua.",
+      "c) Tierra o agua.",
+      "d) 1.000’ sobre tierra o agua."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_8_15",
+    "test": "Test 8",
+    "number": 15,
+    "question": "Un megahercio equivale a:",
+    "answers": [
+      "a) 1.000.000 Hercios",
+      "b) 1.000 Hercios",
+      "c) 100 Hercios",
+      "d) 10.0000 Hercios"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_8_16",
+    "test": "Test 8",
+    "number": 16,
+    "question": "La expresión \"cielo cubierto” (OVC) en meteorología, corresponde a:",
+    "answers": [
+      "a) 6/8 de nubes.",
+      "b) 718 de nubes.",
+      "c) 8/8 de nubes.",
+      "d) 5/7 de nubes."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_17",
+    "test": "Test 8",
+    "number": 17,
+    "question": "Respecto a la cabecera de pista en servicio, la manera correcta de expresar la cifra 10, es:",
+    "answers": [
+      "a) Pista diez",
+      "b) Pista cero uno cero",
+      "c) Pista uno diez",
+      "d) Pista uno cero"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_8_18",
+    "test": "Test 8",
+    "number": 18,
+    "question": "La expresión \"Break break\" se utiliza:",
+    "answers": [
+      "a) Antes de dar nuestra identificación",
+      "b) Para interrumpir una comunicación",
+      "c) Para separar mensajes a distintas aeronaves con comunicaciones radio saturadas",
+      "d) Para finalizar nuestro mensaje"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_19",
+    "test": "Test 8",
+    "number": 19,
+    "question": "Las “Reglas de vuelo visual” se expresan como:",
+    "answers": [
+      "a) RRV.",
+      "b) VVR.",
+      "c) VFR.",
+      "d) RVV."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_20",
+    "test": "Test 8",
+    "number": 20,
+    "question": "Un TMA es una",
+    "answers": [
+      "a) Zona prohibida",
+      "b) Zona de control",
+      "c) Área de control",
+      "d) Aerovia"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_21",
+    "test": "Test 8",
+    "number": 21,
+    "question": "¿Qué frase normalizada se ha de emplear para transmitir el significado “Espere y le llamaré”?",
+    "answers": [
+      "a) Espere.",
+      "b) Permanezca.",
+      "c) Aguante.",
+      "d) Aguarde."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_8_22",
+    "test": "Test 8",
+    "number": 22,
+    "question": "La frase normalizada cuyo significado es: “Haga caso omiso de está transmisión”, es:",
+    "answers": [
+      "a) Anule.",
+      "b) Rehaga.",
+      "c) Tache.",
+      "d) Olvide."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_8_23",
+    "test": "Test 8",
+    "number": 23,
+    "question": "¿Puede haber en España aeródromos restringidos que tengan obligación de empleo de radio de banda aérea, aunque no dispongan de una RMZ a su alrededor?",
+    "answers": [
+      "a) Sí, El hecho de no disponer de una RMZ no impide que algunos aeródromos restringidos puedan tener como normal la obligatoriedad del empleo de las radiocomunicaciones como requisito operacional.",
+      "b) No.",
+      "c) Ningún aeródromo restringido de España dispone de RMZ.",
+      "d) Todos los aeródromos restringidos de España disponen de RMZ."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_8_24",
+    "test": "Test 8",
+    "number": 24,
+    "question": "El orden de prioridad correcto de los siguientes grupos de mensajes que se relacionan, es:",
+    "answers": [
+      "a) Mensajes de socorro, mensajes de seguridad en vuelo, mensajes de urgencia.",
+      "b) Mensajes de urgencia, mensajes de socorro, mensajes de regularidad en vuelo.",
+      "c) Mensajes de socorro, mensajes de urgencia, mensajes de seguridad en vuelo.",
+      "d) Mensajes meteorológicos, mensajes de regularidad en vuelo, mensajes relativos a la radionavegación."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_25",
+    "test": "Test 8",
+    "number": 25,
+    "question": "Un megahercio equivale a:",
+    "answers": [
+      "a) 1.000.000 Hercios.",
+      "b) 100 Hercios.",
+      "c) 1.000 Hercios.",
+      "d) 10.000 Hercios."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_8_26",
+    "test": "Test 8",
+    "number": 26,
+    "question": "El piloto del dron Black02 recibe la siguiente instrucción emitida por ATC. \"No tripulado Black02, transpondedor 3401* ¿Cómo responderá el piloto del dron a esta instrucción?",
+    "answers": [
+      "a) \"No tripulado Black02 recibido*",
+      "b) \"No tripulado Black02 comprendido",
+      "c) \"Transpondedor 3401 No tripulado Black02\"",
+      "d) \"Recibido transpondedor No tripulado Black02*"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_27",
+    "test": "Test 8",
+    "number": 27,
+    "question": "Un piloto de UAS contacta con el FIS de un AFIS. Lo primero que solicita el piloto del UAS matriculado EC-RPA es verificar la calidad de la radiotransmisión. La respuesta que obtiene el piloto es la siguiente: “No tripulado EC-RPA, LEXX Información, le recibo 5” ¿Qué significa esta expresión?",
+    "answers": [
+      "a) Que la transmisión es legible con dificultad.",
+      "b) Que la transmisión es perfectamente legible.",
+      "c) Que la transmisión es legible de vez en cuando.",
+      "d) Que la transmisión es ilegible."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_8_28",
+    "test": "Test 8",
+    "number": 28,
+    "question": "¿Cuál es el distintivo de llamada radiofónico de la estación aeronáutica que proporciona control de superficie en el aérea de maniobras del aeródromo?",
+    "answers": [
+      "a) Maniobras.",
+      "b) Aproximación.",
+      "c) Control.",
+      "d) Rodadura."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_8_29",
+    "test": "Test 8",
+    "number": 29,
+    "question": "¿Cuál es el sufijo que corresponde a la dependencia “Control de aproximación”?",
+    "answers": [
+      "a) Control de torre.",
+      "b) Control de área.",
+      "c) Control de aproximación.",
+      "d) Aproximación."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_8_30",
+    "test": "Test 8",
+    "number": 30,
+    "question": "Un piloto de UAS ha establecido los procedimientos de coordinación operacional, acordados con el gestor (o con el coordinador de operaciones UAS) de un aeródromo restringido. Llegada la fecha de operación, resulta que, en el aeródromo en cuestión, aparentemente no se está efectuando operación aeronáutica alguna, en contra de lo esperado. En esta situación, el piloto UAS deberá:",
+    "answers": [
+      "a) Contactar por teléfono con el gestor del aeródromo/coordinador de operaciones UAS, para exponer la situación y, acordar una medida a adoptar, como pudiera ser, efectuar una escucha activa de la radio en todo momento en la frecuencia que tuviera designada el aeródromo o en la frecuencia habitual que se usara en ese lugar, transmitir cada inicio y finalización de las operaciones UAS, indicando el área de vuelo, tiempo de vuelo, altura de vuelo, además de toda situación de emergencia que pudiera acaecer.",
+      "b) Contactar con ACC.",
+      "c) Comunicar la situación en la frecuencia de emergencia, para que desde esa frecuencia se transmita un mensaje a todas las estaciones.",
+      "d) Obviar la situación y volar el UAS directamente."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_8_31",
+    "test": "Test 8",
+    "number": 31,
+    "question": "La técnica denominada “colación”:",
+    "answers": [
+      "a) No debe ser usada por los pilotos UAS. Solamente se usa para las comunicaciones referentes a las aeronaves convencionales.",
+      "b) Se emplea para sacar a relucir los comentarios iniciales de una comunicación.",
+      "c) Permite cerciorarse al emisor del mensaje, que el mensaje ha sido recibido con integridad y claridad.",
+      "d) Es una técnica para dictar maniobras de vuelo de ejecución inmediata."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_32",
+    "test": "Test 8",
+    "number": 32,
+    "question": "Es posible que el piloto UAS, debido a factores fuera de su alcance, vea imposible cumplir una instrucción recibida por parte de Control, por ejemplo, presencia de aves rapaces volando a baja altura en la zona de operaciones, o la presencia de neblina, formada fuera de pronóstico. Entonces, el piloto UAS emitiría un mensaje como el siguiente:",
+    "answers": [
+      "a) “Los Álamos Control, no tripulado RP01, no puedo cumplir ruta prevista a 400 ft en VFR debido a presencia de aves rapaces a ese nivel. Pido cambiar a rumbo 045 a 300 ft”.",
+      "b) “No tripulado RP01, negativo cumplir ruta prevista a 400 ft en VFR debido a presencia de aves rapaces a ese nivel. Solicito cambiar a rumbo 045 a 300ft, Los Álamos Control”.",
+      "c) “Los Álamos Control, no tripulado RP01, imposible cumplir ruta prevista a 400 ft en VFR debido a presencia de aves rapaces a ese nivel. Solicito cambiar a rumbo 045 a 300ft”.",
+      "d) “Los Álamos Control, no puedo volar aquí porque hay aves rapaces. Cancelo autorización, No tripulado”."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_33",
+    "test": "Test 8",
+    "number": 33,
+    "question": "El código SSR 7700 emitido por el transpondedor de una aeronave corresponde al anuncio de:",
+    "answers": [
+      "a) Una situación de emergencia.",
+      "b) Un fallo de comunicaciones.",
+      "c) Una solicitud de establecimiento de contacto radar.",
+      "d) El sobrevuelo de una zona peligrosa."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_8_34",
+    "test": "Test 8",
+    "number": 34,
+    "question": "Las comunicaciones de urgencia se harán, por regla general:",
+    "answers": [
+      "a) A la mayor velocidad de locución, superando 100 palabras/minuto.",
+      "b) Lentas y claramente, pronunciando distintivamente cada palabra para facilitar su transcripción.",
+      "c) Empezando el mensaje con el distintivo de llamada de la aeronave.",
+      "d) Con el tono de voz más alto posible."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_8_35",
+    "test": "Test 8",
+    "number": 35,
+    "question": "La forma correcta de transmitir y colacionar la frecuencia 122,600 MHz (canal VHF separado por 25 KHz), conforme a SERA 14035, es:",
+    "answers": [
+      "a) uno dos dos coma seiscientos.",
+      "b) ciento veintidós coma seis cero cero.",
+      "c) uno dos dos coma seis.",
+      "d) uno dos dos coma seis cero cero."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_8_36",
+    "test": "Test 8",
+    "number": 36,
+    "question": "Elija la combinación correcta:",
+    "answers": [
+      "a) QFE=alturas; QNH=niveles de vuelo; QNE=altitudes.",
+      "b) QNH=altitudes; QNE=niveles de vuelo; QFE=alturas.",
+      "c) QFE=niveles de vuelo; QNE=altitudes; QNH=alturas.",
+      "d) QNH=alturas; QFE=niveles de vuelo; QNE=alturas."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_8_37",
+    "test": "Test 8",
+    "number": 37,
+    "question": "¿Cómo debe informar un piloto a torre que se encuentra “Listo para el despegue”?",
+    "answers": [
+      "a) “Listo para salida” o “listo”.",
+      "b) “Listo para alinear”.",
+      "c) Que repitamos el mensaje que acaba de transmitirnos.",
+      "d) “Listo para salir”."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_8_38",
+    "test": "Test 8",
+    "number": 38,
+    "question": "Se requiere que una aeronave vuele a 2.5000 ft en referencia al QNH. Por tanto, la referencia respecto de la posición vertical de la aeronave se hará respecto a:",
+    "answers": [
+      "a) Niveles de vuelo.",
+      "b) Altitud.",
+      "c) Altitud de la densidad.",
+      "d) Alturas."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_8_39",
+    "test": "Test 8",
+    "number": 39,
+    "question": "Para asegurarnos de la buena calidad de transmisión por radio, el piloto UAS deberá:",
+    "answers": [
+      "a) Mantener el radiotransceptor lo más alejado posible de la cara para incrementar la legibilidad.",
+      "b) Mientras transmita, mantener el radiotransceptor enfrentado a la cara, con el micrófono a unos 2 cm de separación respecto de los labios, para asegurar la legibilidad de transmisión.",
+      "c) Mientras transmita, mantener el radiotransceptor junto a la oreja, como si se tratase de un teléfono, Alejandro el micrófono de la cara lo más posible.",
+      "d) Hablar en el tono más alto posible para que se oiga mejor el mensaje."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_8_40",
+    "test": "Test 8",
+    "number": 40,
+    "question": "¿Qué significa la abreviatura “ACC”?",
+    "answers": [
+      "a) Área de contacto con control.",
+      "b) Área central de comunicaciones.",
+      "c) Centro de control de área.",
+      "d) Autonomía de control centralizada."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_9_01",
+    "test": "Test 9",
+    "number": 1,
+    "question": "La definición: “Expresión genérica que se aplica, según el caso, a un centro de control de área, o a una dependencia de control de aproximación, o a una torre de control de aeródromo”, corresponde a:",
+    "answers": [
+      "a) Dependencia de información.",
+      "b) Dependencia de control de tránsito aéreo.",
+      "c) Dependencia de centros.",
+      "d) Dependencia."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_9_02",
+    "test": "Test 9",
+    "number": 2,
+    "question": "Una aeronave que esté sufriendo una situación de socorro, deberá emitir un mensaje radiofónico iniciado con la expresión:",
+    "answers": [
+      "a) PAN PAN PAN.",
+      "b) SOCORRO SOCORRO SOCORRO.",
+      "c) URGENCIA URGENCIA URGENCIA.",
+      "d) MAYDAY MAYDAY MAYDAY."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_9_03",
+    "test": "Test 9",
+    "number": 3,
+    "question": "La definición: “Servicio móvil entre estaciones aeronáuticas y estaciones de aeronave, o entre estaciones de aeronave, en el que también pueden participar las estaciones de embarcación o de dispositivo de salvamento; también pueden considerarse incluidas en este servicio las estaciones de radiobaliza de localización de siniestros que operen en las frecuencias de socorro y urgencia destinadas”, corresponde a:",
+    "answers": [
+      "a) Servicio de aeronave.",
+      "b) Servicio de comunicaciones.",
+      "c) Servicio móvil aeronáutico.",
+      "d) Servicio inter estaciones."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_9_04",
+    "test": "Test 9",
+    "number": 4,
+    "question": "¿Cuántas partes componen el AIP?",
+    "answers": [
+      "a) Dos: En ruta (ENR), Aeropuertos (AD).",
+      "b) Dos: Generalidades (GEN), En ruta (ENR).",
+      "c) Tres: Generalidades (GEN), En ruta (ENR), Aeródromos (AD).",
+      "d) Cuatro: Introducción (INT), Servicios (SVC), Aeronaves (ACFT), Aeropuertos (AD)."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_9_05",
+    "test": "Test 9",
+    "number": 5,
+    "question": "Las siglas que corresponden a “Torre del control” son:",
+    "answers": [
+      "a) TCL.",
+      "b) TWR.",
+      "c) CTT.",
+      "d) TCR."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_9_06",
+    "test": "Test 9",
+    "number": 6,
+    "question": "Referido a niveles de vuelo, ¿cómo se deberá transmitir la cifra 100?",
+    "answers": [
+      "a) Nivel de vuelo uno cero cero.",
+      "b) Nivel de vuelo cien.",
+      "c) Nivel de vuelo ciento.",
+      "d) Nivel de vuelo uno cien."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_9_07",
+    "test": "Test 9",
+    "number": 7,
+    "question": "En los aeródromos controlados, la frecuencia de control de rodadura:",
+    "answers": [
+      "a) Ninguna es correcta.",
+      "b) Siempre es la misma que la de la torre.",
+      "c) Puede ser distinta de la torre.",
+      "d) Coincide con la de aproximación."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_9_08",
+    "test": "Test 9",
+    "number": 8,
+    "question": "El alcance de la transmisión en VHF:",
+    "answers": [
+      "a) Es mayor cuanto mayor sea la altura de la aeronave.",
+      "b) Es independiente de la altura a la que vuele la aeronave.",
+      "c) Es mayor cuanto más lento vuele la aeronave.",
+      "d) Es mayor cuanto menor sea la altura de la aeronave."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_9_09",
+    "test": "Test 9",
+    "number": 9,
+    "question": "Si el controlador ATC quisiera expresar al piloto el siguiente significado “Continúe según las condiciones especificadas” la expresión normalizada a usar será:",
+    "answers": [
+      "a) Siga.",
+      "b) Continúe.",
+      "c) Permanezca.",
+      "d) Mantenga."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_9_10",
+    "test": "Test 9",
+    "number": 10,
+    "question": "Antes de iniciar la transmisión, haga escucha en la frecuencia que ha de utilizarse, para verificar que no habrá interferencias con la transmisión de otra estación. Por lo general, el primer contacto en las transmisiones radiofónicas, tendrá una estructura estandarizada, la cual se compone en tres partes:",
+    "answers": [
+      "a) Indicativo de la estación destinataria, 2º: Mensaje, 3º: Indicativo de la estación destinataria posterior.",
+      "b) Indicativo de la estación destinataria, 2º: Indicativo de la estación emisora, 3º Mensaje.",
+      "c) Mensaje, 2º Indicativo de la estación emisor, 3º: Indicativo de la estación destinataria.",
+      "d) Indicativo de la estación emisora, 2º: Indicativo de la estación destinataria, 3º: Mensaje."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_9_11",
+    "test": "Test 9",
+    "number": 11,
+    "question": "En un aeropuerto con control de rodadura, de aeródromo (torre) y de aproximación, ¿quién nos dará información acerca de plataformas y calles de rodaje?",
+    "answers": [
+      "a) En un aeropuerto con control de rodadura, de aeródromo (torre) y de aproximación, ¿quién nos dará información acerca de plataformas y calles de rodaje?",
+      "b) Control de aeródromo (torre).",
+      "c) Control de aproximación.",
+      "d) Control de rodadura."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_9_12",
+    "test": "Test 9",
+    "number": 12,
+    "question": "¿Qué consecuencia conlleva quedarse con el botón del micrófono pulsado tras haber finalizado la transmisión (“micro pisado”)?",
+    "answers": [
+      "a) Aparte de gastar más batería de la necesaria, no tiene más consecuencias.",
+      "b) No tiene consecuencia alguna.",
+      "c) Es beneficioso ya que, de esa manera, el canal de radio se mantiene silenciado y nadie más lo puede ocupar.",
+      "d) Nadie más podrá transmitir en esa frecuencia hasta quedarse libre el pulsador del micrófono."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_9_13",
+    "test": "Test 9",
+    "number": 13,
+    "question": "Para expresar “Está bien”, la palabra normalizada que ha de usarse es:",
+    "answers": [
+      "a) Vale.",
+      "b) Bueno.",
+      "c) Correcto.",
+      "d) Bien."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_9_14",
+    "test": "Test 9",
+    "number": 14,
+    "question": "El número 175 por radio se dirá:",
+    "answers": [
+      "a) Ciento setenta y cinco.",
+      "b) Uno setenta y cinco.",
+      "c) Ninguna es correcta.",
+      "d) Uno siete cinco."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_9_15",
+    "test": "Test 9",
+    "number": 15,
+    "question": "¿Cuál es el significado de la expresión “Comprendido”?",
+    "answers": [
+      "a) “He comprendido su mensaje y procederé de acuerdo”.",
+      "b) “Entiendo lo que dice”.",
+      "c) “He recibido entera su última transmisión”.",
+      "d) “Le recibo fuere y claro”"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_9_16",
+    "test": "Test 9",
+    "number": 16,
+    "question": "Una buena técnica de transmisión por radio, es aquella en la que:",
+    "answers": [
+      "a) Se mantiene el micrófono tocando los labios para asegurar la legibilidad.",
+      "b) Se mantiene el micrófono lo más alejado posible para incrementar la legibilidad.",
+      "c) Se mantiene el micrófono cerca de los labios, pero sin tocarlos para asegurar la legibilidad.",
+      "d) Se mantiene el micrófono en cualquier posición, ya que no afecta a la legibilidad."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_9_17",
+    "test": "Test 9",
+    "number": 17,
+    "question": "Son las 16:43 horas. La manera correcta de expresarlo será:",
+    "answers": [
+      "a) Cuatro tres o uno seis cuatro tres.",
+      "b) Dieciséis cuarenta y tres.",
+      "c) Cuarenta y tres.",
+      "d) Cuatro pm cuarenta y tres."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_9_18",
+    "test": "Test 9",
+    "number": 18,
+    "question": "Antes de transmitir, el piloto deberá:",
+    "answers": [
+      "a) Escuchar la frecuencia en la que se desea transmitir el mensaje para asegurarse que no habrá una interferencia con la transmisión de otra estación anterior.",
+      "b) Asegurarse de que la aeronave esté volando en vuelo recto y nivelado.",
+      "c) Pulsar el ptt (push to talk) para asegurarse la transmisión.",
+      "d) Escuchar en la frecuencia en la que se desea transmitir el mensaje, al menos con 15 minutos de antelación."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_9_19",
+    "test": "Test 9",
+    "number": 19,
+    "question": "Conforme a la relación de palabras y frases normalizadas en radiotelefonía aeronáutica, ¿qué significa la expresión “Aprobado”?",
+    "answers": [
+      "a) Solamente se puede usar en referencia a movimientos de la aeronave en superficie.",
+      "b) Correcto.",
+      "c) Autorización concedida para la petición propuesta.",
+      "d) Solamente se puede usar en referencia al plan de vuelo."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_9_20",
+    "test": "Test 9",
+    "number": 20,
+    "question": "La expresión “nubes dispersas” (SCT) en meteorología corresponde a:",
+    "answers": [
+      "a) 5/8 -7/8 de nubes.",
+      "b) 1/8 - 2/8 de nubes.",
+      "c) 2/8 - 3/8 de nubes.",
+      "d) 3/8 - 4/8 de nubes."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_9_21",
+    "test": "Test 9",
+    "number": 21,
+    "question": "Conforme a la “Escala de legibilidad”, una transmisión con escala 2 corresponde a:",
+    "answers": [
+      "a) Ilegible.",
+      "b) Legible de vez en cuando.",
+      "c) Perfectamente legible.",
+      "d) Legible con dificultad."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_9_22",
+    "test": "Test 9",
+    "number": 22,
+    "question": "La frase que ha de usarse para preguntar por la legibilidad de nuestra transmisión por radio es:",
+    "answers": [
+      "a) “Colacióneme mi transmisión”.",
+      "b) “¿Cómo me recibe?”.",
+      "c) “Reporte si me oye bien”.",
+      "d) “Notifique radio OK”."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_9_23",
+    "test": "Test 9",
+    "number": 23,
+    "question": "De los siguientes datos, ¿cuál NO es necesario reportar cuando se emite un informe de posición en ruta?",
+    "answers": [
+      "a) Posición siguiente por la que se pasará.",
+      "b) Nivel de vuelo o altitud.",
+      "c) Hora.",
+      "d) Aeropuerto más cercano."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_9_24",
+    "test": "Test 9",
+    "number": 24,
+    "question": "En un aeropuerto con las comunicaciones muy congestionadas. ¿Qué medida tomaría para no entorpecer las mismas a la hora de recibir una autorización?",
+    "answers": [
+      "a) Memorizar la autorización para colacionarla correctamente.",
+      "b) Anotar la autorización para luego no tener dudas a la hora de colacionarla.",
+      "c) Evitar pedir autorización para rodar. Rodaremos directamente y nos pararemos en el punto de espera de la pista en servicio.",
+      "d) No colacionar ninguna autorización."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_9_25",
+    "test": "Test 9",
+    "number": 25,
+    "question": "¿Qué significa la abreviatura “AIP”?",
+    "answers": [
+      "a) Procedimientos de interceptación aeronáuticos.",
+      "b) Procedimiento de información aeronáuticos.",
+      "c) Publicación de información aeronáutica.",
+      "d) Área de información pública."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_9_26",
+    "test": "Test 9",
+    "number": 26,
+    "question": "Inmediatamente después de expresar el prefijo MAYDAY al transmitir un mensaje de socorro, el piloto de la aeronave que esté transmitiendo dicha circunstancia, expresará:",
+    "answers": [
+      "a) Su distintivo de llamada dos veces.",
+      "b) La última posición conocida de la aeronave.",
+      "c) La posición actual y velocidad actuales.",
+      "d) El nombre de la estación a la que se llama, si el tiempo disponible y las circunstancias lo permiten."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_9_27",
+    "test": "Test 9",
+    "number": 27,
+    "question": "Una aeronave que esté sufriendo una situación de socorro, deberá emitir un mensaje radiofónico iniciado con la expresión:",
+    "answers": [
+      "a) PAN PAN PAN.",
+      "b) MAYDAY MAYDAY MAYDAY.",
+      "c) SOCORRO SOCORRO SOCORRO.",
+      "d) URGENCIA URGENCIA URGENCIA."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_9_28",
+    "test": "Test 9",
+    "number": 28,
+    "question": "Referente a rumbo, ¿cómo se debe expresar la cifra 045 grados?",
+    "answers": [
+      "a) Rumbo cero cuarenta y cinto.",
+      "b) Rumbo cero cuatro cinco.",
+      "c) Rumbo cuatro cinco.",
+      "d) Rumbo noreste."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_9_29",
+    "test": "Test 9",
+    "number": 29,
+    "question": "La expresión “AGL” corresponde a:",
+    "answers": [
+      "a) Área terrestre con enlace.",
+      "b) Sobre el nivel del mar.",
+      "c) Sobre el nivel del terreno.",
+      "d) Sobre el nivel de vuelo."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_9_30",
+    "test": "Test 9",
+    "number": 30,
+    "question": "Si un piloto escucha un mensaje de urgencia, deberá:",
+    "answers": [
+      "a) Imponer silencio radio.",
+      "b) Escuchar para poder prestar ayuda, si es necesario.",
+      "c) Cambiar de frecuencia que se impondrá silencio radio en la que se está usando en ese momento.",
+      "d) Acusar recibo del mensaje inmediatamente."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_9_31",
+    "test": "Test 9",
+    "number": 31,
+    "question": "Antes de transmitir un mensaje por radio, el piloto UAS:",
+    "answers": [
+      "a) Pulsar el interruptor tres veces para asegurarse que llama la atención al interlocutor.",
+      "b) Llamar por teléfono al FIC.",
+      "c) Llamar por teléfono al ACC.",
+      "d) Deberá escuchar previamente en la frecuencia en la que se desea transmitir el mensaje, para asegurarse de que la misma está libre y no interrumpirá una transmisión anterior."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_9_32",
+    "test": "Test 9",
+    "number": 32,
+    "question": "Clasificación del espacio aéreo y Servicios de tránsito aéreo (1)",
+    "answers": [
+      "a) CTR.",
+      "b) TAZ.",
+      "c) ZTA.",
+      "d) ATZ."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_9_33",
+    "test": "Test 9",
+    "number": 33,
+    "question": "La abreviatura correspondiente a “Red de telecomunicaciones fijas aeronáuticas”:",
+    "answers": [
+      "a) RTFA.",
+      "b) TFNA.",
+      "c) AFTN.",
+      "d) TFAR."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_9_34",
+    "test": "Test 9",
+    "number": 34,
+    "question": "Si a un piloto se le solicitase que comunique su nivel de vuelo ¿a qué código Q se remitiría?",
+    "answers": [
+      "a) QDR.",
+      "b) QNE.",
+      "c) QFE.",
+      "d) QNH."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_9_35",
+    "test": "Test 9",
+    "number": 35,
+    "question": "Como pilotos UAS, ¿cuánto tiempo deberíamos esperar para recibir la respuesta a un mensaje que hayamos transmitido por radio?",
+    "answers": [
+      "a) 5 minutos.",
+      "b) 30 segundos.",
+      "c) 10 segundos.",
+      "d) La respuesta debería ser siempre inmediata."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_9_36",
+    "test": "Test 9",
+    "number": 36,
+    "question": "La palabra normalizada que corresponde al significado: “He recibido toda su transmisión anterior”, es:",
+    "answers": [
+      "a) Acogido.",
+      "b) Recepcionado.",
+      "c) Aceptado.",
+      "d) Recibido."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_9_37",
+    "test": "Test 9",
+    "number": 37,
+    "question": "Un mensaje radiofónico será más efectivo y más fácil de comprender si:",
+    "answers": [
+      "a) Se usa un nivel acústico constante al hablar.",
+      "b) Se repite dos veces cada palabra.",
+      "c) Se enfatiza cada inicio de palabra.",
+      "d) Se enfatiza al final."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_9_38",
+    "test": "Test 9",
+    "number": 38,
+    "question": "Cuando una estación aeronáutica difunda información a más de una estación, la llamada comenzará con la expresión:",
+    "answers": [
+      "a) “A todas las estaciones”.",
+      "b) “Atención general”.",
+      "c) “Aviso general”.",
+      "d) “Llamada global”."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_9_39",
+    "test": "Test 9",
+    "number": 39,
+    "question": "Si la estación llamada por la aeronave no acusa recibo del mensaje de socorro, las demás estaciones (aeronáuticas o de aeronave):",
+    "answers": [
+      "a) No podrán prestar ayuda alguna.",
+      "b) Podrán interrumpir el mensaje de socorro en cualquier momento.",
+      "c) Prestarán la ayuda necesaria.",
+      "d) No tienen que hacer nada ya que es una situación ajena."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_9_40",
+    "test": "Test 9",
+    "number": 40,
+    "question": "El sufijo que corresponde a la dependencia “Salidas con radar de control de aproximación”, es:",
+    "answers": [
+      "a) Salidas.",
+      "b) Control.",
+      "c) Aproximaciones.",
+      "d) Radar."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  }
+]

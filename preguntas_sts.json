@@ -1,0 +1,2801 @@
+[
+  {
+    "id": "sts_test_1_01",
+    "test": "Test 1",
+    "number": 1,
+    "question": "Las operaciones de UAS en el escenario estándar STS-02 se pueden realizar con la aeronave no tripulada en modo BVLOS en todo momento",
+    "answers": [
+      "a) Si, siempre que los primeros 2 minutos sean en modo VLOS.",
+      "b) No, en el escenario estándar STS-02 las operaciones serán en modo VLOS.",
+      "c) Sí, esa es una característica específica del escenario estándar STS-02.",
+      "d) Si, siempre que el piloto a distancia disponga de la licencia de piloto de ultraligeros."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_1_02",
+    "test": "Test 1",
+    "number": 2,
+    "question": "Por definición, el escenario estándar STS-01 se refiere a:",
+    "answers": [
+      "a) Operaciones de una aeronave no tripulada en BVLOS con observadores del espacio aéreo sobre una zona terrestre controlada en un entorno poco poblado",
+      "b) Operaciones de enjambre de aeronaves no tripuladas en VLOS",
+      "c) Operaciones de una aeronave no tripulada en VLOS sobre una zona terrestre controlada en un entorno poblado",
+      "d) Operaciones de una aeronave no tripulada en VLOS sobre una zona terrestre controlada en un entorno despoblado"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_1_03",
+    "test": "Test 1",
+    "number": 3,
+    "question": "En categoría específica, el operador de UAS ¿deberá incluir los procedimientos operacionales en el manual de operaciones?",
+    "answers": [
+      "a) Sólo si el operador de UAS y el piloto a distancia son la misma persona",
+      "b) Si, siempre incluirá los procedimientos operacionales en su manual de operaciones",
+      "c) Si, siempre y cuando no se disponga de manual de usuario",
+      "d) No, ya que no es necesario disponer de un manual de operaciones"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_1_04",
+    "test": "Test 1",
+    "number": 4,
+    "question": "La aplicación web de Enaire Drones permite al piloto de una aeronave no tripulada:",
+    "answers": [
+      "a) Consultar las posibles limitaciones y restricciones impuestas en la zona de operación",
+      "b) Consultar la presencia de otras aeronaves no tripuladas en la zona de operación",
+      "c) Consultar la previsión meteorológica de una zona concreta de operación",
+      "d) Consultar los planes de vuelo presentados por las aeronaves comerciales"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_1_05",
+    "test": "Test 1",
+    "number": 5,
+    "question": "¿Cuál es la longitud máxima permitida para el cable de tracción de una aeronave no tripulada anclada?",
+    "answers": [
+      "a) 120m",
+      "b) 50m",
+      "c) 40m",
+      "d) 20m"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_1_06",
+    "test": "Test 1",
+    "number": 6,
+    "question": "En un vuelo BVLOS, ¿A qué distancia se tiene que situar el observador?",
+    "answers": [
+      "a) A 4 km. si volamos a 6km",
+      "b) No hace falta observador ya que es BVLOS",
+      "c) Al lado del piloto",
+      "d) A 1km"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_1_07",
+    "test": "Test 1",
+    "number": 7,
+    "question": "La altura máxima de vuelo será:",
+    "answers": [
+      "a) En STS no hay límite de altura",
+      "b) 120m. respecto del lugar de despegue",
+      "c) 120m. del punto más cercano al UAS en la superficie terrestre",
+      "d) 80m. respecto al punto más elevado en un radio de 150m"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_1_08",
+    "test": "Test 1",
+    "number": 8,
+    "question": "Un operador de UAS pretende operar de acuerdo con una PDRA. Antes de operar, él:",
+    "answers": [
+      "a) Puede comenzar a operar sin notificar a la autoridad si cumple la PDRA al completo",
+      "b) Solo puede operar UAS de ala fija",
+      "c) Debe presentar una autorización operacional a la autoridad competente",
+      "d) Debe realizar una evaluación de riesgos completa utilizando toda la metodología SORA"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_1_09",
+    "test": "Test 1",
+    "number": 9,
+    "question": "Volar utilizando las reglas de vuelo por instrumentos (IFR):",
+    "answers": [
+      "a) Está permitido solo en el espacio aéreo de clase A",
+      "b) Está permitido solo en el espacio aéreo de clase C",
+      "c) Está permitido solo en el espacio aéreo de clase B",
+      "d) Está permitido en todas las clases de espacios aéreos"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_1_10",
+    "test": "Test 1",
+    "number": 10,
+    "question": "Qué mitigación no puede utilizarse para detectar otras aeronaves:",
+    "answers": [
+      "a) Detector ADS-B",
+      "b) Monitorización de radio de la banda aérea",
+      "c) Un NOTAM",
+      "d) Un radar"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_2_01",
+    "test": "Test 2",
+    "number": 1,
+    "question": "El consumo de Alcohol en pequeñas cantidades:",
+    "answers": [
+      "a) No afecta en absoluto a las capacidades psicomotrices",
+      "b) No es recomendable antes del vuelo",
+      "c) Actúa como estimulante cerebral",
+      "d) Puede mejorar las funciones mentales"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_2_02",
+    "test": "Test 2",
+    "number": 2,
+    "question": "La consciencia situacional puede verse afectada negativamente por: 1. Concentración. 2. Elevada carga de trabajo. 3. Estrés. 4. Fatiga",
+    "answers": [
+      "a) 2, 3 y 4",
+      "b) 1, 2 y 3",
+      "c) 1 y 3",
+      "d) 3 y 4"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_2_03",
+    "test": "Test 2",
+    "number": 3,
+    "question": "¿Cuándo el nivel de iluminación es muy bajo? (visión escotópica)",
+    "answers": [
+      "a) La visión es monocromática",
+      "b) Se aprecia el ultravioleta",
+      "c) La visión se debe a los conos",
+      "d) Se aprecia el rojo"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_2_04",
+    "test": "Test 2",
+    "number": 4,
+    "question": "El punto ciego es:",
+    "answers": [
+      "a) La fóvea",
+      "b) La insercción del nervio óptico",
+      "c) El punto donde no se tiene visión frontal",
+      "d) Donde coinciden la fóvea y el nervio óptico"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_2_05",
+    "test": "Test 2",
+    "number": 5,
+    "question": "¿Cuál de las siguientes afirmaciones es correcta?",
+    "answers": [
+      "a) Solo debo volar el UAS cuando me sienta en condiciones adecuadas para volar y no haya tomado ningún tratamiento/medicación contraindicados",
+      "b) Puedo beber un vaso de vino o cerveza antes de iniciar el vuelo del UAS, sin dudarlo",
+      "c) Si no me siento cómodo debo pedir opinion a los espectadores antes de volar el UAS",
+      "d) Las molestias leves (Por ejemplo: los dolores de cabeza) no afectan a mi capacidad de pilotaje"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_2_06",
+    "test": "Test 2",
+    "number": 6,
+    "question": "La M de la lista de comprobación “IM SAFE” significa:",
+    "answers": [
+      "a) Motivación.",
+      "b) Locura.",
+      "c) Material",
+      "d) Medicación"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_2_07",
+    "test": "Test 2",
+    "number": 7,
+    "question": "La presión comercial:",
+    "answers": [
+      "a) Solo tiene un lado positivo.",
+      "b) Puede tener un impacto negativo en la seguridad del vuelo, y el piloto a distancia debe prestar especial atención para mitigar este aspecto.",
+      "c) Solo tiene un lado negativo.",
+      "d) No tiene ninguna consecuencia en la seguridad del vuelo."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_2_08",
+    "test": "Test 2",
+    "number": 8,
+    "question": "Desde el punto de vista de factores humanos, ¿Cuál es la lista de verificación para comprobar la adecuada capacidad del piloto a distancia antes de realizar un vuelo?",
+    "answers": [
+      "a) I'M OK (Enfermedad Metabolismo Oftalmología Conocimiento)",
+      "b) I'M SAFE (Enfermedad Medicación Estrés Alcohol Fatiga Emociones)",
+      "c) I'M WELL (Insulina Medicación Prudencia Emociones Lentillas Lesiones)",
+      "d) I'M GOOD (Insulina Metabolismo Glucemia Oftalmología Ortopedia Dislexia)"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_2_09",
+    "test": "Test 2",
+    "number": 9,
+    "question": "Los responsables de la visión nocturna son: Seleccione una:",
+    "answers": [
+      "a) Los conos",
+      "b) La córnea",
+      "c) Los bastones",
+      "d) los conos y los bastones"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_2_10",
+    "test": "Test 2",
+    "number": 10,
+    "question": "¿A cuál de las siguientes distancias se podría estimar con precisión relativamente alta el tamaño, distancia y velocidad de un UAS?",
+    "answers": [
+      "a) Hasta 500 m.",
+      "b) Hasta 100 m.",
+      "c) Hasta 1 m.",
+      "d) Hasta 1 km."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_3_01",
+    "test": "Test 3",
+    "number": 1,
+    "question": "Durante el desarrollo de la operación de vuelo en escenario estándar, el piloto al mando deberá:",
+    "answers": [
+      "a) Respetar en todo momento las limitaciones y condiciones declaradas para la operación.",
+      "b) Exceder las limitaciones y respetar las condiciones declaradas si fuera necesario para la operación.",
+      "c) Respetar las limitaciones y exceder las condiciones declaradas si fuera necesario para la operación.",
+      "d) Exceder las limitaciones y condiciones declaradas si fuera necesario para la operación."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_3_02",
+    "test": "Test 3",
+    "number": 2,
+    "question": "El concepto MEUH se refiere a comprobar antes del vuelo con una aeronave no tripulada los siguientes aspectos:",
+    "answers": [
+      "a) Meteorología, UAS, Entorno y limitaciones Humanas.",
+      "b) Meteorología, UAS y Error Humano.",
+      "c) Meteorología, UAS, Entorno y funcionamiento del Hed up display.",
+      "d) Manual de operaciones, UAS, Error Humano y limitaciones Humanas."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_3_03",
+    "test": "Test 3",
+    "number": 3,
+    "question": "¿Cuál de las siguientes acciones NO tiene que realizar el piloto de una aeronave no tripulada durante el vuelo?",
+    "answers": [
+      "a) Comprobar los datos de telemetría y avisos o alertas.",
+      "b) Publicar un NOTAM si prevé excederse del área de operación.",
+      "c) Gestionar el combustible (Carga de batería consumida y restante)",
+      "d) Vigilar la evolución de las condiciones meteorológicas."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_3_04",
+    "test": "Test 3",
+    "number": 4,
+    "question": "En el STS-01, antes de iniciar una operación UAS, el piloto a distancia",
+    "answers": [
+      "a) Verificará que los medios de terminación segura del vuelo de la aeronave no tripulada y el sistema de identificación a distancia directa están instalados.",
+      "b) Verificará que los medios de terminación segura del vuelo de la aeronave no tripulada están operaivos y comprobará si la identificación a distancia está activa y actualizada.",
+      "c) Solo probará el sistema de terminación de vuelo (FTS) como parte de las comprobaciones previas al vuelo.",
+      "d) Solo comprobará si la identificación a distancia directa está activa y actualizada."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_3_05",
+    "test": "Test 3",
+    "number": 5,
+    "question": "El término ”riesgo aéreo” se refiere a:",
+    "answers": [
+      "a) El riesgo que supone el UA cuando está estacionario en el aire",
+      "b) El riesgo que supone el UA que vuela para las personas en tierra",
+      "c) El riesgo que supone el UA que vuela para otros usuarios del espacio aéreo",
+      "d) El riesgo para la seguridad que supone el UA"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_3_06",
+    "test": "Test 3",
+    "number": 6,
+    "question": "Las siglas ERP significan:",
+    "answers": [
+      "a) Plan de Reacción ante Emergencias",
+      "b) Plan de Respuesta ante Emergencias",
+      "c) Plan de Rescate de Emergencia",
+      "d) Plan de Reactivas ante Emergencias"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_3_07",
+    "test": "Test 3",
+    "number": 7,
+    "question": "Para la realización de operaciones en escenario estándar hay que tener definidos:",
+    "answers": [
+      "a) Plan de contingencia afines al vuelo por encima de 500m AGL",
+      "b) Plan de operación de enjambre de aeronaves",
+      "c) Plan de respuesta a emergencias",
+      "d) Plan de operación desde vehículos en movimiento"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_3_08",
+    "test": "Test 3",
+    "number": 8,
+    "question": "En el caso de detección de no participantes durante la inspección previa al vuelo de la zona terrestre controlada:",
+    "answers": [
+      "a) Se les facilitará el número de licencia del piloto a distancia.",
+      "b) Se puede iniciar el vuelo sin restricciones, siempre que el dron esté a menos de 120 metros de altura.",
+      "c) Se les facilitará los datos de contacto del operador de la aeronave no tripulada.",
+      "d) Se les indicará que se salgan de la zona terrestre controlada."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_3_09",
+    "test": "Test 3",
+    "number": 9,
+    "question": "En comparación con un área sin obstáculos, las velocidades del viento en las proximidades de obstáculos o en ciudades son: 1. Aumenta más despacio al aumentar la altura 2. Mucho más altas justo por encima del suelo 3. Aumentan más rápido al aumentar la altura 4. Mucho más bajas justo por encima del suelo",
+    "answers": [
+      "a) 2 y 4",
+      "b) 3 y 4",
+      "c) 1 y 3",
+      "d) 1 y 2"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_3_10",
+    "test": "Test 3",
+    "number": 10,
+    "question": "En STS-02, un observador del espacio aéreo:",
+    "answers": [
+      "a) Debe ser un piloto a distancia experimentado.",
+      "b) Debe ser el mismo un operador de UAS.",
+      "c) Mantendrá conocimiento de la posición de la aeronave no tripulada solo cuando lo solicite el piloto a distancia.",
+      "d) Alertará al piloto a distancia cuando se detecte un peligro y ayudará a evitar o minimizar los posibles efectos negativos."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_4_01",
+    "test": "Test 4",
+    "number": 1,
+    "question": "¿Qué sistema puede utilizarse para ayudar a detectar aeronaves tripuladas?",
+    "answers": [
+      "a) Un NOTAM.",
+      "b) Un radar.",
+      "c) Receptor ADS-B.",
+      "d) Monitorización de radio de banda aérea."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_4_02",
+    "test": "Test 4",
+    "number": 2,
+    "question": "En el caso de que un observador del espacio aéreo detecte una aeronave entrando en la zona de operaciones:",
+    "answers": [
+      "a) Comunicará por radio con AESA para que abran un expediente sancionador a la aeronave tripulada",
+      "b) Continuará la operación del dron mientras monitoriza la trayectoria de la aeronave para evitar colisiones.",
+      "c) Alertará al piloto de la aeronave no tripulada para que tome las medidas necesarias incluida la terminación del vuelo",
+      "d) Hará señales a la aeronave tripulada para que desvíe su trayectoria fuera de la zona de operaciones"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_4_03",
+    "test": "Test 4",
+    "number": 3,
+    "question": "¿Cuál es el procedimiento a seguir si una aeronave tripulada entra en la zona de vuelo?",
+    "answers": [
+      "a) Descender lo más bajo posible y aterrizar si es necesario",
+      "b) Ceda el paso si viene por la derecha",
+      "c) Permanecer inmóvil hasta que pase",
+      "d) Aplicar las normas de cortesía aérea"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_4_04",
+    "test": "Test 4",
+    "number": 4,
+    "question": "Si personas no implicadas acceden a la zona controlada durante el vuelo…",
+    "answers": [
+      "a) Se les debe ahuyentar con el UA",
+      "b) El piloto a distancia debe aterrizar el UA inmediatamente, evitando sobrevolarlos",
+      "c) Se debe dejar el UA inmóvil, y el piloto a distancia debe ir a decirles que abandonen la zona",
+      "d) El piloto a distancia debe continuar el vuelo"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_4_05",
+    "test": "Test 4",
+    "number": 5,
+    "question": "Un observador del espacio aéreo en escenario estándar STS-02 tendrá conocimiento de la posición de la aeronave",
+    "answers": [
+      "a) Única y exclusivamente con ayuda de medios electrónicos",
+      "b) En todo momento mediante observación directa del espacio aéreo o con la ayuda de medios electrónico",
+      "c) Sólo cuando el piloto pide ayuda",
+      "d) En escenario estándar no está contemplado el apoyo a la operación por parte de observadores"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_4_06",
+    "test": "Test 4",
+    "number": 6,
+    "question": "¿Qué sistema es indispensable en un piloto automático que forme parte de una aeronave no tripulada?",
+    "answers": [
+      "a) El modo de vuelo sígueme",
+      "b) La función de vuelta a casa (RTH)",
+      "c) El gimbal",
+      "d) El modo de vuelo home lock"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_4_07",
+    "test": "Test 4",
+    "number": 7,
+    "question": "El piloto al mando de la aeronave debe informar a los observadores de cualquier desvió de la aeronave respecto a la trayectoria y horarios previstos: Seleccione una:",
+    "answers": [
+      "a) Debe avisar al observador únicamente si el viento sobrepasa las características de la aeronave.",
+      "b) No debe informar al observador ya que es su obligación tener a la vista la aeronave en todo momento.",
+      "c) Debe informar al observador solo si llueve.",
+      "d) Siempre debe informar al observador de desviaciones del plan previsto y cambio de horario."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_4_08",
+    "test": "Test 4",
+    "number": 8,
+    "question": "Salvo en el caso de estar anclado, los medios de terminación del vuelo que la aeronave debe proporcionar al piloto deben será:",
+    "answers": [
+      "a) Efectivos, impredecibles y contundentes",
+      "b) De efecto inmediato, parando los motores para terminar el vuelo lo más rápido posible con el fin de evitar riesgos",
+      "c) Fiables, predecibles e independientes del sistema automático de control del vuelo y de orientación",
+      "d) Controlables manualmente por parte del piloto para evitar colisiones con cualquier aeronave, persona, objeto o animal"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_4_09",
+    "test": "Test 4",
+    "number": 9,
+    "question": "¿Cuál de las siguientes afirmaciones del Fail Sefe ante un fallo de la emisora, no es correcto?:",
+    "answers": [
+      "a) Entra automáticamente la opción Fail Safe y vuelve a su punto de origen",
+      "b) Se activa automáticamente el modo sígueme",
+      "c) Aterriza en el punto en el que se encuentra",
+      "d) Mantiene su posición en el aire hasta recibir de nuevo la señal de emisora"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_4_10",
+    "test": "Test 4",
+    "number": 10,
+    "question": "Si el piloto a distancia evalúa que las condiciones ambientales exceden la capacidad de la aeronave no tripulada:",
+    "answers": [
+      "a) Continuará con el vuelo pero deberá extremar las medidas de seguridad",
+      "b) Continuará con el vuelo, pero su altura máxima de operación será de 80 metros",
+      "c) Deberá abortar el vuelo",
+      "d) Continuará con el vuelo pero a una distancia máxima de operación de 80 metros"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_5_01",
+    "test": "Test 5",
+    "number": 1,
+    "question": "Una aeronave no tripulada de Clase C5 puede ser utilizada en los escenarios estándar STS-01 y STS-02",
+    "answers": [
+      "a) Si, se puede utilizar indistintamente en los escenarios estándar.",
+      "b) No, las aeronaves no tripuladas con marcado de clase C5 sólo se pueden utilizar en el escenario estándar STS-02.",
+      "c) No, para los escenarios estándar se necesita una aeronave no tripulada con marcado de clase C4.",
+      "d) No, las aeronaves no tripuladas con marcado de clase C5 sólo se pueden utilizar en el escenario estándar STS-01."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_5_02",
+    "test": "Test 5",
+    "number": 2,
+    "question": "La etiqueta de identificación de marcado de clase C5 irá pegada en la aeronave no tripulada",
+    "answers": [
+      "a) Si, aunque también puede ir pegada en el kit de accesorios",
+      "b) Las aeronaves clase C5 no llevan etiqueta de identificación de clase",
+      "c) No, la etiqueta de identificación de clase no es obligatoria",
+      "d) No, siempre debe de ir pegada en el kit de accesorios"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_5_03",
+    "test": "Test 5",
+    "number": 3,
+    "question": "En una aeronave no tripulada con cuatro rotores:",
+    "answers": [
+      "a) Un número impar de rotores no se puede compensar",
+      "b) Los rotores giran en sentidos inversos, dos a dos y pueden girar a diferentes rpm",
+      "c) Son más estables que los de 6 rotores",
+      "d) Todos los rotores giran siempre a las mismas rpm"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_5_04",
+    "test": "Test 5",
+    "number": 4,
+    "question": "Si la aeronave no tripulada está equipada con una función de geoconsciencia, esta debe proporcionar al piloto:",
+    "answers": [
+      "a) Información meteorológica en el punto donde se encuentra volando la aeronave",
+      "b) Un mensaje de alerta cuando se detecte una posible violación de los limites del espacio aéreo asignado a la operación",
+      "c) Un mensaje de alerta cuando se detecte una intrusión en el espacio aéreo asignado a la operación",
+      "d) Información del estado de la batería"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_5_05",
+    "test": "Test 5",
+    "number": 5,
+    "question": "Una batería hinchada indica que:",
+    "answers": [
+      "a) Está dañada",
+      "b) Tiene más capacidad, por lo tanto más autonomía",
+      "c) Está en buen estado",
+      "d) Está sobrecargada"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_5_06",
+    "test": "Test 5",
+    "number": 6,
+    "question": "Un UAS está equipado con un modo seleccionable de baja velocidad que limita la velocidad en tierra del UA a no más de 10 m/s. Este UAS:",
+    "answers": [
+      "a) Podría llevar la marca de clase C5 si limitara la velocidad en tierra a no más de 5 km/h",
+      "b) No puede llevar la marca de clase C5",
+      "c) Podría llevar la marca de clase C5 si limitara la velocidad en tierra a no más de 15 m/s",
+      "d) No puede llevar la marca de clase C6"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_5_07",
+    "test": "Test 5",
+    "number": 7,
+    "question": "Los vatios pueden calcularse de la siguiente manera:",
+    "answers": [
+      "a) Frecuencia x longitud de onda.",
+      "b) Voltios/amperios.",
+      "c) Voltios x amperios / 2.",
+      "d) Voltios x amperios."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_5_08",
+    "test": "Test 5",
+    "number": 8,
+    "question": "En un giroavión, si falla una hélice:",
+    "answers": [
+      "a) Sí puede seguir volando.",
+      "b) Volará solo durante 5 min. más.",
+      "c) No afecta.",
+      "d) No puede seguir volando."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_5_09",
+    "test": "Test 5",
+    "number": 9,
+    "question": "En el STS-01:",
+    "answers": [
+      "a) El UAS debe llevar una etiqueta de identificación de clase C5, con una dimensión característica máxima de hasta 3 m y una MTOM de hasta 25 kg",
+      "b) El UAS debe llevar una etiqueta de identificación de clase C6, con una dimensión característica máxima de hasta 5 m y una MTOM de hasta 50 kg",
+      "c) El UAS debe llevar una etiqueta de identificación de clase C5, con una dimensión característica máxima de hasta 5 m y una MTOM de hasta 50 kg",
+      "d) El UAS debe llevar una etiqueta de identificación de clase C6, con una dimensión característica máxima de hasta 3 m y una MTOM de hasta 25 kg"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_5_10",
+    "test": "Test 5",
+    "number": 10,
+    "question": "Dos baterías de 6V y 4,5 Ah conectadas en serie son capaces de proporcionar:",
+    "answers": [
+      "a) 6 V y 18 Ah.",
+      "b) 6 V y 9 Ah.",
+      "c) 6 V y 4,5 Ah.",
+      "d) 12 V y 4,5 Ah."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_6_01",
+    "test": "Test 6",
+    "number": 1,
+    "question": "Durante el vuelo de una aeronave no tripulada, el piloto estará al tanto, entre otros, de los siguientes aspectos:",
+    "answers": [
+      "a) Publicar un NOTAM si prevé excederse del área de operación inicial",
+      "b) Apuntar en el registro de la aeronave no tripulada la hora de inicio del vuelo",
+      "c) Verificar en la web de Enaire Drones las limitaciones y restricciones previstas",
+      "d) Observar la evaluación de las condiciones meteorológicas y los datos de telemetría"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_6_02",
+    "test": "Test 6",
+    "number": 2,
+    "question": "¿Qué es un anticiclón?",
+    "answers": [
+      "a) Es una zona donde la presión atmosférica es más baja (1016 mb o más) que en las zonas circundantes",
+      "b) Es una zona donde la presión atmosférica es más alta (1016 mb o más) que en las zonas circundantes",
+      "c) Es una zona donde la presión atmosférica es más alta (1016 mb o más) que en las zonas separadas angulares",
+      "d) Es una zona donde la presión atmosférica es más baja (1016 mb o más) que en las zonas separadas"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_6_03",
+    "test": "Test 6",
+    "number": 3,
+    "question": "Si el aire se mueve en la dirección de las agujas del reloj y, en sentido contrario en el hemisferio sur, entonces.. pasará lo siguiente:",
+    "answers": [
+      "a) El aire que baja se va humedeciendo y enfriando, por lo que trae consigo estabilidad y buen tiempo con escasa probabilidad de lluvia",
+      "b) El aire que baja se va secando y calentando por lo que trae consigo inestabilidad y mal tiempo con probabilidad de lluvia",
+      "c) El aire que baja se va humedeciendo y enfriando, por lo que trae consigo inestabilidad y mal tiempo con mucha probabilidad de lluvia",
+      "d) El aire que baja se va secando y calentando, por lo que trae consigo estabilidad y buen tiempo con escasa probabilidad de lluvia"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_6_04",
+    "test": "Test 6",
+    "number": 4,
+    "question": "La velocidad del viento, habitualmente se mide en nudos, ¿Cuál de las siguientes opciones es correcta, en relación a la conversión en nudos al sistema internacional de medida?",
+    "answers": [
+      "a) Un nudo = 0,514 m/s",
+      "b) Un nudo = 0,614 km/h",
+      "c) Un nudo = 5,514 m/s",
+      "d) Un nudo = 0,514 km/h"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_6_05",
+    "test": "Test 6",
+    "number": 5,
+    "question": "¿Cuál de las respuestas enumera todos los factores que influyen en la estimación de la altitud y la distancia de vuelo? 1. Nubes 2. Luz solar 3. Niebla 4. Humedad",
+    "answers": [
+      "a) 2 y 4.",
+      "b) 1, 3 y 4.",
+      "c) 1 y 3.",
+      "d) 1, 2, 3 y 4."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_6_06",
+    "test": "Test 6",
+    "number": 6,
+    "question": "A la hora de volar un UAS con altas temperaturas, Debemos tener en cuenta que:",
+    "answers": [
+      "a) Aumenta el rendimiento de la aeronave no tripulada debido al incremento de la duración de la batería",
+      "b) Las térmicas locales pueden provocar turbulencias",
+      "c) Se reduce el rendimiento de la aeronave no tripulado debido al incremento de la duración de la betería",
+      "d) Se reduce el rendimiento de la aeronave no tripulada, debido al incremento de la densidad del aire"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_6_07",
+    "test": "Test 6",
+    "number": 7,
+    "question": "A qué denominamos SMOG:",
+    "answers": [
+      "a) Al aire descendiente en verano pudiendo atrapar nieblas y elementos contaminantes bajo una inversión térmica y que se produce en pequeñas poblaciones.",
+      "b) El aire que asciende en invierno, pudiendo atrapar nieblas y elementos contaminantes bajo una inversión térmica y que se produce en las grandes ciudades",
+      "c) Al aire que asciende en verano, pudiendo atrapar nieblas y elementos contaminantes bajo una inversión térmica y se que se produce en pequeñas poblaciones",
+      "d) Al aire que desciende en invierno, pudiendo atrapar nieblas y elementos contaminantes bajo una inversión térmica y que se produce en las grandes ciudades"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_6_08",
+    "test": "Test 6",
+    "number": 8,
+    "question": "Cuando las isobaras están muy juntas, ¿Qué indican?",
+    "answers": [
+      "a) Indican que se aproxima una ola de calor o de frío dependiendo de dónde proceda.",
+      "b) Indican diferencia de presión y generalmente vientos fuertes.",
+      "c) Indican que los puntos A y B del mapa meteorológico están muy juntos, y se puede producir una borrasca o un anticiclón.",
+      "d) Indican igualdad de presión, y generalmente, vientos dóciles."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_6_09",
+    "test": "Test 6",
+    "number": 9,
+    "question": "Si durante una operación de UAS hay viento, ¿Qué debemos tener en cuenta?",
+    "answers": [
+      "a) El rango operativo de la aeronave no tripulada puede verse afectado",
+      "b) El viento causa turbulencias a determinadas alturas, por lo que no se debe volar demasiado alto",
+      "c) Solo un piloto a distancia que disponga de un certificado para volar en situaciones de riesgo, pueda realizar esta operación",
+      "d) En operaciones con viento no es posible realizar aterrizajes automáticos con GPS"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_6_10",
+    "test": "Test 6",
+    "number": 10,
+    "question": "Qué se debe tener en cuenta respecto a las baterías al realizar una operación con un UAS a una temperatura de -10 ºC",
+    "answers": [
+      "a) El rendimiento de las baterías es superior a bajas temperaturas.",
+      "b) La temperatura no tiene influencia alguna sobre el rendimiento de las baterías.",
+      "c) El rendimiento de las baterías, únicamente se ve afectado por las altas temperaturas.",
+      "d) Es necesario precalentar las baterías antes del uso y mantenerlas almacenadas en un lugar cálido."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_7_01",
+    "test": "Test 7",
+    "number": 1,
+    "question": "¿A qué se debe tener en cuenta en el vuelo de un UAS cuando las temperaturas son muy elevadas? Seleccione una:",
+    "answers": [
+      "a) Aumenta el rendimiento de la aeronave no tripulada debido al incremento de duración de la batería",
+      "b) Se reduce el rendimiento de la aeronave no tripulada debido al incremento de la densidad del aire",
+      "c) Las baterías del UAS son propensas a sobrecalentarse y pueden incendiarse.",
+      "d) Se reduce el rendimiento de la aeronave no tripulada debido al incremento de duración de la batería"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_7_02",
+    "test": "Test 7",
+    "number": 2,
+    "question": "Si las hélices están muy separadas proporcionaran…",
+    "answers": [
+      "a) Menor velocidad",
+      "b) Menor estabilidad",
+      "c) Mayor velocidad",
+      "d) Mayor estabilidad"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_7_03",
+    "test": "Test 7",
+    "number": 3,
+    "question": "En una aeronave no tripulada de ala fija, ¿Qué elementos actúan en el cabeceo?",
+    "answers": [
+      "a) Alerones.",
+      "b) Timón de profundidad.",
+      "c) Timón de dirección.",
+      "d) Tomas de pitot."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_7_04",
+    "test": "Test 7",
+    "number": 4,
+    "question": "Si en un ala fija tenemos la posición del centro de gravedad más adelantado que el centro aerodinámico, entonces:",
+    "answers": [
+      "a) Se considera estable.",
+      "b) Se considera inestable.",
+      "c) Esto no afecta a la estabilidad de la UA.",
+      "d) Se considera que tiene estabilidad neutra."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_7_05",
+    "test": "Test 7",
+    "number": 5,
+    "question": "Aumentar la MTOM de la aeronave no tripulada, al aumentar una carga de pago, implica:",
+    "answers": [
+      "a) Una disminución de la resistencia aerodinámica durante el vuelo",
+      "b) Un aumento de la sustentación en el despegue",
+      "c) Un aumento de la autonomía",
+      "d) Una reducción de la autonomía"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_7_06",
+    "test": "Test 7",
+    "number": 6,
+    "question": "El centro de gravedad de la aeronave no tripulada es:",
+    "answers": [
+      "a) El punto en el que la distribución del peso es desigual en todas las direcciones",
+      "b) El punto en el que se distribuyen todas las presiones que actúan sobre la aeronave no tripulada",
+      "c) El punto en el que la distribución del peso es igual en todas las direcciones",
+      "d) El punto en el que se concentran todas las fuerzas aerodinámicas que actúan sobre la aeronave no tripulada"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_7_07",
+    "test": "Test 7",
+    "number": 7,
+    "question": "La carga útil de una aeronave no tripulada, se define como:",
+    "answers": [
+      "a) Masa máxima de despegue / masa en vacío de la aeronave no tripulada * 150.",
+      "b) Masa máxima al despegue * masa en vacío de la aeronave no tripulada.",
+      "c) Masa máxima al despegue * masa en vacío de la aeronave no tripulada / 100.",
+      "d) Masa máxima de despegue - Masa en vacío de la aeronave no tripulada."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_7_08",
+    "test": "Test 7",
+    "number": 8,
+    "question": "Normalmente, ¿Cómo se puede saber la masa máxima de despegue MTOM de una aeronave no tripulada? Seleccione una",
+    "answers": [
+      "a) En foros de pilotos a distancia en internet",
+      "b) Pesando la aeronave no tripulada con una balanza",
+      "c) En la página web de la autoridad competente (AESA)",
+      "d) En las instrucciones facilitadas por el fabricante del UAS"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_7_09",
+    "test": "Test 7",
+    "number": 9,
+    "question": "Si en un ala fija tenemos la posición del centro de gravedad en la misma posición que el centro aerodinámico, entonces:",
+    "answers": [
+      "a) Se considera estabilidad neutra y hace que la UA se mantenga en la posición.",
+      "b) Se considera estabilidad neutra y hace que la UA suba en altura.",
+      "c) Se considera estabilidad negativa y hace que la UA descienda.",
+      "d) Se considera estabilidad negativa y hace que la UA suba en altura."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_7_10",
+    "test": "Test 7",
+    "number": 10,
+    "question": "La carga útil son aquellos elementos que pueden incorporarse a un UA. ¿Qué efectos produce sobre la UA?",
+    "answers": [
+      "a) La carga útil favorece en todo caso al despegue del UAS.",
+      "b) La carga útil desplaza el centro de gravedad.",
+      "c) La carga útil siempre provoca inestabilidad a la UA.",
+      "d) La carga útil siempre favorece la guiñada."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_8_01",
+    "test": "Test 8",
+    "number": 1,
+    "question": "Todas las siguientes son medidas de atenuación orientadas a reducir el riesgo en tierra excepto:",
+    "answers": [
+      "a) Instalar en la aeronave no tripulada un dispositivo de limitación de la energía de impacto.",
+      "b) Definir una zona de contingencia o una zona de prevención de riesgos en tierra",
+      "c) Volar en una zona de operaciones controlada",
+      "d) Volar con FPV"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_8_02",
+    "test": "Test 8",
+    "number": 2,
+    "question": "En relación a las atenuaciones técnicas y operacionales del riesgo en tierra, antes de una operación el piloto a distancia debe considerar: 1) La existencia de obstáculos en el entorno operativo 2) La dirección del viento 3) la existencia de lugares seguros para el despegue y aterrizaje 4) Si la aeronave cuenta con un sistema de identificación a distancia",
+    "answers": [
+      "a) 1, 2, y 3",
+      "b) 1, 3 y 4",
+      "c) 1, 2, 3 y 4",
+      "d) 1 y 2"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_8_03",
+    "test": "Test 8",
+    "number": 3,
+    "question": "¿Cuál de los siguientes factores son importantes para determinar el riesgo en tierra de una operación? 1. La densidad de población en la zona de operaciones 2. La dimensión característica máxima de la aeronave no tripulada. 3. La proximidad a un aeródromo o helipuerto. 4. Operación dentro o más allá del alcance visual. 5. La presencia de otros UAS en la zona de operaciones.",
+    "answers": [
+      "a) 1, 2 y 4",
+      "b) 1, 3 y 5",
+      "c) 2, 3 y 4",
+      "d) 2, 3 y 5"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_8_04",
+    "test": "Test 8",
+    "number": 4,
+    "question": "Existe una serie de factores que determinan el riesgo en tierra de una operación, estos pueden ser, entre otros:",
+    "answers": [
+      "a) La dimensión mínima de la aeronave, operación en VLOS o BVLOS y la densidad de población en la zona de despegue",
+      "b) La dimensión máxima de la aeronave, operación VLOS y la densidad de población en la zona de aterrizaje",
+      "c) La dimensión máxima de la aeronave, la operación en VLOS o BVLOS y la densidad de la población en la zona de operaciones",
+      "d) La dimensión mínima de la aeronave, operación en BVLOS y la densidad de la población en la zona de operaciones"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_8_05",
+    "test": "Test 8",
+    "number": 5,
+    "question": "¿Cuál de los siguientes sistemas que pueden estar instalados en un UAS se considera una medida de atenuación del riesgo en tierra? Seleccione una:",
+    "answers": [
+      "a) Geocaging.",
+      "b) Paracaídas.",
+      "c) Sistema de identificación a distancia directa.",
+      "d) Geofencing."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_8_06",
+    "test": "Test 8",
+    "number": 6,
+    "question": "Un operador de UAS que opere en STS-01:",
+    "answers": [
+      "a) Definirá el volumen operativo y el margen de riesgos en tierra para las operaciones previstas.",
+      "b) Antes de iniciar una operación UAS, verificará que los medios para terminar el vuelo de la aeronave no tripulada están operativos.",
+      "c) No necesita desarrollar un manual de operaciones.",
+      "d) Se asegurará de que la etiqueta de identificación de clase C0 está colocada en la aeronaveno tripulada o en el kit de accesorios."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_8_07",
+    "test": "Test 8",
+    "number": 7,
+    "question": "¿Cuál es la máxima velocidad permitida para considerar que una aeronave no tripulada está volando en modo de baja velocidad? Seleccione una:",
+    "answers": [
+      "a) 4 m/s",
+      "b) 2 m/s",
+      "c) 3 m/s",
+      "d) 5 m/s"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_8_08",
+    "test": "Test 8",
+    "number": 8,
+    "question": "En relación a las atenuaciones técnicas y operacionales del riesgo en tierra, antes de una operación el piloto a distancia debe considerar: i) La existencia de lugares seguros para el despegue y aterrizaje; ii) La dirección y velocidad del viento; iii) Si la aeronave cuenta con un sistema de identificación a distancia; iv) La existencia de obstáculos en el entorno operativo.",
+    "answers": [
+      "a) i, ii y iv.",
+      "b) i, ii y iii.",
+      "c) i, ii, iii, iv.",
+      "d) i, iii y iv."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_8_09",
+    "test": "Test 8",
+    "number": 9,
+    "question": "¿Qué requisitos indispensables deben cumplir los medios de comunicación durante la operación? Seleccione una:",
+    "answers": [
+      "a) Que sean plurales",
+      "b) Que sean sólidos y eficaces",
+      "c) Si estas autorizado para tu operación no necesitas medios de comunicación",
+      "d) Que transmitan en FM"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_8_10",
+    "test": "Test 8",
+    "number": 10,
+    "question": "Existen una serie de factores que determinan el riesgo en tierra de una operación, estos pueden ser, entre otros:",
+    "answers": [
+      "a) La dimensión mínima de la aeonave, operación en BVLOS y la densidad de población en la zona de operaciones.",
+      "b) La dimensión mínima de la aeronave, operación en VLOS o BVLOS y la densidad de población en la zona de despegue.",
+      "c) La dimensión máxima de la aeronave, operación en VLOS o BVLOS y la densidad de población en la zona de opereaciones.",
+      "d) La dimensión máxima de la aeronave, operación en VLOS y la densidad de la población en la zona de aterrizaje."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_9_01",
+    "test": "Test 9",
+    "number": 1,
+    "question": "En comparación con un área sin obstáculos, las velocidades del viento en las proximidades de obstáculos o en ciudades son: 1: Mucho más bajas justo por encima 2. Aumentan más rápido al aumentar la altura, 3. Mucho más altas justo por encima del suelo, 4. Aumentan más despacio al aumentar la altura.",
+    "answers": [
+      "a) 2 y 4",
+      "b) 3 y 4",
+      "c) 1 y 2",
+      "d) 1 y 4"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_9_02",
+    "test": "Test 9",
+    "number": 2,
+    "question": "\"¿Qué afirmación describe mejor el termino \"\"conciencia situacional\"\" o \"\"situational awareness\"\"? \"",
+    "answers": [
+      "a) Obtener una visión general de la situación y ser consciente de lo que puede ocurrir a continuación.",
+      "b) La información del ultimo vuelo UAS se utiliza para obtener una visión general de las condiciones actuales.",
+      "c) La conciencia personal no afecta al vuelo del UAS",
+      "d) Evaluar la situación basándose en la información para realizar un vuelo UAS."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_9_03",
+    "test": "Test 9",
+    "number": 3,
+    "question": "La empresa XY ha obtenido una autorización operacional en el Estado miembro A y ahora desea operar en el estado miembro B. El operador de UAS:",
+    "answers": [
+      "a) Puede operar con la autorización del Estado miembro A en el Estado miembro B, pero debe inscribirse en el registro de operadores del Estado miembro B.",
+      "b) Debe solicitar una autorización al las autoridades del Estado miembro B en inscribirse en el registro de operadores del Estado mimbro B.",
+      "c) Puede operar con la autorización del Estado miembro A en el Estado miembro B, pero debe informar a las autoridades del Estado miembro B sobre las operaciones.",
+      "d) Debe solicitar una autorización a las autoridades del Estado miembro B, pero el proceso de solicitud se simplificara en cierta medida."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_9_04",
+    "test": "Test 9",
+    "number": 4,
+    "question": "¿En qué banda trabaja la emisora de la aeronave no tripulada?",
+    "answers": [
+      "a) 5,8 GHZ.",
+      "b) 2,4 GHZ.",
+      "c) 5,8 MHZ.",
+      "d) 2,4 MHZ."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_9_05",
+    "test": "Test 9",
+    "number": 5,
+    "question": "El piloto a distancia puede encontrar información sobre zonas peligrosas, prohibidas y restringidas:",
+    "answers": [
+      "a) En la parte GEN del AIP.",
+      "b) En la parte AD del AIP.",
+      "c) En la parte ENR del AIP.",
+      "d) En la parte DPR del AIP."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_9_06",
+    "test": "Test 9",
+    "number": 6,
+    "question": "El piloto al mando de la aeronave no tripulada deberá siempre:",
+    "answers": [
+      "a) Respetar los procedimientos del operador.",
+      "b) Planificar la operación sobre la marcha.",
+      "c) Llegar el último y marcharse el primero.",
+      "d) Tomarse descansos cortos durante el vuelo con el fin de reducir el estrés."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_9_07",
+    "test": "Test 9",
+    "number": 7,
+    "question": "Una Unidad de Medición Inercial (IMU):",
+    "answers": [
+      "a) Principalmente ayuda a reducir la dinámica de impacto UA.",
+      "b) No es útil para aeronaves no tripuladas.",
+      "c) Nunca se instala en aeronaves no tripuladas.",
+      "d) Es un dispositivo electrónico que utiliza acelerómetros y giroscopios para medir la aceleración y la rotación, que pueden utilizarse para proporcionar datos de posición"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_9_08",
+    "test": "Test 9",
+    "number": 8,
+    "question": "Una empresa quiere mapear una área y volar a más de 120, sobre el suelo. La aeronave no tripulada no tiene etiqueta de identificación de clase, este tipo de operación se puede realizar:",
+    "answers": [
+      "a) Solo con una autorización operacional en categoría especifica.",
+      "b) Con registro y autorización operacional en categoría abierta",
+      "c) Con una inscripción según el reglamento en la categoría abierta",
+      "d) Con declaración operación al en escenario estándar en la categoría especifica."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_9_09",
+    "test": "Test 9",
+    "number": 9,
+    "question": "La declaración del operador del UAS contendrá",
+    "answers": [
+      "a) Una evaluación detallada del riesgo operacional",
+      "b) Un manual de operaciones cuando así lo requieran el riesgo y la complejidad de la operación",
+      "c) Una lista de las medidas de mitigación por el operador de UAS",
+      "d) Una confirmación por parte del operador de UAS de que se dispondrá de una cobertura de seguro adecuada para cada vuelo realizado al amparo de la declaración, si así lo exige la legislación de la unión o nacional."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_9_10",
+    "test": "Test 9",
+    "number": 10,
+    "question": "¿Cuál de las siguientes afirmaciones sobre el Fail Safe ante un fallo de la emisora NO es correcto?",
+    "answers": [
+      "a) Mantiene su posición en el aire hasta recibir de nuevo a la emisora.",
+      "b) Aterriza en el punto en el que se encuentre.",
+      "c) Se activa automáticamente el modo \"Sígueme\"",
+      "d) Entra automáticamente la opción Fail Safe y vuelve a su punto de origen."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_9_11",
+    "test": "Test 9",
+    "number": 11,
+    "question": "¿Dónde se produce el fenómeno de las turbulencias con mayor frecuencia?",
+    "answers": [
+      "a) Solo ocurre en elevadas alturas de vuelo.",
+      "b) Sobre el agua",
+      "c) En las inmediaciones de obstáculos",
+      "d) Sobre el campo"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_9_12",
+    "test": "Test 9",
+    "number": 12,
+    "question": "En el caso de que un observador del espacio aéreo detecte una aeronave tripulada entrando en la zona de operaciones:",
+    "answers": [
+      "a) Alertará al piloto de la aeronave no tripulada para que tome las medidas necesarias incluida la terminación del vuelo.",
+      "b) El observador ignorará la aeronave tripulada, ya que las operaciones con drones tienen prioridad en su zona de vuelo.",
+      "c) Hará señales a la aeronave tripulada para que desvíe su trayectoria fuera de la zona de operaciones.",
+      "d) Comunicará por radio con AESA para que abran un expediente sancionador a la aeronave tripulada."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_9_13",
+    "test": "Test 9",
+    "number": 13,
+    "question": "Como parte de la planificación de sus operaciones con UAS, esta utilizando una carta VFR de la OACI de su Estado miembro. Esta carta tiene una escala de 1:500.000. Una distancia de 5 cm medida en la carta corresponde a una distancia real de:",
+    "answers": [
+      "a) 2500 Km.",
+      "b) 25 Km.",
+      "c) 250 Km",
+      "d) 25 cm"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_9_14",
+    "test": "Test 9",
+    "number": 14,
+    "question": "Si deseo transportar en la aeronave no tripulada mercancías peligrosas:",
+    "answers": [
+      "a) Los escenarios estándar no permiten el transporte de mercancías peligrosas.",
+      "b) Puedo operar en ambos escenarios estándar con aeronaves con marcado C5.",
+      "c) Debo operar en escenario estándar STS-01 con aeronaves de marcado de clase C5.",
+      "d) Debo operar en escenario estándar STS-02 con aeronaves de marcado de clase C5."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_9_15",
+    "test": "Test 9",
+    "number": 15,
+    "question": "Estoy realizando una operación con una aeronave no tripulada y se avecina una tormenta. ¿Cómo debo actuar?",
+    "answers": [
+      "a) Aterrizo lo más rápido posible.",
+      "b) Disminuyo la velocidad de los rotores.",
+      "c) Sigo volando hasta que llegue la tormenta.",
+      "d) Aumento la velocidad de los rotores."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_9_16",
+    "test": "Test 9",
+    "number": 16,
+    "question": "Está permitido volar el UAS dentro de una zona en la que se están realizando operaciones de emergencia",
+    "answers": [
+      "a) Solo si llevamos luces de emergencia en el UAS.",
+      "b) Siempre está permitido volar en las zonas de emergencia.",
+      "c) Solo cuando los servicios de emergencia responsables hayan dado autorización.",
+      "d) Nunca está permitido volar en las zonas de emergencia."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_9_17",
+    "test": "Test 9",
+    "number": 17,
+    "question": "Un UAS (Unmanned Aerial System) sólo proporcionara al piloto a distancia información sobre la altura del UA. Este UAS:",
+    "answers": [
+      "a) No puede ser de marcado de clase C5",
+      "b) Puede ser de marcado de clase C6, porque proporciona suficiente información al piloto",
+      "c) Podría ser de marcado de clase C5, sólo si proporcionará al piloto información sobre la velocidad del UA en lugar de su velocidad",
+      "d) Puede ser de marcado de clase C5"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_9_18",
+    "test": "Test 9",
+    "number": 18,
+    "question": "Aumentar la MTOM de la aeronave no tripulada al incorporar una carga de pago implica:",
+    "answers": [
+      "a) Un aumento de la autonomía",
+      "b) Un aumento de la sustentación.",
+      "c) Una reducción de la autonomía.",
+      "d) Una reducción de la potencia necesaria para el despegue."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_9_19",
+    "test": "Test 9",
+    "number": 19,
+    "question": "Un operador italiano de UAS quiere volar en categoría \"especifica\" una aeronave no tripulada sin etiqueta de identificación de clase ¿Qué tiene que hacer el operador? 1) Registrarse como operador de UAS 2) Declarar volar según un escenario estándar 3) Solicitar una autorización operacional 4) Solicitar un LUC",
+    "answers": [
+      "a) 1 y además 3 o 4",
+      "b) 3 y además 2 o 4",
+      "c) 1 y además 2 o 3",
+      "d) 2 y además 3 o 4"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_9_20",
+    "test": "Test 9",
+    "number": 20,
+    "question": "Un PDRA-S01",
+    "answers": [
+      "a) Se considera como derivado del escenario estándar STS-02.",
+      "b) No permite volar un UAS por encima de 120m AGL.",
+      "c) Se considera como derivado del escenario estándar 01, utilizando UAS sin etiqueta de identificación de case C5.",
+      "d) No permite volar un UAS por encima de 100 m AGL."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_9_21",
+    "test": "Test 9",
+    "number": 21,
+    "question": "En el STS-02, antes de iniciar una operación UAS, el piloto a distancia:",
+    "answers": [
+      "a) Comprobará únicamente si la identificación a distancia directa esté activa y actualizada.",
+      "b) Comprobará que están instalados los medios de terminación segura del vuelo de la aeronave no tripulada y el sistema de identificación a distancia directa.",
+      "c) Comprobará que está instalada una función de volumen de vuelo programable (por ejemplo, la función de 'geofencing').",
+      "d) Ajustará el volumen de vuelo programable (por ejemplo, la función de 'geocaging') de la aeronave no tripulada para mantenerla dentro de la geografía de vuelo."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_9_22",
+    "test": "Test 9",
+    "number": 22,
+    "question": "Una aeronave no tripulada destinada al transporte de personas. Esta operación podrá:",
+    "answers": [
+      "a) Realizarse en categoría \"especifica\" si la altitud de vuelo es suficientemente baja.",
+      "b) Realizarse en categoría \"especifica\" si no hay personas ajenas en el área de operaciones.",
+      "c) Realizarse en categoría \"especifica\" con una aeronave certificada.",
+      "d) Realizarse en únicamente en categoría \"certificada\" con una aeronave no tripulada certificada."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_9_23",
+    "test": "Test 9",
+    "number": 23,
+    "question": "Las modificaciones temporales del AIP se publican mediante:",
+    "answers": [
+      "a) Jefe de Información de Aeródromo.",
+      "b) Circular de Información de Aeródromo:",
+      "c) Circulo de Información Aeronáutica.",
+      "d) Circular de Información Aeronáutica"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_9_24",
+    "test": "Test 9",
+    "number": 24,
+    "question": "Sobre un UAS actúan diferentes tipos de fuerzas ¿Cuáles son?",
+    "answers": [
+      "a) Aerodinámicas (sustentación y resistencia), propulsivas (empuje) y gravitatorias (peso).",
+      "b) Aerodinámicas (sustentación y resistencia), propulsivas (peso) y gravitatorias (empuje)",
+      "c) Aerodinámicas (peso), propulsivas (empuje) y gravitatorias (sustentación y resistencia)",
+      "d) Aerodinámicas (empuje), propulsivas (sustentación y resistencia) y gravitatorias (peso)"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_9_25",
+    "test": "Test 9",
+    "number": 25,
+    "question": "STS-02 ¿A que distancia esta permitido volar del piloto, sin observadores del espacio aéreo?",
+    "answers": [
+      "a) 2 Km.",
+      "b) 3 Km.",
+      "c) 500 m.",
+      "d) 1 Km."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_9_26",
+    "test": "Test 9",
+    "number": 26,
+    "question": "En una batería LiPo, aparte de los dos cables principales, existen 4 cables delgados en otro conector. Esto significa que:",
+    "answers": [
+      "a) La batería es de 5 celdas.",
+      "b) La batería es de 4 celdas.",
+      "c) La batería es de 3 celdas.",
+      "d) La batería es de 6 celdas."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_9_27",
+    "test": "Test 9",
+    "number": 27,
+    "question": "El piloto al mando de la aeronave debe informar a los observadores de cualquier desvío de la aeronave respecto a la trayectoria y horarios previstos:",
+    "answers": [
+      "a) Debe avisar al observador únicamente si el viento sobrepasa las características de la aeronave.",
+      "b) Debe informar al observador solo si llueve.",
+      "c) No debe informar al observador ya que es su obligación tener a la vista la aeronave en todo momento.",
+      "d) Siempre debe informar al observador de desviaciones del plan previsto y cambio de horario."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_9_28",
+    "test": "Test 9",
+    "number": 28,
+    "question": "Acaba de adquirir un UAS marcado de clase C6. El sistema de terminación del vuelo (FTS) debe ser independiente de:",
+    "answers": [
+      "a) De la función de geofencing solamente",
+      "b) Del controlador remoto y de la función de geofencing",
+      "c) El controlador remoto",
+      "d) Del sistema de propulsión y del sistema de iluminación del UAS."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_9_29",
+    "test": "Test 9",
+    "number": 29,
+    "question": "Durante el desarrollo de la operación de vuelo en escenario estándar, el piloto al mando deberá:",
+    "answers": [
+      "a) Exceder las limitaciones y respetar las condiciones declaradas si fuera necesario para la operación.",
+      "b) Respetar en todo momento las limitaciones y condiciones declaradas para la operación.",
+      "c) Exceder las limitaciones y condiciones declaradas si fuera necesario para la operación.",
+      "d) Respetar las limitaciones y exceder las condiciones declaradas si fuera necesario para la operación."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_9_30",
+    "test": "Test 9",
+    "number": 30,
+    "question": "Si durante una operación de UAS hay viento, ¿Qué debemos tener en cuenta?",
+    "answers": [
+      "a) El viento causa turbulencias a elevadas alturas, por lo que no se debe volar demasiado alto.",
+      "b) Solo un piloto a distancia que disponga de un certificado para volar en situaciones de riesgo puede realizar esta operación.",
+      "c) En operaciones con viento no es posible realizar aterrizaies automáticos con el GPS.",
+      "d) El rango operativo de la aeronave no tripulada puede verse afectado."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_9_31",
+    "test": "Test 9",
+    "number": 31,
+    "question": "En el caso de operaciones en zona de seguridad de aeródromo o helipuerto, ¿con quién se debe coordinar el vuelo?",
+    "answers": [
+      "a) Con la entidad responsable de dicha instalación.",
+      "b) Con AESA.",
+      "c) Con el ayuntamiento local.",
+      "d) Con EASA."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_9_32",
+    "test": "Test 9",
+    "number": 32,
+    "question": "Operando un UAS en condiciones de viento en las proximidades de obstáculos, es probable que:",
+    "answers": [
+      "a) La aeronave no tripulada comience a girar en la dirección del viento.",
+      "b) Aparezcan turbulencias",
+      "c) Disminuya la visibilidad",
+      "d) Disminuya la temperatura"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_9_33",
+    "test": "Test 9",
+    "number": 33,
+    "question": "Las siglas en inglés «MTOM» significan:",
+    "answers": [
+      "a) Masa de despegue de giroavión («multirotor take-off mass»).",
+      "b) Masa máxima de despegue («maximum take-off mass»).",
+      "c) Masa máxima de derribo («maximum take-down mass»).",
+      "d) Masa mínima de despegue («minimum take-off mass»)."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_9_34",
+    "test": "Test 9",
+    "number": 34,
+    "question": "En el STS-01, la acción del piloto a distancia de verificar que los medios para terminar el vuelo de la aeronave no tripulada están operativos y de comprobar si la identificación a distancia directa está activa y actualizada, se realizará:",
+    "answers": [
+      "a) En cualquier momento del vuelo.",
+      "b) Antes de iniciar una operación con UAS.",
+      "c) Durante el despegue.",
+      "d) Durante el vuelo."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_9_35",
+    "test": "Test 9",
+    "number": 35,
+    "question": "La visibilidad mínima para vuelos en escenarios estándar debe ser:",
+    "answers": [
+      "a) 2 Km.",
+      "b) No hay límite marcado.",
+      "c) Aquella en la que veamos despegar y aterrizar al UAS.",
+      "d) Más de 5 Km."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_9_36",
+    "test": "Test 9",
+    "number": 36,
+    "question": "¿Qué se considera el riesgo en tierra durante una operación con UAS? Seleccione una:",
+    "answers": [
+      "a) Es el riesgo de colisión con otra aeronave no tripulada en el momento de despegue.",
+      "b) Es el riesgo de que el piloto a distancia tenga un accidente y pierda el control del UAS.",
+      "c) El riesgo de que una persona sea golpeada por la aeronave no tripulada en caso de pérdida de control.",
+      "d) El riesgo de que la aeronave sea golpeada antes de iniciar la operación."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_9_37",
+    "test": "Test 9",
+    "number": 37,
+    "question": "Señala la incorrecta. Una vez activado el modo de vuelo Fail Safe podemos esperar que la aeronave no tripulada:",
+    "answers": [
+      "a) Suba hasta una altura de seguridad antes de iniciar la vuelta a casa",
+      "b) Mantenga el vuelo estático",
+      "c) Aterrice en ese punto",
+      "d) Si es un hexarotor o hexacoptero, parará dos motores para descender rápidamente"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_9_38",
+    "test": "Test 9",
+    "number": 38,
+    "question": "Una parte importante del procedimiento previo al vuelo es:",
+    "answers": [
+      "a) No dedicar tiempo a programar el vuelo Fail-Safe si no se espera que pierda el enlace en un área ambiental concreta. No tener en cuenta los ajustes del Fail-Safe si se opera en un área conocida.",
+      "b) Comprobar que todas las variables del Fail-Safe se han ajustado a la norma.",
+      "c) Así se garantiza que el UA se mantendrá dentro del espacio protegido.",
+      "d) Comprobar que todas las variables del Fail-Safe se han ajustado de acuerdo con el área de operación y las condiciones meteorológicas imperantes"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_9_39",
+    "test": "Test 9",
+    "number": 39,
+    "question": "Antes de un vuelo con una aeronave no tripulada el piloto a distancia se asegura de:",
+    "answers": [
+      "a) Verificar en la web de EASA que la zona de operaciones no tiene limitaciones ni restricciones",
+      "b) Verificar en la web de los fabricantes de UAS que la zona de operaciones no tiene limitaciones ni restricciones",
+      "c) Verificar en la web de Enaire Drones que la zona de operaciones no tiene limitaciones ni restricciones.",
+      "d) Verificar en la web de cada ayuntamiento afectado que la zona de operaciones no tiene limitaciones ni restricciones"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_9_40",
+    "test": "Test 9",
+    "number": 40,
+    "question": "¿Cuál de las siguientes se pueden considerar personas no participantes en una operación de UAS?: 1. Personas sentadas en un parque en la zona de operaciones; 2. Personas presentes en un festival de música, informados a través de una declaración en el ticket de entrada; 3. Un observador de aeronave no tripulada situado junto al piloto; 4. Personas presentes en la zona de operaciones, pero que no quieren participar en ella; 5. Un trabajador del operador de UAS que está bloqueando el acceso a la zona de operaciones.",
+    "answers": [
+      "a) 1, 2 y 4.",
+      "b) 2, 3 y 4.",
+      "c) 2, 4 y 5.",
+      "d) 1, 3 y 5."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_10_01",
+    "test": "Test 10",
+    "number": 1,
+    "question": "¿Cómo cambia la velocidad del viento a medida que aumenta la altitud sobre el terreno? Seleccione una:",
+    "answers": [
+      "a) El viento es más racheado",
+      "b) El viento es más caliente",
+      "c) El viento es más débil",
+      "d) El viento es más fuerte"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_10_02",
+    "test": "Test 10",
+    "number": 2,
+    "question": "La visibilidad a nivel del suelo se puede ver reducida debido a: 1. Niebla 2. Lluvia 3. Viento 4. Nubes",
+    "answers": [
+      "a) 1, 2 y 3.",
+      "b) 2 y 4.",
+      "c) 2, 3 y 4.",
+      "d) 1 y 3."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_10_03",
+    "test": "Test 10",
+    "number": 3,
+    "question": "Como piloto a distancia que tiene la intención de volar una aeronave de ala fija no tripulada:",
+    "answers": [
+      "a) Puede ser de etiqueta de identificación de clase C6.",
+      "b) Puede ser de etiqueta de identificación de clase C5 sólo si estuviera cautiva.",
+      "c) Puede ser de etiqueta de identificación de clase C5.",
+      "d) Puede ser de etiqueta de identificación de clase C6 sólo si estuviera anclada."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_10_04",
+    "test": "Test 10",
+    "number": 4,
+    "question": "¿Qué partes forman el piloto automático de una aeronave no tripulada?",
+    "answers": [
+      "a) Dos IMUs.",
+      "b) Solo GNSS.",
+      "c) Acelerómetros, IMU, GPS, sensores.",
+      "d) Acelerómetros."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_10_05",
+    "test": "Test 10",
+    "number": 5,
+    "question": "Las comprobaciones que debe realizar el piloto a distancia de una aeronave no tripulada antes del vuelo incluyen, entre otras, las siguientes:",
+    "answers": [
+      "a) Realizar un control de alcoholemia a los participantes en la operación.",
+      "b) Comprobar los planes de vuelo presentados de las aeronaves comerciales.",
+      "c) Comprobar la existencia de turbulencias máximas en niveles atmosféricos elevados.",
+      "d) Detectar posibles interferencias electromagnéticas que puedan causar degradación de la señal o pérdida de la misma."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_10_06",
+    "test": "Test 10",
+    "number": 6,
+    "question": "En el STS-01, antes de iniciar una operación UAS, el piloto a distancia",
+    "answers": [
+      "a) Verificará que los medios de terminación segura del vuelo de la aeronave no tripulada y el sistema de identificación a distancia directa están instalados.",
+      "b) Verificará que los medios de terminación segura del vuelo de la aeronave no tripulada están operaivos y comprobará si la identificación a distancia está activa y actualizada.",
+      "c) Solo probará el sistema de terminación de vuelo (FTS) como parte de las comprobaciones previas al vuelo.",
+      "d) Solo comprobará si la identificación a distancia directa está activa y actualizada."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_10_07",
+    "test": "Test 10",
+    "number": 7,
+    "question": "En caso de detección de no participantes durante la inspección previa al vuelo de la zona terrestre controlada:",
+    "answers": [
+      "a) Se les indicará que no se muevan dentro de la zona de operaciones.",
+      "b) Se les indicará que se salgan de la zona terrestre controlada.",
+      "c) Se les facilitará los datos de contacto del operador de la aeronave no tripulada.",
+      "d) Se les facilitará el número de licencia del piloto a distancia."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_10_08",
+    "test": "Test 10",
+    "number": 8,
+    "question": "El campo de visión horizontal de cada ojo es aproximadamente de: Seleccione una:",
+    "answers": [
+      "a) 80º",
+      "b) 60º",
+      "c) 160º",
+      "d) 120º"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_10_09",
+    "test": "Test 10",
+    "number": 9,
+    "question": "¿Cuál de los siguientes sistemas que pueden estar instalados en un UAS se considera una medida de atenuación del riesgo en tierra? Seleccione una:",
+    "answers": [
+      "a) Paracaídas",
+      "b) Geocaging",
+      "c) Sistema de identificación a distancia directa",
+      "d) Geofencing"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_10_10",
+    "test": "Test 10",
+    "number": 10,
+    "question": "¿Qué se debe tener en cuenta respecto a las baterías al realizar una operación con UAS a una temperatura de -10°C? Seleccione una:",
+    "answers": [
+      "a) El rendimiento de las baterías únicamente se ve afectado por las altas temperaturas",
+      "b) No es necesario realizar ningún ajuste, ya que las baterías de los UAS están diseñadas para funcionar igual en cualquier temperatura.",
+      "c) El rendimiento de las baterías es superior a bajas temperaturas",
+      "d) Es necesario precalentar las baterías antes del uso y mantenerlas almacenadas en un lugar cálido"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_10_11",
+    "test": "Test 10",
+    "number": 11,
+    "question": "¿Qué comportamiento se puede esperar de la aeronave no tripulada en caso de encontrar turbulencias durante una operación? Seleccione una:",
+    "answers": [
+      "a) Ningún comportamiento anómalo; la aeronave no tripulada se mantendrá estable",
+      "b) La aeronave no tripulada verá ralentizada su velocidad",
+      "c) La aeronave no tripulada tendrá dificultades para mantener una posición o trayectoria estable",
+      "d) La aeronave no tripulada se comportará de manera predecible"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_10_12",
+    "test": "Test 10",
+    "number": 12,
+    "question": "En una aeronave no tripulada con cuatro rotores:",
+    "answers": [
+      "a) Un número impar de rotores no se puede compensar",
+      "b) Los rotores giran en sentidos inversos dos a dos y pueden girar a diferentes rpm",
+      "c) Todos los rotores giran siempre a las mismas rpm",
+      "d) Son más estables que los de 6 rotores"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_10_13",
+    "test": "Test 10",
+    "number": 13,
+    "question": "Una Checklist:",
+    "answers": [
+      "a) Sólo lo utilizan el fabricante y los técnicos para asegurarse de que el UA se ha montado correctamente",
+      "b) Debe describir tanta información como sea posible y hacer un buen uso de todo el espacio disponible. Reducir el tamaño del texto permite obtener más información por página",
+      "c) Debe describir sólo la información esencial, tener un flujo razonable que se asemeje al orden de las operaciones y ser fácil de leer y seguir",
+      "d) Sólo se utiliza en la aviación tripulada. Un buen piloto a distancia debe conocer de memoria todos los detalles y procedimientos"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_10_14",
+    "test": "Test 10",
+    "number": 14,
+    "question": "\"¿Qué factores pueden provocar la fatiga? 1. Falta de sueño. 2. Tiempos prolongados de vigilia. 3. Agotamiento físico. 4. Aumento del consumo de café. \"",
+    "answers": [
+      "a) 1 y 4.",
+      "b) 1, 2 y 4.",
+      "c) 1, 2 y 3.",
+      "d) 2 y 4."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_10_15",
+    "test": "Test 10",
+    "number": 15,
+    "question": "¿Qué afirmación describe mejor el término “consciencia situacional” o “situational awareness”?",
+    "answers": [
+      "a) Evaluar la situación basándose en la intuición para realizar un vuelo con UAS.",
+      "b) La consciencia personal no afecta al vuelo del UAS.",
+      "c) La información del último vuelo UAS se utiliza para obtener una visión general de las condiciones actuales.",
+      "d) Obtener una visión general de la situación y ser consciente de lo que puede ocurrir a continuación."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_10_16",
+    "test": "Test 10",
+    "number": 16,
+    "question": "¿Cómo afecta el consumo de alcohol al comportamiento y capacidades del piloto a distancia?",
+    "answers": [
+      "a) Aumenta el tiempo de respuesta",
+      "b) Mejora la conciencia situacional",
+      "c) Aumenta la capacidad de reacción durante la operación",
+      "d) Mejora la capacidad de visualizar el UAS"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_10_17",
+    "test": "Test 10",
+    "number": 17,
+    "question": "Un espacio aéreo segregado:",
+    "answers": [
+      "a) Es un espacio aéreo reservado para usuarios específicos, que puede incluir aeronaves no tripuladas.",
+      "b) Es un espacio aéreo reservado únicamente por motivos medioambientales.",
+      "c) Es un tipo de espacio aéreo reservado únicamente para aeronaves tripuladas comerciales.",
+      "d) Es un espacio aéreo reservado siempre para operaciones UAS."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_10_18",
+    "test": "Test 10",
+    "number": 18,
+    "question": "Una aeronave no tripulada con marcado de clase C5 puede ser utilizada en los escenarios estándar STS-01 y STS-02 Seleccione una",
+    "answers": [
+      "a) Sí, se puede utilizar indistintamente en ambos escenarios estándar",
+      "b) No, las aeronaves no tripuladas con marcado de clase C5 sólo se pueden utilizar en el escenario estándar STS-01",
+      "c) No, para los escenarios estándar se necesita una aeronave no tripulada con marcado de clase C4",
+      "d) No, las aeronaves no tripuladas con marcado de clase C5 sólo se pueden utilizar en el escenario estándar STS-02"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_10_19",
+    "test": "Test 10",
+    "number": 19,
+    "question": "El espacio aéreo de clase E",
+    "answers": [
+      "a) Es tanto controlado como no controlado",
+      "b) Es controlado",
+      "c) Es no controlado",
+      "d) No existe"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_10_20",
+    "test": "Test 10",
+    "number": 20,
+    "question": "Una Circular de Información Aeronáutica (AIC)",
+    "answers": [
+      "a) Es un manual que contiene detalles minuciosos de los reglamentos, procedimientos y otra información pertinente para el vuelo de aeronaves en el país concreto al que se refiere.",
+      "b) Es un mensaje de observación codificado que indica las condiciones meteorológicas de un aeródromo observadas en un momento dado",
+      "c) Es un aviso que contiene información relacionada con la seguridad del vuelo, la navegación aérea, asuntos técnicos, administrativos o legislativos",
+      "d) Es un aviso presentado ante una autoridad aeronáutica para alertar a los pilotos de aeronaves, de peligros potenciales a lo largo de una ruta de vuelo o en un lugar que podría afectar al mismo"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_10_21",
+    "test": "Test 10",
+    "number": 21,
+    "question": "En el caso de querer almacenar durante un largo periodo de tiempo una batería Li-Po que tiene un voltaje de 3,5 V por celda, es recomendable:",
+    "answers": [
+      "a) Descargar la batería hasta su nivel mínimo.",
+      "b) Cargar la batería hasta su voltaje máximo",
+      "c) Descargar la batería hasta su voltaje nominal.",
+      "d) Cargar su batería hasta su voltaje nominal."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_10_22",
+    "test": "Test 10",
+    "number": 22,
+    "question": "¿Puede utilizarse en STS-01 y STS-02 una aeronave no tripulada que lleve una etiqueta de identificación de clase C5?",
+    "answers": [
+      "a) No, en STS-01 y STS-02 se requiere una aeronave no tripulada que lleve una etiqueta de identificación de clase C4",
+      "b) Sí, puede utilizarse indistintamente en ambos escenarios estándar",
+      "c) No, solo puede utilizarse en STS-01",
+      "d) No, solo puede utilizarse en STS-02"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_10_23",
+    "test": "Test 10",
+    "number": 23,
+    "question": "Durante el desarrollo de la operación en las inmediaciones de un aeródromo, debemos prestar atención a la radio",
+    "answers": [
+      "a) Sólo a la FM",
+      "b) En todo momento",
+      "c) No es necesaria la radio",
+      "d) Únicamente para comunicar despegue y aterrizaje"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_10_24",
+    "test": "Test 10",
+    "number": 24,
+    "question": "Volar utilizando las reglas de vuelo por instrumentos (IFR):",
+    "answers": [
+      "a) Está permitido solo en el espacio aéreo de clase A",
+      "b) Está permitido solo en el espacio aéreo de clase C",
+      "c) Está permitido solo en el espacio aéreo de clase B",
+      "d) Está permitido en todas las clases de espacios aéreos"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_10_25",
+    "test": "Test 10",
+    "number": 25,
+    "question": "Qué mitigación no puede utilizarse para detectar otras aeronaves:",
+    "answers": [
+      "a) Detector ADS-B",
+      "b) Monitorización de radio de la banda aérea",
+      "c) Un NOTAM",
+      "d) Un radar"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_10_26",
+    "test": "Test 10",
+    "number": 26,
+    "question": "¿El piloto a distancia debe evaluar el entorno donde va a realizar los vuelos antes de iniciar la operación? Seleccione una:",
+    "answers": [
+      "a) Solo será necesario si se prevén condiciones meteorológicas adversas",
+      "b) Solo será necesario en el caso de que se prevea encontrar personas no participantes en la zona de operación",
+      "c) No es necesario ya que los escenarios estándar no lo requieren",
+      "d) Sí, verificará que la operación se ajusta a la normativa y cumple con las posibles limitaciones y restricciones impuestas en la zona de operación"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_10_27",
+    "test": "Test 10",
+    "number": 27,
+    "question": "¿Cómo se denomina el movimiento alrededor del eje transversal que se realizada al volar una aeronave no tripulada?",
+    "answers": [
+      "a) Tonel.",
+      "b) Alabeo.",
+      "c) Cabeceo.",
+      "d) Guiñada."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_10_28",
+    "test": "Test 10",
+    "number": 28,
+    "question": "¿Cuál es el significado de las siglas ”CG”? Seleccione una:",
+    "answers": [
+      "a) Control de gravedad",
+      "b) Constante gravitacional",
+      "c) Control de gente",
+      "d) Centro de gravedad"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_10_29",
+    "test": "Test 10",
+    "number": 29,
+    "question": "Estoy realizando una operación con una aeronave no tripulada y se avecina una tormenta. ¿Cómo debo actuar? Seleccione una:",
+    "answers": [
+      "a) Aterrizo lo más rápido posible",
+      "b) Disminuyo la velocidad de los rotores",
+      "c) Sigo volando hasta que llegue la tormenta",
+      "d) Aumento la velocidad de los rotores"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_10_30",
+    "test": "Test 10",
+    "number": 30,
+    "question": "¿Qué es un ciclón?",
+    "answers": [
+      "a) Una zona de alta presión atmosférica donde el aire desciende y se estabiliza.",
+      "b) Son los truenos y descargas eléctricas que acompañan a la borrasca, que la convierten en suaves huracanes tropicales y los tifones centrados en la costa este americana.",
+      "c) Las tormentas y perturbaciones que acompañan a la borrasca, como los vientos huracanes tropicales y los tifones, centrados en zonas de presiones extraordinariamente bajas.",
+      "d) Las tormentas y perturbaciones que acompañan a los anticiclones, como los vientos huracanes tropicales y los tifones, centrados en zonas de presiones extraordinariamente bajas."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_10_31",
+    "test": "Test 10",
+    "number": 31,
+    "question": "¿Qué es una predicción meteorológica? Seleccione una:",
+    "answers": [
+      "a) Un resumen de las últimas horas de los factores más importantes del clima",
+      "b) Un pronóstico del clima futuro para aeropuertos y aeródromos",
+      "c) Un resumen de los últimos días de los factores más importantes del clima",
+      "d) Un pronóstico del clima futuro para un momento y una localización específicos"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_10_32",
+    "test": "Test 10",
+    "number": 32,
+    "question": "¿Cuál es el marcado de clase de UAS (“C”) que se permite en la subcategoría A2 de la categoría «abierta»? Seleccione una:",
+    "answers": [
+      "a) C0.",
+      "b) C1.",
+      "c) C2.",
+      "d) C3."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_10_33",
+    "test": "Test 10",
+    "number": 33,
+    "question": "¿Qué indica en una batería el término 40C?",
+    "answers": [
+      "a) Tasa de descarga máxima",
+      "b) Mínima temperatura de operación",
+      "c) Factor de corriente de descarga máxima",
+      "d) Corriente máxima de descarga de 40 A"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_10_34",
+    "test": "Test 10",
+    "number": 34,
+    "question": "Las características de una batería de tipo LiPo primarias son:",
+    "answers": [
+      "a) Recargable, ciclo de vida múltimple, contiente de 3 a 6 circuitos de batería, producen corriente eléctrica extremadamente alta y se agota.",
+      "b) No recargable, ciclo de vida único, un solo circuito de batería, producen poca energía eléctrica y es duradera.",
+      "c) Recargable, ciclo de vida único, un solo circuito de batería, produce mucha energía eléctrica y es duradera.",
+      "d) No recargable, ciclo de vida múltiple, contiene de 2 a 4 circuitos de batería, producen corriente eléctrica alta y se agota rápidamente."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_10_35",
+    "test": "Test 10",
+    "number": 35,
+    "question": "Si el aire se mueve en la dirección de las agujas del reloj en el hemisferio Norte y, en sentido contrario en el hemisferio Sur entonces pasará lo siguiente:",
+    "answers": [
+      "a) El aire que baja se va hundiendo y enfriando, por lo que trae consigo inestabilidad y mal tiempo, con mucha probabilidad de lluvia.",
+      "b) El aire que baja se va humedeciendo y enfriando, por lo que trae consigo estabilidad y buen tiempo, con escasa probabilidad de lluvia.",
+      "c) El aire que baja se va secando y calentando, por lo que trae consigo inestabilidad y mal tiempo, con probabilidad de lluvia.",
+      "d) El aire que baja se va secando y calentando, por lo que trae consigo estabilidad y buen tiempo, con escasa probabilidad de lluvia."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_10_36",
+    "test": "Test 10",
+    "number": 36,
+    "question": "Normalmente, ¿cómo se puede saber la masa máxima de despegue MTOM de una aeronave no tripulada? Seleccione una",
+    "answers": [
+      "a) En foros de pilotos a distancia en internet",
+      "b) Pesando la aeronave no tripulada con una balanza",
+      "c) En la página web de la autoridad competente (AESA)",
+      "d) En las instrucciones facilitadas por el fabricante del UAS"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_10_37",
+    "test": "Test 10",
+    "number": 37,
+    "question": "¿En qué afecta el viento en las características de vuelo del UAS?",
+    "answers": [
+      "a) La calidad de la señal del sistema global de navegación por Satélite(GNSS por sus siglas en ingles global navigation satellite system)",
+      "b) La maniobrabilidad y la autonomía de la aeronave no tripulada",
+      "c) El plan de vuelo",
+      "d) La carga de las baterías"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_10_38",
+    "test": "Test 10",
+    "number": 38,
+    "question": "Antes de un vuelo con una aeronave no tripulada el piloto a distancia se asegurará de:",
+    "answers": [
+      "a) Verificar en la web de EASA que la zona de operaciones no tiene limitaciones ni restricciones.",
+      "b) Verificar en la web de cada Ayuntamiento afectado que la zona de operaciones no tiene limitaciones ni restricciones.",
+      "c) Verificar en la web de los fabricantes de UAS que la zona de operaciones no tiene limitaciones ni restricciones.",
+      "d) Verificar en la web EANIRE Drones que la zona de operaciones no tiene limitaciones ni restricciones."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_10_39",
+    "test": "Test 10",
+    "number": 39,
+    "question": "¿Cuál de las siguientes consecuencias no es producida por un ambiente de presión sonora alta?",
+    "answers": [
+      "a) Aumento de errores y accidentes",
+      "b) Disminución del rendimiento y la atención",
+      "c) Aumento del rendimiento y atención",
+      "d) Alteraciones cardiorrespiratorias y malestar"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_10_40",
+    "test": "Test 10",
+    "number": 40,
+    "question": "¿Un piloto a distancia puede definir exactamente la altura de una aeronave no tripulada en vuelo?",
+    "answers": [
+      "a) Un piloto a distancia con experiencia por medio de observación visual, sin la ayuda de instrumentos, puede definir exactamente la altura de una aeronave no tripulada en vuelo",
+      "b) Un piloto a distancia con buena capacidad visual por medio de observación visual, sin la ayuda de instrumentos, puede definir exactamente la altura de una aeronave no tripulada en vuelo",
+      "c) Cualquier piloto a distancia por medio de observación visual, sin la ayuda de instrumentos, puede definir exactamente la altura una aeronave no tripulada en vuelo, dado que es algo inherente a la naturaleza humana",
+      "d) Un piloto a distancia por medio de observación visual, sin la ayuda de instrumentos, difícilmente podrá definir exactamente la altura de una aeronave no tripulada en vuelo"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_11_01",
+    "test": "Test 11",
+    "number": 1,
+    "question": "Zonas peligrosas, prohibidas y restringidas:",
+    "answers": [
+      "a) Deben ser tenidas en cuenta por el piloto a distancia durante la planificación del vuelo si la aeronave no tripulada tiene una MTOM de 25 kg o inferior.",
+      "b) Deben ser tenidas en cuenta por el piloto a distancia durante la planificación del vuelo si la aeronave no tripulada tiene una MTOM de 25 kg o superior.",
+      "c) Deben ser tenidas en cuenta por el piloto a distancia durante la planificación de vuelo.",
+      "d) No son motivo de preocupación para las aeronaves no tripuladas."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_11_02",
+    "test": "Test 11",
+    "number": 2,
+    "question": "La altura máxima del vuelo será:",
+    "answers": [
+      "a) 120m. del punto más cercano al UAS en la superficie terrestre",
+      "b) 80m. respecto al punto más elevado en un radio de 150m",
+      "c) 120m. respecto del lugar de despegue",
+      "d) En STS no hay límite de altura"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_11_03",
+    "test": "Test 11",
+    "number": 3,
+    "question": "Si las hélices están muy separadas proporcionarán:",
+    "answers": [
+      "a) Mayor estabilidad",
+      "b) Mayor velocidad",
+      "c) Menor estabilidad",
+      "d) Menor velocidad"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_11_04",
+    "test": "Test 11",
+    "number": 4,
+    "question": "Una zona restringida es un espacio aéreo de dimensiones definidas dentro del cual:",
+    "answers": [
+      "a) Pueden existir actividades peligrosas para el vuelo de aeronaves en un momento determinado.",
+      "b) Está prohibido el vuelo de aeronaves.",
+      "c) Está restringido el vuelo de aeronaves de acuerdo con ciertas condiciones específicas.",
+      "d) Siempre se puede volar con aeronaves no tripuladas."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_11_05",
+    "test": "Test 11",
+    "number": 5,
+    "question": "La autonomía de la aeronave no tripulada sin carga útil, en comparación con la aeronave no tripulada con ella:",
+    "answers": [
+      "a) Será menor.",
+      "b) No varía.",
+      "c) Será mayor.",
+      "d) Será la mitad."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_11_06",
+    "test": "Test 11",
+    "number": 6,
+    "question": "Las comprobaciones que debe realizar el piloto a distancia de una aeronave no tripulada antes del vuelo incluyen, entre otras, las siguientes:",
+    "answers": [
+      "a) Realizar un control de alcoholemia a los participantes en la operación.",
+      "b) Comprobar la existencia de turbulencias máximas en niveles atmosféricos elevados.",
+      "c) Comprobar los planes de vuelo presentados de las aeronaves comerciales.",
+      "d) Detectar posibles interferencias electromagnéticas que puedan causar degradación de la señal o pérdida de la misma."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_11_07",
+    "test": "Test 11",
+    "number": 7,
+    "question": "El voltaje nominal de una batería LiPo es:",
+    "answers": [
+      "a) 3,5 V",
+      "b) 3,9 V",
+      "c) 3,7 V",
+      "d) 3,3 V"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_11_08",
+    "test": "Test 11",
+    "number": 8,
+    "question": "¿Qué es una borrasca? seleccione una:",
+    "answers": [
+      "a) Es una zona de altas presiones atmosféricas rodeadas por un sistema de vientos que en el hemisferio sur se mueven en sentido opuesto a las agujas del reloj y en sentido contrario en el hemisferio norte.",
+      "b) Es una zona de bajas presiones atmosféricas rodeada por un sistema de vientos que en el hemisferio norte se mueven en sentido opuesto a las agujas del reloj y en sentido contrario en el hemisferio sur.",
+      "c) Es una zona de altas presiones atmosféricas rodeada por un sistema de vientos que se mueven en sentido de las agujas del reloj y en sentido contrario dependiendo de la dirección del viento en alta cota",
+      "d) Es una zona de presión atmosférica rodeada por un sistema de vientos que se mueven en sentido contrario a las agujas del reloj y en el sentido de las agujas del reloj dependiendo de la dirección del viento en alta cota"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_11_09",
+    "test": "Test 11",
+    "number": 9,
+    "question": "¿Qué es la brisa térmica?",
+    "answers": [
+      "a) Son vientos locales cuyo origen está en la suma de temperatura entre las superficies marinas y terrestres",
+      "b) Son vientos locales cuyo origen está en la diferencia de temperatura entre las superficies marinas y terrestres",
+      "c) Son vientos locales ascendentes que se originan en la superficie terrestre",
+      "d) Son vientos locales descendentes que se originan en la superficie terrestre"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_11_10",
+    "test": "Test 11",
+    "number": 10,
+    "question": "Si deseo transportar en la aeronave no tripulada mercancías peligrosas",
+    "answers": [
+      "a) Puedo operar en ambos escenarios estándar con aeronaves con marcado de clase C5",
+      "b) Los escenarios estándar no permiten el transporte de mercancías peligrosas",
+      "c) Debo operar en el escenario estándar STS-02 con aeronaves con marcado de clase C5",
+      "d) Debo operar en el escenario estándar STS-01 con aeronaves con marcado de clase C5"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_11_11",
+    "test": "Test 11",
+    "number": 11,
+    "question": "Se pueden realizar operaciones en BVLOS:",
+    "answers": [
+      "a) SÓLO con una autorización operativa o LUC en categoría Específica.",
+      "b) Con algunas restricciones en STS-02.",
+      "c) Con algunas restricciones en la categoría abierta (subcategoría A3).",
+      "d) Con algunas restricciones en STS-01."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_11_12",
+    "test": "Test 11",
+    "number": 12,
+    "question": "STS-02: ¿A qué distancia del piloto está permitido volar sin observadores del espacio aéreo?",
+    "answers": [
+      "a) 1 km.",
+      "b) 3 km.",
+      "c) 2 km.",
+      "d) 500 m."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_11_13",
+    "test": "Test 11",
+    "number": 13,
+    "question": "Un operador de UAS tiene la intención de operar de acuerdo con el escenario estándar STS-01. Antes de presentar su declaración operativa a la autoridad competente:",
+    "answers": [
+      "a) Debe realizar una evaluación de riesgos de su operación utilizado una metodología definida como aceptable por la autoridad competente.",
+      "b) Debe realizar una evaluación de riesgos de su operación de acuerdo como uno de los \"PDRA\".",
+      "c) Debe realizar una avaluación de riesgos de su operación utilizando la metodología \"SORA\".",
+      "d) No está obligado a realizar una evaluación de riesgos de su operación, ya que ésta se ha realizado para él de antemano."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_11_14",
+    "test": "Test 11",
+    "number": 14,
+    "question": "Todas las siguientes son medidas de atenuación orientadas a reducir el riesgo en tierra, excepto; seleccione una:",
+    "answers": [
+      "a) Definir una zona de contingencia o una zona de prevención de riesgos en tierra.",
+      "b) Instalar en la aeronave no tripulada un dispositivo de limitación de la energía de impacto.",
+      "c) Volar en una zona de operaciones controlada.",
+      "d) Volar más allá del alcance visual («BVLOS»)."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_11_15",
+    "test": "Test 11",
+    "number": 15,
+    "question": "Antes de un vuelo con una aeronave no tripulada, el piloto a distancia se asegurará de:",
+    "answers": [
+      "a) Verificar en la web Enaire Drones que la zona de operaciones no tiene limitaciones ni restricciones.",
+      "b) Verificar en la web de AESA que la zona de operaciones no tiene ni limitaciones ni restricciones.",
+      "c) Verificar en la web de los fabricantes de UAS que la zona de operaciones no tiene limitaciones ni restricciones.",
+      "d) Verificar en la web de cada ayuntamiento afectado que la zona de operaciones no tiene limitaciones ni restricciones."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_11_16",
+    "test": "Test 11",
+    "number": 16,
+    "question": "Salvo en caso de estar anclado, los medios de terminación del vuelo que la aeronave debe proporcionar al piloto, deben ser:",
+    "answers": [
+      "a) Efectivos, impredecibles y contundentes.",
+      "b) De efecto inmediato, parando los motores para terminar el vuelo lo más rápido posible con el fin de evitar riesgos.",
+      "c) Fiables, predecibles e independientes del sistema automático del control de vuelo y de orientación.",
+      "d) Controlados manualmente por parte del piloto para evitar colisiones con cualquier aeronave, persona, objeto o animal"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_11_17",
+    "test": "Test 11",
+    "number": 17,
+    "question": "Por definición, el escenario estándar STS-01 se refiere a:",
+    "answers": [
+      "a) Operaciones de una aeronave no tripulada en BVLOS con observadores del espacio aéreo sobre una zona terrestre controlada en un entorno poco poblado",
+      "b) Operaciones de enjambre de aeronaves no tripuladas en VLOS",
+      "c) Operaciones de una aeronave no tripulada en VLOS sobre una zona terrestre controlada en un entorno poblado",
+      "d) Operaciones de una aeronave no tripulada en VLOS sobre una zona terrestre controlada en un entorno despoblado"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_11_18",
+    "test": "Test 11",
+    "number": 18,
+    "question": "¿Cuál es el significado de la letra \"P\" en las baterías? Seleccione una:",
+    "answers": [
+      "a) Factor de corriente de descarga máximo",
+      "b) Baterías de rendimiento mejorando",
+      "c) Conexión en serie de las celdas en las baterías",
+      "d) Conexión en paralelo de las celdas en las baterías"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_11_19",
+    "test": "Test 11",
+    "number": 19,
+    "question": "¿Cuál de las siguientes opciones sería la incorrecta ante un posible fallo en la recepción de la señal del GNSS? Seleccione una:",
+    "answers": [
+      "a) Aumento del nivel de alerta por el Gobierno de EE.UU.",
+      "b) La recepción del GNSS puede estar bloqueada por presencia de nubes",
+      "c) La aeronave no tripulada para los motores",
+      "d) La aeronave no tripulada está en un espacio cerrado"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_11_20",
+    "test": "Test 11",
+    "number": 20,
+    "question": "Las verificaciones que debe realizar el piloto de una aeronave no tripulada antes del vuelo, incluyen entre otras:",
+    "answers": [
+      "a) Comprobar que la aeronave no tripulada reúne las condiciones apropiadas",
+      "b) Verificar en la web de cada Ayuntamiento afectado que la zona de vuelo no tiene limitaciones ni restricciones",
+      "c) La comprobación de los planes de vuelo de aeronaves comerciales presentados",
+      "d) Comprobar la turbulencia por encima de 1000m"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_11_21",
+    "test": "Test 11",
+    "number": 21,
+    "question": "Una aeronave no tripulada vuelve al punto de despegue tras realizar una operación. ¿Cuál de las siguientes opciones ayudaría a reducir la duración de vuelo durante el regreso?",
+    "answers": [
+      "a) Viento de cara",
+      "b) Viento de cola",
+      "c) Viento cruzado por el lado izquierdo",
+      "d) Viento cruzado por el lado derecho"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_11_22",
+    "test": "Test 11",
+    "number": 22,
+    "question": "¿Cuál de las siguientes situaciones no produce estrés?",
+    "answers": [
+      "a) Experiencia previa",
+      "b) Acumulación de información por procesar",
+      "c) Esfuerzo extra para recuperar una situación normal",
+      "d) Acumulación de tareas"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_11_23",
+    "test": "Test 11",
+    "number": 23,
+    "question": "El control electrónico de velocidad (ESC) varía la velocidad de cada rotor. Seleccione una:",
+    "answers": [
+      "a) Variando la carga de la batería",
+      "b) Variando la frecuencia de alimentación",
+      "c) Variando la corriente de alimentación",
+      "d) Variando su tensión de alimentación"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_11_24",
+    "test": "Test 11",
+    "number": 24,
+    "question": "En caso de que un observador del espacio aéreo detecte la entrada de una aeronave tripulada en el lado aire:",
+    "answers": [
+      "a) deberá informar a la autoridad competente para que inicie una acción disciplinaria contra la aeronave tripulada.",
+      "b) deberá alertar al piloto a distancia para que tome las medidas necesarias, incluida la finalización del vuelo.",
+      "c) deberá indicar a la aeronave tripulada que desvié su trayectoria fuera del área de operaciones.",
+      "d) deberá alertar al piloto de la aeronave tripulada para que tome las medidas necesarias, incluida la finalización del vuelo."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_11_25",
+    "test": "Test 11",
+    "number": 25,
+    "question": "¿A que horas debemos tener en cuneta el viento catabático volando nuestro UAS?",
+    "answers": [
+      "a) A primeras horas de la tarde, tras el descenso de la temperatura.",
+      "b) A primeras horas de la noche, tras el descenso de la temperatura.",
+      "c) A primeras horas de la mañana, tras el aumento de la temperatura.",
+      "d) A primeras horas de la mañana, tras el descenso de la temperatura."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_11_26",
+    "test": "Test 11",
+    "number": 26,
+    "question": "Los procedimientos operacionales a realizar antes del vuelo con una aeronave no tripulada son responsabilidad de:",
+    "answers": [
+      "a) El operador de UAS",
+      "b) El piloto a distancia",
+      "c) La autoridad competente",
+      "d) El gestor del aeropuerto más cercano"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_11_27",
+    "test": "Test 11",
+    "number": 27,
+    "question": "Si se realiza un vuelo en la subcategoría A2 de la categoría <abierta> a 15 m de altura y con el modo de baja velocidad de la aeronave no tripulada activado, ¿cuál es la distancia mínima de seguridad horizontal que debería mantenerse con personas no participantes en la operación siguiendo la regla 1:1?",
+    "answers": [
+      "a) 1,1 m.",
+      "b) 30 m.",
+      "c) 15 m.",
+      "d) 10 m."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_11_28",
+    "test": "Test 11",
+    "number": 28,
+    "question": "Un operador de UAS tiene la intención de operar de acuerdo con el escenario estándar STS-01. Antes de presentar su declaración operativa a la autoridad competente:",
+    "answers": [
+      "a) Debe realizar una evaluación de riesgos de su operación utilizado una metodología definida como aceptable por la autoridad competente.",
+      "b) Debe realizar una evaluación de riesgos de su operación de acuerdo como uno de los \"PDRA\".",
+      "c) Debe realizar una avaluación de riesgos de su operación utilizando la metodología \"SORA\".",
+      "d) No está obligado a realizar una evaluación de riesgos de su operación, ya que ésta se ha realizado para él de antemano."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_11_29",
+    "test": "Test 11",
+    "number": 29,
+    "question": "Un operador de UAS planea mapear un área vasta y plana utilizando una aeronave no tripulada. Los vuelos con altura superior a 120 m se pueden realizar:",
+    "answers": [
+      "a) Con algunas restricciones en la categoría \"abierta\" (subcategoría A3.",
+      "b) Con algunas restricciones en STS- 02.",
+      "c) Con autorización operacional o LUC en la categoría \"específica\".",
+      "d) Con algunas restricciones en STS-01."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_11_30",
+    "test": "Test 11",
+    "number": 30,
+    "question": "Las verificaciones que debe realizar el piloto de una aeronave no tripulada antes del vuelo incluyen entre otras:",
+    "answers": [
+      "a) Comprobar la turbulencia máxima en niveles altos de la atmósfera",
+      "b) La comprobación de los planes de vuelo de aeronaves comerciales presentados",
+      "c) Detectar posibles interferencias electromagnéticas que puedan provocar la degradación o pérdida de señal",
+      "d) Realizar un control de alcoholemia a los participantes en la operación"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_11_31",
+    "test": "Test 11",
+    "number": 31,
+    "question": "\"El lenguaje aeronáutico tiene ciertas características ¿Cuáles de las siguientes son correctas? 1. Utilizan un vocabulario limitado (un máximo de unas 500 palabras). 2. Son ricos y se adaptan al contexto, lo que a veces da lugar a ambigüedades. 3. Les permite tener una sintaxis fuerte. 4. Tienen un contexto que les da sentido y reduce el riesgo de ambigüedades.\"",
+    "answers": [
+      "a) 1 y 3",
+      "b) 3 y 4",
+      "c) 2 y 3",
+      "d) 1 y 4"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_11_32",
+    "test": "Test 11",
+    "number": 32,
+    "question": "Por definición, el escenario estándar STS-ES-02 se refiere a:",
+    "answers": [
+      "a) Operaciones de una aeronave no tripulada en BVLOS con observadores del espacio aéreo sobre una zona terrestre controlada en un entorno altamente poblado.",
+      "b) Operaciones de una aeronave no tripulada en BVLOS con observadores del espacio aéreo sobre una zona terrestre controlada en un entorno poco poblado.",
+      "c) Operaciones de una aeronave no tripulada en VLOS sobre una zona terrestre controlada en un entorno poblado",
+      "d) Operaciones de enjambre de aeronaves no tripulada en VLOS"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_11_33",
+    "test": "Test 11",
+    "number": 33,
+    "question": "Acaba de adquirir un UAS marcado de clase C6. La velocidad UA en tierra en vuelo nivelado no debe superar:",
+    "answers": [
+      "a) 50m/s",
+      "b) 50km/h",
+      "c) 5km/h",
+      "d) 5m/s"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_11_34",
+    "test": "Test 11",
+    "number": 34,
+    "question": "Si durante la operación de vuelo acceden a la zona controlada personas no participantes en la misma.",
+    "answers": [
+      "a) Dejamos el UAS estacionario y vamos a hablar con ellos para decirles que abandonen esa zona",
+      "b) Les ausentamos con el UAS para que se alejen",
+      "c) Continuamos con la operación como si no estuvieran",
+      "d) Aterrizamos evitando sobrevolarles"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "sts_test_11_35",
+    "test": "Test 11",
+    "number": 35,
+    "question": "Las verificaciones que debe realizar el piloto de una aeronave no tripulada antes del vuelo incluyen entre otras:",
+    "answers": [
+      "a) Realizar un control de alcoholemia a los participantes en la operación",
+      "b) Verificar que se encuentra en condiciones óptimas para llevar a cabo la operación",
+      "c) Comprobar la turbulencia por encima de los 1000m",
+      "d) Verificar en la web de cada ayuntamiento afectado que la zona de vuelo no tiene limitaciones ni restricciones"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "sts_test_11_36",
+    "test": "Test 11",
+    "number": 36,
+    "question": "Las baterías operan con un ciclo:",
+    "answers": [
+      "a) Termodinámico cerrado",
+      "b) Electrodinámico abierto",
+      "c) Termodinámico abierto",
+      "d) Electrodinámico cerrado"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_11_37",
+    "test": "Test 11",
+    "number": 37,
+    "question": "La aeronave no tripulada, debe estar equipada con:",
+    "answers": [
+      "a) Luces de colores rojas, blancas y verdes para asemejarse a las aeronaves tripuladas",
+      "b) Luces naranjas intermitentes a partir del 2 de diciembre de 2021",
+      "c) Al menos una luz verde teniendo esta que ser intermitente a partir del 2 de diciembre del 2021",
+      "d) Al menos una luz roja, teniendo esta que ser intermitente a partir del 2 de diciembre del 2021"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_11_38",
+    "test": "Test 11",
+    "number": 38,
+    "question": "Cuando vuelo una aeronave no tripulada con marcado de clase C5, el modo de baja velocidad seleccionable debe limitar la velocidad en tierra de la UA a no más de:",
+    "answers": [
+      "a) 50 m/s",
+      "b) 5 km/h",
+      "c) 5 m/s"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "sts_test_11_39",
+    "test": "Test 11",
+    "number": 39,
+    "question": "¿Qué indica en una batería el término 40C?",
+    "answers": [
+      "a) Tasa de descarga máxima",
+      "b) Mínima temperatura de operación",
+      "c) Factor de corriente de descarga máxima",
+      "d) Corriente máxima de descarga de 40 A"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "sts_test_11_40",
+    "test": "Test 11",
+    "number": 40,
+    "question": "¿Cuál es el marcado de clase de UAS (C) que se permite en la subcategoría A2 de la categoría abierta?",
+    "answers": [
+      "a) C2",
+      "b) C0",
+      "c) C3",
+      "d) C1"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  }
+]
