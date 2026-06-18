@@ -2462,5 +2462,1335 @@
     ],
     "correct": 0,
     "correct_letter": "A"
+  },
+  {
+    "id": "test_10_01",
+    "test": "Test 10",
+    "number": 1,
+    "question": "Un ATZ es:",
+    "answers": [
+      "a) Una zona de control",
+      "b) Un área de tránsito de AERODROMO",
+      "c) Una región de información de vuelo",
+      "d) Un área de control terminal"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_10_02",
+    "test": "Test 10",
+    "number": 2,
+    "question": "Cuando el piloto UAS vaya a transmitir un mensaje por radio:",
+    "answers": [
+      "a) Deberá mantener pulsado el PTT hasta que finalice la comunicación, ya que esto no afecta a la ocupación del canal de radio",
+      "b) Deberá pulsar y soltar el PTT a intervalos regulares",
+      "c) Deberá pulsar el PTT lo antes posible y soltarlo justo antes de finalizar su transmisión",
+      "d) Deberá pulsar el PTT un segundo antes de transmitir y deberá mantenerlo pulsado un segundo tras haber emitido su mensaje"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_10_03",
+    "test": "Test 10",
+    "number": 3,
+    "question": "¿Cuál sería el distintivo abreviado de llamada correcto para nombrar la aeronave con matrícula EC-FLY?",
+    "answers": [
+      "a) EC-Y",
+      "b) E-LY",
+      "c) E-Y",
+      "d) EC-LY"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_10_04",
+    "test": "Test 10",
+    "number": 4,
+    "question": "Las instrucciones ATC pueden ser modificadas por diversos motivos. Cuando esto suceda, la frase normalizada que usará el personal ATC con el significado: \"Se efectúa una modificación en su última autorización y esta nueva autorización invalida la anterior o parte de ella\", será:",
+    "answers": [
+      "a) Reautorización",
+      "b) Nueva autorización",
+      "c) Renovación",
+      "d) Transformación"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_10_05",
+    "test": "Test 10",
+    "number": 5,
+    "question": "Durante la transmisión de números que contengan una coma, p.ej. cuando se expresen frecuencias de radio, La palabra \"coma\":",
+    "answers": [
+      "a) Deberá transmitirse siempre, en todos los casos",
+      "b) Se podrá omitir cuando la cifra termine en cero cero",
+      "c) Se puede omitir si se cree que no existe peligro de malentendido",
+      "d) Se podrá expresar u omitir a criterio del emisor del mensaje"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_10_06",
+    "test": "Test 10",
+    "number": 6,
+    "question": "Si un controlador ATC expresase una frase al piloto con el siguiente significado: \"Establezca contacto radio con...\", la frase normalizada a emplear sería:",
+    "answers": [
+      "a) Redirija",
+      "b) Pase el mensaje",
+      "c) Dígaselo a...",
+      "d) Llame a"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_10_07",
+    "test": "Test 10",
+    "number": 7,
+    "question": "LEXX TWR da instrucciones de aterrizaje al piloto de un UAS de ala fija. Para ello, el mensaje que emitirá ATC será, por ejemplo:",
+    "answers": [
+      "a) \"No tripulado Sky02, proceda\"",
+      "b) \"Autorizado a aterrizar a su discreción, LEXX Torre\"",
+      "c) \"No tripulado Sky02, entre en zona de control procediendo a LEXX en VFR, pista 11, circuito de tráfico a la izquierda, QNH 1016, tráfico entrando por el suroeste UX12 a 300 pies VFR\"",
+      "d) \"No tripulado, aterrice cuando quiera en pista once\""
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_10_08",
+    "test": "Test 10",
+    "number": 8,
+    "question": "¿Debe colacionarse siempre una instrucción ATC?",
+    "answers": [
+      "a) Bastará con responder \"Recibido\", no siendo necesaria la colación.",
+      "b) No, si la instrucción ATC es clara y no hay motivo de confusión aparentemente.",
+      "c) No, si el canal de comunicación está muy atareado",
+      "d) Sí, a menos que se reciba una instrucción ATC en contra"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_10_09",
+    "test": "Test 10",
+    "number": 9,
+    "question": "Cuando una aeronave no pueda establecer contacto con la estación aeronáutica en la frecuencia designada, la aeronave tratará de establecer contacto con (elegir la respuesta y la secuencia correcta):",
+    "answers": [
+      "a) i. En otra frecuencia apropiada a la ruta, y si esta tentativa no da resultado, ii. En la frecuencia de urgencia",
+      "b) i. En otra frecuencia apropiada a la ruta, y si esta tentativa no da resultado, ii. con otras aeronaves u otras estaciones aeronáuticas, en las frecuencias apropiadas",
+      "c) i. En la frecuencia del aeropuerto controlado más próximo, y si esta tentativa no da resultado, ii. En la frecuencia de socorro",
+      "d) i. En otra frecuencia apropiada a la ruta, y si esta tentativa no da resultado, ii. En la frecuencia de socorro"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_10_10",
+    "test": "Test 10",
+    "number": 10,
+    "question": "El sufijo que corresponde a la dependencia “Llegadas con radar de control de aproximación”, es:",
+    "answers": [
+      "a) Aproximación",
+      "b) Radar",
+      "c) Control",
+      "d) Llegadas"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_10_11",
+    "test": "Test 10",
+    "number": 11,
+    "question": "El servicio de control comprende:",
+    "answers": [
+      "a) Control de tierra, control de aproximación, control de radar",
+      "b) Control de área, control de aproximación, control de aeródromo",
+      "c) Control de área, control de zona, control de pista",
+      "d) Control de espacio, control de aproximación, control de aeródromo"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_10_12",
+    "test": "Test 10",
+    "number": 12,
+    "question": "El código SSR 7500 emitido por el transpondedor de una aeronave corresponde al anuncio de:",
+    "answers": [
+      "a) Un fallo de comunicaciones",
+      "b) Una solicitud de establecimiento de contacto radar",
+      "c) Una situación de emergencia",
+      "d) Una situación de apoderamiento ilícito"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_10_13",
+    "test": "Test 10",
+    "number": 13,
+    "question": "Al vuelo bajo control radar en el que se facilita rumbo y velocidad a mantener, se dice que recibe:",
+    "answers": [
+      "a) Orientación radar",
+      "b) Chequeo radar",
+      "c) Separación CTR",
+      "d) Vectores radar"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_10_14",
+    "test": "Test 10",
+    "number": 14,
+    "question": "La abreviatura del servicio que controla el tráfico en el área de maniobras del AD, así como el tráfico en el circuito de tránsito y las entradas y salidas del mismo, es:",
+    "answers": [
+      "a) ACC",
+      "b) TWR",
+      "c) APP",
+      "d) ACT"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_10_15",
+    "test": "Test 10",
+    "number": 15,
+    "question": "Conforme a la categorización de los mensajes radiofónicos, decir qué frase es la correcta:",
+    "answers": [
+      "a) Los mensajes de seguridad en vuelo, tienen una categorización más prioritaria que los mensajes de urgencia",
+      "b) Los mensajes de urgencia tienen más prioridad que cualquier otro mensaje, a excepción de los mensajes de socorro que son los más prioritarios",
+      "c) Los mensajes meteorológicos son los de prioridad más baja",
+      "d) Los mensajes de seguridad en vuelo, tienen una categorización más prioritaria que los mensajes relativos a la radiogoniometría"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_10_16",
+    "test": "Test 10",
+    "number": 16,
+    "question": "En un aeropuerto con control de rodadura, de aeródromo y de aproximación, al entrar en el TMA contactaremos con:",
+    "answers": [
+      "a) Control de operaciones",
+      "b) Control de aeródromo",
+      "c) Control de TMA",
+      "d) Control de aproximación"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_10_17",
+    "test": "Test 10",
+    "number": 17,
+    "question": "El servicio ATC, no contempla:",
+    "answers": [
+      "a) Control de aproximación (APP)",
+      "b) Control de área (ACC)",
+      "c) Control de aeródromo (TWR)",
+      "d) Control de llegadas (ARR)"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_10_18",
+    "test": "Test 10",
+    "number": 18,
+    "question": "La abreviatura AIREP significa:",
+    "answers": [
+      "a) Ruta de servicio de asesoramiento",
+      "b) Servicio de información aeronáutica",
+      "c) Aeronotificación (en forma oral)",
+      "d) Red de telecomunicaciones aeronáuticas"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_10_19",
+    "test": "Test 10",
+    "number": 19,
+    "question": "Si el piloto recibe una notificación de ATC que expresa: \"Notifique condiciones de vuelo\", esta solicitud se refiere:",
+    "answers": [
+      "a) A las condiciones observadas del terreno",
+      "b) A las condiciones meteorológicas (p.ej, ara comprobar que las condiciones se mantienen en VMC)",
+      "c) A las reglas de vuelo (VFR/IFR)",
+      "d) A la duración del vuelo y su alcance"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_10_20",
+    "test": "Test 10",
+    "number": 20,
+    "question": "Las abreviaturas comúnmente en las comunicaciones aeronáuticas (p.ej. QNH), ¿cómo se pronuncian?",
+    "answers": [
+      "a) Usualmente, expresando únicamente las letras que las forman y no mediante el uso del alfabeto de deletreo",
+      "b) Enumerando cada letra que las forman mediante el uso del alfabeto de deletreo",
+      "c) Se pronuncian siempre como palabras completas",
+      "d) Se puede utilizar el alfabeto de deletreo o enunciarlas como palabras completas indistintamente, según criterio del emisor"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_10_21",
+    "test": "Test 10",
+    "number": 21,
+    "question": "Tras haber efectuado la comprobación de la calidad de transmisión, el piloto de UAS procede a la solicitud de autorización de despegue a ATC, en un espacio aéreo no controlado. La frase correcta a emitir por el piloto sería:",
+    "answers": [
+      "a) Solicito información para partir",
+      "b) ¿Puedo despegar?",
+      "c) Solicito información para salida",
+      "d) Solicito información para despegar"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_10_22",
+    "test": "Test 10",
+    "number": 22,
+    "question": "Un mensaje emitido por banda aérea a una estación aeronáutica terrestre que exprese: \"Por favor, contacte con un taxi para recoger al personal de operaciones desplegado\" es un mensaje:",
+    "answers": [
+      "a) Un mensaje de regularidad en vuelo",
+      "b) Un mensaje improcedente u no autorizado",
+      "c) Un mensaje ed seguridad en vuelo",
+      "d) Un mensaje de urgencia"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_10_23",
+    "test": "Test 10",
+    "number": 23,
+    "question": "Diga qué afirmación es correcta respecto a las ondas HF:",
+    "answers": [
+      "a) Las ondas HF se reflejan en la ionosfera",
+      "b) Tienen propagación muy inestable",
+      "c) Mejora su recepción durante las horas diurnas",
+      "d) Se emplean para comunicaciones de muy corto alcance"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_10_24",
+    "test": "Test 10",
+    "number": 24,
+    "question": "¿Cómo debe finalizar un piloto una colación que responda a una instrucción ATC?",
+    "answers": [
+      "a) Con la palabra \"comprendido\"",
+      "b) Con el indicativo de llamada de la estación terrestre",
+      "c) Con la palabra \"recibido\"",
+      "d) Con su distintivo de llamada, después de haber transmitido la colación"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_10_25",
+    "test": "Test 10",
+    "number": 25,
+    "question": "Si debemos contestar \"sí\", expresaremos:",
+    "answers": [
+      "a) Afirmativo",
+      "b) Afirmo/afirma",
+      "c) Sí",
+      "d) Ok"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_10_26",
+    "test": "Test 10",
+    "number": 26,
+    "question": "La autorización: \"Autorizado a aterrizar pista 27\" es:",
+    "answers": [
+      "a) Mensaje de urgencia",
+      "b) Mensaje de regularidad de vuelo",
+      "c) Mensaje de seguridad en vuelo",
+      "d) Mensaje de emergencia"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_10_27",
+    "test": "Test 10",
+    "number": 27,
+    "question": "¿Cuál es la norma actual que regula la certificación en radiofonía para pilotos de UAS en España?",
+    "answers": [
+      "a) La Ley de Navegación Aérea de 1960.",
+      "b) El Reglamento Europeo 2019/947 directamente.",
+      "c) El Real Decreto 1036/2017, de 15 de diciembre.",
+      "d) El Real Decreto 517/2024, de 4 de junio (Artículo 34)."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_10_28",
+    "test": "Test 10",
+    "number": 28,
+    "question": "En las comunicaciones por radio, ¿cómo debe identificarse la estación desde la que el piloto remoto ejerce el control del UAS?",
+    "answers": [
+      "a) Unidad de Control de Mando.",
+      "b) Estación de Control de Tierra (GCS).",
+      "c) Piloto al Mando de UAS.",
+      "d) Estación de Pilotaje Remoto."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_10_29",
+    "test": "Test 10",
+    "number": 29,
+    "question": "Pierdes el control de tu dron (indicativo EC-Dron2) y este inicia el procedimiento automático de vuelta a casa (RTH). ¿Cómo informas a la torre de control?",
+    "answers": [
+      "a) \"Mayday, Mayday, EC-Dron2 fuera de control\"",
+      "b) \"EC-Dron2, Lost Link, ejecutando procedimiento de seguridad hacia punto de despegue a 60 metros\".",
+      "c) \"EC-Dron2, radio fallando, volvemos a casa\"",
+      "d) \"Torre, EC-Dron2, tenemos un problema con el mando, no responde\"."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_10_30",
+    "test": "Test 10",
+    "number": 30,
+    "question": "¿Cuál es la única manera de lograr una total integración de los tránsitos aéreos no tripulados (UAS) con los tripulados en el espacio aéreo europeo?",
+    "answers": [
+      "a) Creando frecuencias de radio exclusivas para pilotos de drones.",
+      "b) Limitando el vuelo de UAS a zonas donde no existan aeronaves tripuladas.",
+      "c) Mediante el empleo estandarizado de fraseología y procedimientos de comunicaciones.",
+      "d) Priorizando siempre las comunicaciones de las aeronaves de mayor tamaño."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_10_31",
+    "test": "Test 10",
+    "number": 31,
+    "question": "Si mientras estás transmitiendo un mensaje de rutina, el controlador te interrumpe con la palabra «BREAK» o «INTERRUPCIÓN», ¿cómo debes actuar?",
+    "answers": [
+      "a) Seguir transmitiendo hasta finalizar tu frase para no perder la idea.",
+      "b) Cambiar de frecuencia porque la actual está saturada.",
+      "c) Dejar de hablar inmediatamente y escuchar el mensaje que sigue.",
+      "d) Responder con la palabra \"COPIADO\" antes de guardar silencio."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_10_32",
+    "test": "Test 10",
+    "number": 32,
+    "question": "En una operación UAS con observadores en espacio aéreo no controlado, ¿cuáles son las tres etapas secuenciales que rigen la comunicación ante la detección de una aeronave tripulada?",
+    "answers": [
+      "a) Ver, Decidir y Actuar.",
+      "b) Identificar, Notificar y Evaluar.",
+      "c) Observar, Posicionar y Continuar.",
+      "d) Detectar, Avisar y Aterrizar."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_01",
+    "test": "Test 11",
+    "number": 1,
+    "question": "Una aeronave con fallo de comunicaciones operando en condiciones meteorológicas de vuelo visual, en un vuelo controlado:",
+    "answers": [
+      "a) Aterrizará inmediatamente y notificará su arribada en un plazo no superior a 30 minutos",
+      "b) Proseguirá su vuelo en condiciones meteorológicas de vuelo visual y aterrizará en el aeródromo adecuado más próximo y notificará su llegada por el medio más rápido a la dependencia apropiada de los servicios de tránsito aéreo",
+      "c) Solicitará pasar a reglas de vuelo instrumentación y apagará la radio después de pasar a IFR",
+      "d) Continuará su vuelo con normalidad y se aproximará al aeropuerto más próximo y encenderá y apagará las luces de navegación"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_02",
+    "test": "Test 11",
+    "number": 2,
+    "question": "Que frase se debe usar para trasmitir el significado de pásame la siguiente información",
+    "answers": [
+      "a) Dígame",
+      "b) Notifique",
+      "c) Repita",
+      "d) Adelante"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_03",
+    "test": "Test 11",
+    "number": 3,
+    "question": "El piloto de UAS recibe las siguientes instrucciones emitidas por el personal AFIS de un AD FIS: “Ruede por calle de rodaje Alfa hasta el punto de espera A1, pista 11, circuito de tráfico por la izquierda.” A este mensaje recibido, el piloto de UAS responderá:",
+    "answers": [
+      "a) Calle de rodaje alfa hasta punto de espera A1 pista 11 circuito de trafico a izquierda no tripulado Wing01",
+      "b) Recibido",
+      "c) Entendido",
+      "d) A1 pista 11"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_04",
+    "test": "Test 11",
+    "number": 4,
+    "question": "Para expresar ESTÁ BIEN, la palabra normalizada que ha de usarse es:",
+    "answers": [
+      "a) Correcto",
+      "b) Bien",
+      "c) Vale",
+      "d) Bueno"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_05",
+    "test": "Test 11",
+    "number": 5,
+    "question": "La técnica de colación permite al personal ATC",
+    "answers": [
+      "a) Distribuir el mismo mensaje para varios destinatarios",
+      "b) Saber que el receptor del mensaje realizara una maniobra de vuelo inmediata",
+      "c) Hablar más rápido",
+      "d) Comprobar que el mensaje ha sido recibido con claridad en su totalidad"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_06",
+    "test": "Test 11",
+    "number": 6,
+    "question": "El piloto de la aeronave ECGAP va a efectuar un chequeo de transmisión radio con la TWR de LEXX en la frecuencia 118.5 ¿Cuál sería la fraseología correcta a utilizar?",
+    "answers": [
+      "a) Torre LEXX chequeo radio 118.5 EC GAP",
+      "b) EC GAP torre LEXX chequeo de radio",
+      "c) Torre LEXX quiero chequear la radio",
+      "d) LEXX torre ECGAP verificación radio en 118,5"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_07",
+    "test": "Test 11",
+    "number": 7,
+    "question": "¿Qué frase es correcta para indicar el significado: \"Ha habido un error en la transmisión, la versión correcta es…\"?",
+    "answers": [
+      "a) NH 1032, corrección QNH 1023",
+      "b) QNH 1032, negativo QNH 1023",
+      "c) QNH 1032, error QNH 1023",
+      "d) QNH 1032, cambio QNH 1023"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_08",
+    "test": "Test 11",
+    "number": 8,
+    "question": "La abreviatura AIC corresponde a:",
+    "answers": [
+      "a) Circular de información aeronáutica",
+      "b) Área de información y control",
+      "c) Clasificación de las áreas de información",
+      "d) Área de cobertura de información"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_09",
+    "test": "Test 11",
+    "number": 9,
+    "question": "En vuelo, el piloto UAS recibe una notificación procedente de ATC que dice: NO TRIPULADO BAT01, Quieres vectores radar? De las siguientes respuestas del piloto de UAS, elige cual es la correcta:",
+    "answers": [
+      "a) Negativo vectores",
+      "b) No vectores, gracias",
+      "c) Recibido, gracias",
+      "d) De momento no, gracias"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_10",
+    "test": "Test 11",
+    "number": 10,
+    "question": "Cuando haya finalizado las condiciones de una comunicación de socorro, y del establecimiento de silencio correspondiente se trasmitirá un mensaje en las frecuencias que se estén utilizando para dicha comunicación, este mensaje dirá:",
+    "answers": [
+      "a) Socorro negativo",
+      "b) No socorro",
+      "c) Cancelada urgencia",
+      "d) Tráfico de socorro terminado"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_11",
+    "test": "Test 11",
+    "number": 11,
+    "question": "Cuando se emplea la expresión cubierto referente a la cantidad de nubes en un informe METAR esta cantidad corresponde a:",
+    "answers": [
+      "a) El 80%",
+      "b) Menos del 50%",
+      "c) El 100%",
+      "d) Más del 50% pero menos del 80%"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_11_12",
+    "test": "Test 11",
+    "number": 12,
+    "question": "Un piloto a distancia recibe el siguiente mensaje de ATC: no tripulado RP04, Los álamos control, cancele instrucción anterior, repito, cancele instrucción anterior, proceda a rumbo 045 grados, mantenga 400 pies en VFR. A esta instrucción, ¿cómo debería responder el piloto remoto?",
+    "answers": [
+      "a) Copiado los álamos control",
+      "b) Comprendido, procedimiento a rumbo 045 grados, manteniendo 400 pies en VFR, no tripulado RP04",
+      "c) Recibido, los álamos control",
+      "d) RP04 cancelando instrucción anterior, los álamos control"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_13",
+    "test": "Test 11",
+    "number": 13,
+    "question": "La oficina de notificación de los servicios de tránsito aéreo se identifica de las siguientes siglas:",
+    "answers": [
+      "a) NSTO",
+      "b) ARO",
+      "c) ONST",
+      "d) ONTA"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_14",
+    "test": "Test 11",
+    "number": 14,
+    "question": "La aeronave con matricula EC CNS ha recibido la instrucción ATC de contactar con Torre de LEXX en la frecuencia 118.7. ¿Cuál es la respuesta correcta indicando que se cumplirá con esa instrucción?",
+    "answers": [
+      "a) Contactare con LEXX",
+      "b) 118.7 EC CNS",
+      "c) EC CNS contactaré",
+      "d) LEXX contacto EC CNS"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_15",
+    "test": "Test 11",
+    "number": 15,
+    "question": "Referente a la dirección y velocidad del viento, la manera correcta de expresar 150 grados, 06 nudos, es:",
+    "answers": [
+      "a) Viento ciento cincuenta grados, seis nudos",
+      "b) Viento uno cinco cero grados, seis nudos",
+      "c) Viento uno cinco cero grados, cero seis nudos",
+      "d) Viento ciento cincuenta grados, cero seis nudos"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_11_16",
+    "test": "Test 11",
+    "number": 16,
+    "question": "Cuando ATC nos diga adelante esto indica",
+    "answers": [
+      "a) Que rodemos",
+      "b) Que despeguemos",
+      "c) Que repitamos el mensaje que acaba de transmitirlos",
+      "d) Que prosigamos con nuestra comunicación"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_17",
+    "test": "Test 11",
+    "number": 17,
+    "question": "Tras haber efectuado la comprobación de la calidad de transmisión, el piloto de UAS procede a la solicitud de autorización de despegue en ATC, en un espacio aéreo no controlado. La frase correcta a emitir por el piloto sería:",
+    "answers": [
+      "a) Solicito información para partir",
+      "b) Solicito información para salida",
+      "c) ¿Puedo despegar?",
+      "d) Solicito información para partir"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_18",
+    "test": "Test 11",
+    "number": 18,
+    "question": "Si fallan todos los intentos de establecer comunicación radio con una estación terrestre, el piloto de una aeronave deberá transmitir un mensaje precedido de la expresión:",
+    "answers": [
+      "a) Comunicado",
+      "b) Transmitiendo a ciegas",
+      "c) Intentando comunicar",
+      "d) Transmitiendo al azar"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_19",
+    "test": "Test 11",
+    "number": 19,
+    "question": "Un UAS de ala fija se dispone a efectuar el aterrizaje en un aeródromo controlado LEXX 10 minutos antes, el piloto contacta con TWR para solicitar instrucciones de aterrizaje, Para ello, un ejemplo adecuado de la fraseología a emplear por el piloto a distancia, será:",
+    "answers": [
+      "a) LEXX Torre, No tripulado Black01, sobre las Navetas, 4 millas al oeste de su zona de control, 400 ft solicito instrucciones de aterrizaje",
+      "b) No tripulado BLACK01 sobre las Navetas, 4 millas al oeste de su zona de control, solicito instrucciones de aterrizaje, Torre LEXX",
+      "c) BLACK 01 para autorización de aterrizaje, LEXX Torre",
+      "d) Black01 , LEXX, solicito instrucciones para aterrizar"
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_20",
+    "test": "Test 11",
+    "number": 20,
+    "question": "¿Qué colacionará el piloto respecto de la instrucción ATC ASCIENDA a FL-35?",
+    "answers": [
+      "a) Ascendiendo a Fox Lima treintaicinco",
+      "b) Ascendiendo a nivel de vuelo tres cinco",
+      "c) Ascendiendo a altitud tres mil cinco cientos",
+      "d) Ascendiendo a foxtrot Lima tres cinco"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_21",
+    "test": "Test 11",
+    "number": 21,
+    "question": "La palabra STANDBY significa:",
+    "answers": [
+      "a) No entendí tu mensaje",
+      "b) Espere",
+      "c) Hable más despacio",
+      "d) Mi mensaje ha terminado"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_22",
+    "test": "Test 11",
+    "number": 22,
+    "question": "En un aeropuerto con control de rodadura de aeródromo y de aproximación al entrar en el TMA contactaremos con:",
+    "answers": [
+      "a) Control de TMA",
+      "b) Control de aeródromo",
+      "c) Control de operaciones",
+      "d) Control de aproximación"
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_23",
+    "test": "Test 11",
+    "number": 23,
+    "question": "¿Qué expresión debe utilizar un piloto de UAS para solicitar al controlador el inicio de la operación de despegue?",
+    "answers": [
+      "a) “PROCEDO A SALIR”",
+      "b) “LISTO PARA DESPEGAR”",
+      "c) “SOLICITO SALIDA”",
+      "d) “SOLICITO DESPEGUE”"
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_11_24",
+    "test": "Test 11",
+    "number": 24,
+    "question": "En espacio aéreo controlado, tras recibir información sobre una aeronave tripulada, ¿cuál es la obligación principal del piloto remoto?",
+    "answers": [
+      "a) Solicitar permiso al observador visual para realizar un descenso.",
+      "b) Proceder según las instrucciones del ATC y colacionarlas.",
+      "c) Cambiar a la frecuencia de emergencia para informar del tráfico.",
+      "d) Decidir la maniobra de evasión más rápida sin esperar al controlador."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_25",
+    "test": "Test 11",
+    "number": 25,
+    "question": "Según la normativa de radiotelefonía (SERA), ¿cómo debe transmitirse por radio una altitud que consista en centenares redondos, como por ejemplo 800 pies?",
+    "answers": [
+      "a) “NIVEL OCHO”",
+      "b) “OCHO CERO CERO PIES”",
+      "c) “OCHO CENTENARES DE PIES”",
+      "d) “OCHOCIENTOS PIES”"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_26",
+    "test": "Test 11",
+    "number": 26,
+    "question": "Durante la comunicación ¿qué palabra se utiliza para separar el indicativo del receptor del indicativo del emisor?",
+    "answers": [
+      "a) \"PARA\"",
+      "b) No se usa ninguna palabra de enlace.",
+      "c) \"DESDE\"",
+      "d) \"AQUÍ\" o \"DE\""
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_27",
+    "test": "Test 11",
+    "number": 27,
+    "question": "Has terminado el trabajo, el dron está en el suelo y apagado. ¿Cuál es el mensaje para liberar el espacio aéreo?",
+    "answers": [
+      "a) \"Torre Sevilla, EC-UAS1, operación finalizada, UA en tierra, motores parados\".",
+      "b) \"EC-UAS1, solicitamos cierre de frecuencia por aterrizaje\".",
+      "c) \"EC-UAS1, dron guardado en la caja\".",
+      "d) \"Torre, EC-UAS1, hemos terminado, gracias\"."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_28",
+    "test": "Test 11",
+    "number": 28,
+    "question": "Estás en el punto de despegue con tu dron (indicativo EC-UAS1) y quieres empezar tu operación en la zona \"Sector Norte\". ¿Cuál es la comunicación correcta para solicitar el inicio?",
+    "answers": [
+      "a) \"Torre Valencia, aquí EC-UAS1, listo para despegar, solicito tránsito a Sector Norte, 100 pies\".",
+      "b) \"Torre, EC-UAS1, despegando ahora hacia el norte\"",
+      "c) \"EC-UAS1, autorizado a despegar por el norte a 100 pies\".",
+      "d) \"EC-UAS1, solicito permiso para subir ahora en el Sector Norte\"."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_29",
+    "test": "Test 11",
+    "number": 29,
+    "question": "¿Qué funciones adicionales realiza el ATC que no realiza el AFIS?",
+    "answers": [
+      "a) El ATC informa e instruye al piloto a distancia.",
+      "b) El ATC se encarga de pilotar el dron de forma remota si hay peligro.",
+      "c) El ATC debe contactar directamente con el observador visual (VO).",
+      "d) El ATC solo observa, no puede dar instrucciones al piloto de UAS."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_30",
+    "test": "Test 11",
+    "number": 30,
+    "question": "En una zona con servicio AFIS, ¿cómo puede el piloto remoto recibir la primera información sobre una aeronave tripulada en las proximidades?",
+    "answers": [
+      "a) Únicamente a través de la detección visual de su propio observador (VO).",
+      "b) Exclusivamente mediante la aplicación móvil de seguimiento de vuelos.",
+      "c) El AFIS nunca informa sobre aeronaves tripuladas, solo gestiona planes de vuelo.",
+      "d) A través de una notificación del AFIS o por la detección directa del observador."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_31",
+    "test": "Test 11",
+    "number": 31,
+    "question": "En las operaciones UAS que requieren radiocomunicaciones, ¿qué figuras pueden coexistir y deben aplicar expresiones particulares según el contexto operativo?",
+    "answers": [
+      "a) El piloto remoto, los observadores visuales (VO) y los observadores del espacio aéreo (AO).",
+      "b) Únicamente el piloto remoto y el controlador aéreo.",
+      "c) Exclusivamente el operador de la empresa y el personal aeroportuario.",
+      "d) Solo el personal de lucha contra incendios (LCI) y emergencias médicas (HEMS)."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_32",
+    "test": "Test 11",
+    "number": 32,
+    "question": "Una vez que el piloto ha procesado la información de tráfico, ¿qué debe comunicar obligatoriamente al AFIS?",
+    "answers": [
+      "a) Sus intenciones (ej: mantenemos posición, descendemos, aterrizamos).",
+      "b) El estado de la batería o autonomía restante del UAS.",
+      "c) La marca y el modelo del dron que está operando.",
+      "d) La identidad y titulación del observador que ha visto el tráfico."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_33",
+    "test": "Test 11",
+    "number": 33,
+    "question": "Tu observador (VO) ve un helicóptero que parece entrar en tu zona de trabajo. ¿Qué debe decirte el observador de forma rápida y clara?",
+    "answers": [
+      "a) \"Hay un helicóptero azul muy cerca de nosotros, aterriza ya\"",
+      "b) \"¡Cuidado, viene un helicóptero por la derecha!\"",
+      "c) \"Helicóptero a la vista, parece que va a pasar lejos\"",
+      "d) \"Tráfico detectado, helicóptero, posición Este, distancia 1 km, bajando\""
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_34",
+    "test": "Test 11",
+    "number": 34,
+    "question": "El controlador te dice: \"EC-UAS1, mantenga posición por tráfico pesado en final\". ¿Cómo debes responder para confirmar que has entendido?",
+    "answers": [
+      "a) \"Recibido, paramos el dron\"",
+      "b) \"Mantenemos posición, EC-UAS1\"",
+      "c) \"Entendido Torre, avisamos cuando veamos al tráfico\"",
+      "d) \"Copiado, esperamos a que pase el avión\""
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_35",
+    "test": "Test 11",
+    "number": 35,
+    "question": "¿Qué expresión debe emplear un piloto remoto para informar al controlador de que el nivel de energía (batería o combustible) del UAS es bajo y requiere prioridad para aterrizar?",
+    "answers": [
+      "a) \"MINIMUM FUEL\" o \"COMBUSTIBLE MÍNIMO\"",
+      "b) \"MAYDAY ENERGY\"",
+      "c) \"BATERÍA BAJA\" o \"LOW BATTERY\"",
+      "d) \"ENERGÍA CRÍTICA\" o \"CRITICAL POWER\""
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_36",
+    "test": "Test 11",
+    "number": 36,
+    "question": "Cuando un piloto remoto necesita trasladar el UA de una zona de trabajo a otra diferente, ¿qué expresión debe utilizar para solicitar el movimiento al controlador?",
+    "answers": [
+      "a) \"SOLICITO DESPLAZAMIENTO VERTICAL\"",
+      "b) \"SOLICITO TRÁNSITO A [DESTINO]\"",
+      "c) \"PROCEDO A NUEVA POSICIÓN\"",
+      "d) \"SOLICITO CAMBIO DE ZONA\""
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_37",
+    "test": "Test 11",
+    "number": 37,
+    "question": "¿Qué acción debe realizar el piloto remoto inmediatamente después de recibir una instrucción del ATC respecto a un tráfico?",
+    "answers": [
+      "a) Colacionar la instrucción e informar a los observadores.",
+      "b) Ejecutarla en silencio para no colapsar la radio.",
+      "c) Anotar la instrucción en el libro de vuelo antes de actuar.",
+      "d) Consultar con otros pilotos en la frecuencia si la instrucción es correcta."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_38",
+    "test": "Test 11",
+    "number": 38,
+    "question": "Una vez que el UAS ha aterrizado y los motores se han detenido, ¿qué expresión debe utilizar el piloto remoto para informar al servicio de control o información?",
+    "answers": [
+      "a) \"LIBRE DE PISTA\"",
+      "b) \"DRON EN TIERRA\"",
+      "c) \"OPERACIÓN FINALIZADA\" u \"OPERACIÓN COMPLETADA\"",
+      "d) \"OPERACIÓN TERMINADA\""
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_11_39",
+    "test": "Test 11",
+    "number": 39,
+    "question": "¿Qué término específico se utiliza en fraseología UAS para informar al controlador de que se ha perdido el enlace de datos entre la estación de control y la aeronave?",
+    "answers": [
+      "a) \"RADIO FAILURE\" o \"FALLO DE RADIO\"",
+      "b) \"LOST LINK\" o \"PÉRDIDA DE ENLACE\"",
+      "c) \"DATA DISCONNECT\" o \"DESCONEXIÓN DE DATOS\"",
+      "d) \"SIGNAL OUT\" o \"SIN SEÑAL\""
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_40",
+    "test": "Test 11",
+    "number": 40,
+    "question": "¿Qué expresión debe utilizar el piloto remoto para confirmar al controlador que el UA se mantendrá en vuelo estacionario en su posición actual?",
+    "answers": [
+      "a) \"STATIONARY FLIGHT\" u \"HOVERING\"",
+      "b) \"MANTENEMOS POSICIÓN\" o \"MAINTAINING POSITION\"",
+      "c) \"ESPERA EN PUNTO\"",
+      "d) \"QUEDAMOS EN PARADO\""
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_41",
+    "test": "Test 11",
+    "number": 41,
+    "question": "Si el observador detecta una aeronave antes que el AFIS, ¿cuál es el procedimiento correcto que debe seguir el piloto remoto?",
+    "answers": [
+      "a) Aterrizar inmediatamente sin informar a nadie para liberar el espacio.",
+      "b) Cambiar de frecuencia para no interferir con la aeronave tripulada detectada.",
+      "c) Ignorar la detección del observador hasta que el AFIS la confirme por radio.",
+      "d) Solicitar información y/o asesoramiento al AFIS sobre dicho tráfico."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_42",
+    "test": "Test 11",
+    "number": 42,
+    "question": "Según el protocolo, ¿cuándo debe el observador clasificar una aeronave detectada como \"ES TRÁFICO\"?",
+    "answers": [
+      "a) Únicamente si la aeronave es un helicóptero de emergencias.",
+      "b) Siempre que se visualice cualquier aeronave en el horizonte.",
+      "c) Cuando la aeronave tripulada ya ha cruzado la vertical del piloto remoto.",
+      "d) Cuando la aeronave tripulada se aproxima a la zona de operaciones UAS (posible conflicto)."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_43",
+    "test": "Test 11",
+    "number": 43,
+    "question": "¿Cuál es el significado técnico exacto de la palabra «RECIBIDO» (o «ROGER») en una comunicación aeronáutica?",
+    "answers": [
+      "a) Que he comprendido la instrucción y voy a cumplirla.",
+      "b) Que el mensaje ha sido escuchado en su totalidad, pero no implica acuerdo ni cumplimiento.",
+      "c) Que solicito permiso para colgar la radio.",
+      "d) Que la comunicación es perfecta (grado 5 de legibilidad)."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_44",
+    "test": "Test 11",
+    "number": 44,
+    "question": "¿Cuál es la razón principal por la que un piloto de UAS debe aplicar los mismos principios de radiotelefonía que un piloto de aviación convencional?",
+    "answers": [
+      "a) Porque ambos comparten el mismo espacio aéreo y las mismas reglas del aire.",
+      "b) Porque los requisitos de información de vuelo son idénticos para drones que para el transporte comercial.",
+      "c) Únicamente por una cuestión estética de protocolo aeronáutico internacional.",
+      "d) Debido a que las aeronaves no tripuladas tienen las mismas masas máximas al despegue (MTOM)."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_45",
+    "test": "Test 11",
+    "number": 45,
+    "question": "¿Cuál es el orden preferente de los elementos que debe contener un mensaje de socorro tras la señal MAYDAY y la identificación de la estación y aeronave?",
+    "answers": [
+      "a) Naturaleza del peligro; intención de la persona al mando; posición actual, nivel y rumbo.",
+      "b) Intención de la persona al mando; posición actual; naturaleza del peligro.",
+      "c) Cualquier información útil; posición actual; intención de la persona al mando.",
+      "d) Posición, nivel y rumbo; intención de la persona al mando; naturaleza del peligro."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_46",
+    "test": "Test 11",
+    "number": 46,
+    "question": "Si una aeronave ha sido autorizada para aterrizar y no lo hace, ¿cuánto tiempo debe transcurrir sin comunicación para que se considere Fase de Alerta (ALERFA)?",
+    "answers": [
+      "a) 30 minutos tras la hora prevista.",
+      "b) 10 minutos desde el último contacto visual.",
+      "c) 5 minutos tras la hora prevista de aterrizaje.",
+      "d) Inmediatamente al perder el contacto radar en la aproximación final."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_11_47",
+    "test": "Test 11",
+    "number": 47,
+    "question": "¿En qué situación técnica se declara la Fase de Peligro (DETRESFA) respecto al funcionamiento de la aeronave?",
+    "answers": [
+      "a) Cuando el funcionamiento no es normal pero la aeronave sigue volando.",
+      "b) Únicamente cuando se confirma que la aeronave se ha quedado sin combustible.",
+      "c) Cuando se reciba información que indique que es probable que la aeronave vaya a efectuar un aterrizaje forzoso.",
+      "d) Cuando el piloto no responde a tres llamadas consecutivas en la frecuencia de emergencia."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_11_48",
+    "test": "Test 11",
+    "number": 48,
+    "question": "¿Qué sucede, según el reglamento, si se sospecha que una aeronave es objeto de interferencia ilícita (por ejemplo, un secuestro)?",
+    "answers": [
+      "a) Se debe esperar 30 minutos para confirmar la falta de comunicación.",
+      "b) Se declara directamente la Fase de Peligro (DETRESFA).",
+      "c) Se declara automáticamente la Fase de Alerta (ALERFA).",
+      "d) Se mantiene en Fase de Incertidumbre hasta que el piloto lo confirme."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_11_49",
+    "test": "Test 11",
+    "number": 49,
+    "question": "¿Por qué motivo principal se debe emitir el mensaje de emergencia en la frecuencia de radio que se esté usando en ese momento (\"frecuencia de trabajo\")?",
+    "answers": [
+      "a) Para evitar que la tripulación tenga que desatender la situación de emergencia por manipular el selector de radio.",
+      "b) Porque es la única frecuencia que tiene alcance legal para comunicaciones UAS.",
+      "c) Debido a que las estaciones ATS solo pueden realizar grabaciones oficiales en las frecuencias de trabajo asignadas.",
+      "d) Porque la frecuencia internacional 121,5 MHz está reservada exclusivamente para vuelos comerciales."
+    ],
+    "correct": 0,
+    "correct_letter": "A"
+  },
+  {
+    "id": "test_11_50",
+    "test": "Test 11",
+    "number": 50,
+    "question": "¿En qué situación se declarará ALERFA basándose en el estado técnico de la aeronave?",
+    "answers": [
+      "a) Cuando se reciba información de que la aeronave va a realizar un aterrizaje forzoso inminente.",
+      "b) Siempre que el piloto declare una situación de \"Urgencia\" (Pan-Pan).",
+      "c) Solo cuando la aeronave haya perdido un motor.",
+      "d) Cuando se informe que el funcionamiento no es normal, pero sin llegar a ser probable un aterrizaje forzoso."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_51",
+    "test": "Test 11",
+    "number": 51,
+    "question": "¿Cuándo debe una aeronave realizar un \"MAYDAY RELAY\"?",
+    "answers": [
+      "a) Cuando queremos cancelar nuestra propia situación de socorro.",
+      "b) Cuando la aeronave en peligro no puede transmitir su propio mensaje y nosotros podemos actuar de puente.",
+      "c) Cuando entramos en una frecuencia nueva y queremos saber si hay emergencias.",
+      "d) Cuando el controlador nos pide que guardemos silencio en la frecuencia."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_52",
+    "test": "Test 11",
+    "number": 52,
+    "question": "¿En qué momento es \"preferible\" repetir tres veces las señales MAYDAY o PAN PAN?",
+    "answers": [
+      "a) Solo cuando el controlador no haya respondido a la primera llamada.",
+      "b) Únicamente en la llamada inicial de socorro o urgencia.",
+      "c) Cuando se vuela en espacio aéreo no controlado (clase G).",
+      "d) En todas y cada una de las transmisiones durante la emergencia."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_53",
+    "test": "Test 11",
+    "number": 53,
+    "question": "Tras la señal PAN PAN y la identificación, ¿cuál es el orden preferente de los elementos que debe incluir un mensaje de urgencia?",
+    "answers": [
+      "a) Posición y rumbo; intención de la persona al mando; naturaleza de la condición.",
+      "b) Cualquier información útil; posición y rumbo; naturaleza de la condición.",
+      "c) Intención de la persona al mando; naturaleza de la condición; posición y nivel.",
+      "d) Naturaleza de la condición; intención de la persona al mando; posición, nivel y rumbo."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_54",
+    "test": "Test 11",
+    "number": 54,
+    "question": "Según la normativa (SERA), ¿qué condición define específicamente al \"tránsito de socorro\"?",
+    "answers": [
+      "a) El fallo total de los sistemas de navegación del UAS en espacio aéreo controlado.",
+      "b) Cualquier comunicación que se realice a través de la frecuencia de emergencia 121.5 MHz.",
+      "c) Estar amenazado por un riesgo serio o inminente y requerir ayuda inmediata.",
+      "d) Una situación que afecta a la seguridad de la aeronave pero no requiere ayuda inmediata."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_11_55",
+    "test": "Test 11",
+    "number": 55,
+    "question": "¿Qué expresión específica debe utilizar la estación aeronáutica para acusar recibo de un mensaje de socorro de forma inmediata?",
+    "answers": [
+      "a) \"MAYDAY RECIBIDO\"",
+      "b) \"COPIADO MAYDAY\"",
+      "c) \"RECIBIDO SOCORRO\"",
+      "d) \"ROGER MAYDAY\""
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_56",
+    "test": "Test 11",
+    "number": 56,
+    "question": "Para poder utilizar legalmente la señal PAN PAN MEDICAL, ¿qué requisito debe cumplir el medio de transporte según el Convenio de Ginebra?",
+    "answers": [
+      "a) Transportar al menos a dos profesionales médicos titulados a bordo.",
+      "b) Estar en una zona de conflicto bélico activo de forma obligatoria.",
+      "c) Ser una aeronave de más de 25kg (MTOM).",
+      "d) Estar destinado exclusivamente al transporte sanitario y bajo el control de una autoridad competente."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_57",
+    "test": "Test 11",
+    "number": 57,
+    "question": "¿Qué frase específica debe transmitir el piloto al mando para anular la condición de peligro una vez resuelto el problema o tras haber aterrizado sin novedad?",
+    "answers": [
+      "a) \"MAYDAY FINALIZADO\" o \"MAYDAY FINISHED\"",
+      "b) \"TRÁFICO DE SOCORRO TERMINADO\" o \"DISTRESS TRAFFIC ENDED\".",
+      "c) \"FRECUENCIA LIBRE\" o \"FREQUENCY CLEAR\"",
+      "d) \"CANCEL SOCORRO\" o \"CANCEL DISTRESS\""
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_58",
+    "test": "Test 11",
+    "number": 58,
+    "question": "En una situación de socorro (MAYDAY), si la aeronave dispone de transpondedor, ¿qué código debe seleccionar el piloto para alertar de forma automática a los servicios radar?",
+    "answers": [
+      "a) 7600",
+      "b) 7700",
+      "c) 2000",
+      "d) 7500"
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_59",
+    "test": "Test 11",
+    "number": 59,
+    "question": "Según el Reglamento de Circulación Aérea, ¿cuándo se declarará la Fase de Incertidumbre (INCERFA) respecto a la falta de comunicación con una aeronave?",
+    "answers": [
+      "a) Solo cuando la aeronave se haya quedado sin combustible según el plan de vuelo.",
+      "b) Cuando hayan pasado 15 minutos desde la última comunicación recibida.",
+      "c) Inmediatamente después de fallar el primer intento de contacto por radio.",
+      "d) Cuando no se reciba comunicación dentro de los 30 minutos siguientes a la hora en que debía haberse recibido."
+    ],
+    "correct": 3,
+    "correct_letter": "D"
+  },
+  {
+    "id": "test_11_60",
+    "test": "Test 11",
+    "number": 60,
+    "question": "En relación con la llegada de una aeronave, se iniciará la fase INCERFA si esta no aterriza:",
+    "answers": [
+      "a) En el mismo instante en que se cumple la hora prevista de llegada.",
+      "b) Dentro de los 30 minutos siguientes a la hora prevista de llegada (ETA) comunicada o calculada.",
+      "c) A los 60 minutos de la hora prevista, siempre que haya dudas sobre su seguridad.",
+      "d) Únicamente si el piloto no ha activado el transpondedor en modo emergencia."
+    ],
+    "correct": 1,
+    "correct_letter": "B"
+  },
+  {
+    "id": "test_11_61",
+    "test": "Test 11",
+    "number": 61,
+    "question": "¿Cuándo pasará una situación de la Fase de Alerta (ALERFA) a la Fase de Peligro (DETRESFA) por falta de noticias?",
+    "answers": [
+      "a) A los 30 minutos de haber declarado la ALERFA si no hay contacto visual.",
+      "b) Solo si el piloto cambia el código transpondedor a 7700.",
+      "c) Cuando, tras nuevas tentativas de comunicación e investigaciones infructuosas, se deduzca que la aeronave está en peligro grave.",
+      "d) Automáticamente cuando pasen 5 minutos desde que se declaró la ALERFA."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_11_62",
+    "test": "Test 11",
+    "number": 62,
+    "question": "Si el controlador impuso silencio de radio con la instrucción \"STOP TRANSMITTING\", ¿quién es el responsable de anunciar que el tráfico de socorro ha terminado y la frecuencia vuelve a la normalidad?",
+    "answers": [
+      "a) El piloto de la aeronave en peligro, diciendo \"CANCEL MAYDAY\".",
+      "b) La autoridad militar de la zona tras revisar el incidente.",
+      "c) La estación aeronáutica que ha controlado la emergencia, mediante la frase \"DISTRESS TRAFFIC ENDED\".",
+      "d) Cualquier aeronave que haya aterrizado a salvo."
+    ],
+    "correct": 2,
+    "correct_letter": "C"
+  },
+  {
+    "id": "test_11_63",
+    "test": "Test 11",
+    "number": 63,
+    "question": "¿Qué expresión debe utilizarse cuando una estación transmite un mensaje de socorro en nombre de otra aeronave que se encuentra en peligro?",
+    "answers": [
+      "a) \"RETRANSMISIÓN SOCORRO\".",
+      "b) \"MAYDAY RELAY\" repetido tres veces.",
+      "c) \"MAYDAY BRIDGE\"",
+      "d) \"MAYDAY MAYDAY\""
+    ],
+    "correct": 1,
+    "correct_letter": "B"
   }
 ]
